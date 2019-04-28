@@ -1,3 +1,4 @@
+$image-path: 'assets';
 .wrap{
   max-width: 1920px;
   height: auto;
@@ -32,8 +33,8 @@
   .headerContent{
     width: 100%;
     height: 300px;
-    // background:url('../header2.png') no-repeat 50% 50%;
-    background:lightgoldenrodyellow;
+    background:url('#{$image-path}/header2.png') no-repeat 50% 50%;
+    // background:lightgoldenrodyellow;
     object-fit: contain;
   }
   .footer{
@@ -79,7 +80,9 @@
     justify-content: center;
     width: 100%;
     min-height: 840px;
-    background:lightblue;
+    // background:lightblue;
+    background: url('#{$image-path}/bg.png');
+    // background-color: #b2b2b2;
     .insideArea{
       width: 70%;
       min-height: 840px;
