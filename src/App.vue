@@ -1,29 +1,51 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="wrap">
+      <div class="blackBar"></div>
+      <div class="breadCrumb">
+        <div>首頁</div>
+        <div>/</div>
+        <div></div>
+      </div>
+      <div class="headerContent"></div>
+      <nav>
+        <ul>
+          <li><router-link :to="'/introduction'">引言</router-link></li>
+          <li><router-link :to="'/idea'">編輯理念與體例說明</router-link></li>
+          <li><router-link :to="'/observed'">年度活動觀察與評介</router-link></li>
+          <li><router-link :to="'/comment'">文化評論</router-link></li>
+          <li><router-link :to="'/videoRecord'">影音記錄</router-link></li>
+          <li><router-link :to="'/indexDir'">索引名錄</router-link></li>
+          <li><router-link :to="'/download'">2018臺灣音樂年鑑全文下載</router-link></li>
+        </ul>
+      </nav>
+      <section class="mainArea">
+        <div class="insideArea">
+          <router-view></router-view>
+        </div>
+      </section>
+      <div  class="footer"></div>
     </div>
-    <router-view/>
+    
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+
+export default {
+  name: "App"
+};
+</script>
+
+<style rel="stylesheet/scss" lang="scss">
+// @import "~bootstrap/scss/bootstrap";
+*{
+  list-style: none;
+  margin: 0 ;
+  padding: 0;
 }
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+a{
+  text-decoration: none;
 }
+@import "./assets/styles/app.scss";
 </style>
