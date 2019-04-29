@@ -43,9 +43,13 @@ export default {
   list-style: none;
   margin: 0 ;
   padding: 0;
+  font-family: '微軟正黑體'
 }
 a{
   text-decoration: none;
+}
+body{
+  background: linear-gradient(to bottom, #BB6400, #FF9100);
 }
 @import "./assets/styles/app.scss";
 </style>
