@@ -1,27 +1,31 @@
 <template>
-  <div class="wrap">
-    <div class="wrapContain">
-      <div class="link">
-        <div>傳統音樂</div>
-        <div v-for="(item, i) in arr_1" :key="i">
-          <div @click="clickLink(item.path)">{{item.name}}</div>
-        </div>
-        <div>藝術（當代創作）音樂</div>
-        <div v-for="(item, i) in arr_2" :key="i">
-          <div @click="clickLink(item.path)">{{item.name}}</div>
-        </div>
-        <div>流行音樂</div>
-        <div>
-          <div @click="clickLink('observed_13')">流行音樂活動觀察與評介</div>
-        </div>
-        <div>跨界音樂</div>
-        <div>
-          <div @click="clickLink('observed_14')">跨界音樂活動觀察與評介</div>
+  <section class="wrapContain">
+    <aside class="linkLeft">
+      <div class="linkGroup">
+        <div class="middleItem">傳統音樂</div>
+        <div v-for="(item) in arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
+          {{item.name}}
         </div>
       </div>
+      <div class="linkGroup">
+        <div class="middleItem">藝術（當代創作）音樂</div>
+        <div class="leafItem" v-for="(item) in arr_2" :key="item.path" @click="clickLink(item.path)">
+          {{item.name}}
+        </div>
+      </div>
+      <div class="linkGroup">
+          <div class="middleItem">流行音樂</div>
+          <div class="leafItem" @click="clickLink('observed_13')">流行音樂活動觀察與評介</div>
+      </div>
+      <div class="linkGroup">
+        <div class="middleItem">跨界音樂</div>
+        <div class="leafItem" @click="clickLink('observed_14')">跨界音樂活動觀察與評介</div>
+      </div>
+    </aside>
+    <div class="viewRight">
       <router-view></router-view>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>

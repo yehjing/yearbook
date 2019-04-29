@@ -1,14 +1,13 @@
 <template>
-  <div class="wrap">
-    引言
-    <div class="wrapContain">
-      <div class="link">
-        <div @click="clickLink('introduction_1')">傳藝中心主任序</div>
-        <div @click="clickLink('introduction_2')">臺音館管主任序</div>
-      </div>
+  <section class="wrapContain">
+    <aside class="linkLeft">
+      <div style="background:#fff" class="middleItem" @click="clickLink('introduction_1')">傳藝中心主任序</div>
+      <div class="middleItem" @click="clickLink('introduction_2')">臺音館管主任序</div>
+    </aside>
+    <div class="viewRight">
       <router-view></router-view>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
@@ -24,7 +23,4 @@ export default {
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scoped>
-// .wrap{
-
-// }
 </style>

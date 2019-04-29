@@ -1,13 +1,12 @@
 <template>
-  <div class="wrap">
-    編輯理念與體例說明
-    <div class="wrapContain">
-      <div class="link">
-        <div @click="clickLink('idea_1')">idea_1</div>
-      </div>
+  <section class="wrapContain">
+    <aside class="linkLeft">
+      <div class="middleItem" @click="clickLink('idea_1')">編輯理念與體例說明</div>
+    </aside>
+    <div class="viewRight">
       <router-view></router-view>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>

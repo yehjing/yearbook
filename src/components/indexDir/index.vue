@@ -1,14 +1,13 @@
 <template>
-  <div class="wrap">
-    索引名錄
-    <div class="wrapContain">
-      <div class="link">
-        <div @click="clickLink('indexDir_1')">音樂活動</div>
-        <div @click="clickLink('indexDir_2')">團體與個人</div>
-      </div>
+  <section class="wrapContain">
+    <aside class="linkLeft">
+      <div class="middleItem" @click="clickLink('indexDir_1')">音樂活動</div>
+      <div class="middleItem" @click="clickLink('indexDir_2')">團體與個人</div>
+    </aside>
+    <div class="viewRight">
       <router-view></router-view>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
