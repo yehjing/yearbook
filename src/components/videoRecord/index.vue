@@ -28,12 +28,17 @@
     </aside>
     <div class="viewRight">
       <router-view></router-view>
+      <Share></Share>
     </div>
   </section>
 </template>
 
 <script>
+import Share from './../share.vue';
 export default {
+  components:{
+    Share
+  },
   data() {
     return {
       arr_1:[

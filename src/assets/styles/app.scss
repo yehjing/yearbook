@@ -78,6 +78,9 @@ $image-path: 'assets';
         font-size:1.2rem;
         font-weight: bold;
         background: linear-gradient(to bottom, rgba(199, 199, 199, 0.5), rgba(250, 250, 250, 0.5));
+        &.active{
+          background: #fff;
+        }
       }
       .leafItem{
         position: relative;

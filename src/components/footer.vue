@@ -46,7 +46,7 @@ export default {
   .footerLeft{
     display: flex;
     justify-content: flex-end;
-    flex:1.5;
+    flex:1.4;
     padding-right:30px;
     border-right: 1px solid #fff;
     img{

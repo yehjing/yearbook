@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable camelcase */
 /* eslint-disable import/extensions */
 import Vue from 'vue';
@@ -60,6 +61,11 @@ Vue.use(VueRouter);
 export default new VueRouter({
   routes: [
     {
+      path: '*',
+      redirect: '/introduction',
+      hidden: true,
+    },
+    {
       name: '引言',
       path: '/introduction',
       component: Introduction,
@@ -82,7 +88,8 @@ export default new VueRouter({
       component: Idea,
       children: [
         {
-          path: 'idea_1',
+          name: '編輯理念與體例說明',
+          path: '/',
           component: Idea_1,
         },
       ],
@@ -265,7 +272,7 @@ export default new VueRouter({
       children: [
         {
           name: '音樂活動',
-          path: 'indexDir_1',
+          path: '/',
           component: IndexDir_1,
         },
         {
@@ -281,7 +288,8 @@ export default new VueRouter({
       component: Download,
       children: [
         {
-          path: 'download_1',
+          path: '/',
+          name: '2018臺灣音樂年鑑全文下載',
           component: Download_1,
         },
       ],

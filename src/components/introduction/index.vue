@@ -1,7 +1,7 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div style="background:#fff" class="middleItem" @click="clickLink('')">
+      <div class="middleItem active" @click="clickLink('')">
         傳藝中心主任序
       </div>
       <div class="middleItem" @click="clickLink('introduction_2')">
@@ -20,6 +20,10 @@ import Share from './../share.vue';
 export default {
   components:{
     Share
+  },
+  data() {
+    return{
+      }
   },
   created() {
   },
