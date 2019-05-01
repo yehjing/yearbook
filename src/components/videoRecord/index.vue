@@ -2,19 +2,28 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div class="linkGroup">
-        <div class="middleItem">傳統音樂</div>
+        <div class="middleItem">
+          <span>傳統音樂</span> 
+          <img src="./../../assets/arrowDown.png" alt="">          
+        </div>
         <div class="leafItem" v-for="item in arr_1" :key="item.path" @click="clickLink(item.path)">
           {{item.name}}
         </div>
       </div>
       <div class="linkGroup">
-        <div class="middleItem">藝術（當代創作）音樂</div>
+        <div class="middleItem">
+          <span>藝術（當代創作）音樂</span>
+          <img src="./../../assets/arrowDown.png" alt="">          
+        </div>
         <div class="leafItem" v-for="item in arr_2" :key="item.path" @click="clickLink(item.path)">
           {{item.name}}
         </div>
       </div>
       <div class="linkGroup">
-        <div class="middleItem" @click="clickLink('videoRecord_13')">流行音樂</div>
+        <div class="middleItem" @click="clickLink('videoRecord_13')">
+          <span>流行音樂</span>
+          <!-- <img src="./../../assets/arrowDown.png" alt="">           -->
+        </div>
       </div>
     </aside>
     <div class="viewRight">

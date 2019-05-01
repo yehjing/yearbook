@@ -1,26 +1,40 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="linkGroup">
-        <div class="middleItem">傳統音樂</div>
-        <div v-for="(item) in arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
+      <div v-for="(link,index) in arr" :key="index" class="linkGroup">
+        <div @click="openMenu(link)" class="middleItem">
+          <span>{{link.name}}</span>
+          <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
+          <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">         
+        </div>
+        <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
           {{item.name}}
         </div>
       </div>
-      <div class="linkGroup">
-        <div class="middleItem">藝術（當代創作）音樂</div>
+      <!-- <div class="linkGroup">
+        <div @click="openMenu" class="middleItem">
+          <span>藝術（當代創作）音樂</span>  
+          <img v-if="!isOpen" src="./../../assets/arrowDown.png" alt="">          
+          <img v-if="isOpen" src="./../../assets/arrowUp.png" alt="">            
+        </div>
         <div class="leafItem" v-for="(item) in arr_2" :key="item.path" @click="clickLink(item.path)">
           {{item.name}}
         </div>
       </div>
       <div class="linkGroup">
-          <div class="middleItem">流行音樂</div>
-          <div class="leafItem" @click="clickLink('observed_13')">流行音樂活動觀察與評介</div>
+        <div @click="openMenu" class="middleItem">
+          <span>流行音樂</span>
+          <img src="./../../assets/arrowDown.png" alt="">          
+        </div>
+        <div class="leafItem" @click="clickLink('observed_13')">流行音樂活動觀察與評介</div>
       </div>
       <div class="linkGroup">
-        <div class="middleItem">跨界音樂</div>
+        <div @click="openMenu" class="middleItem">
+          <span>跨界音樂</span>
+          <img src="./../../assets/arrowDown.png" alt="">          
+        </div>
         <div class="leafItem" @click="clickLink('observed_14')">跨界音樂活動觀察與評介</div>
-      </div>
+      </div> -->
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -32,63 +46,101 @@
 export default {
   data() {
     return {
-      arr_1:[
+      arr:[
         {
-          name: '南管音樂活動觀察與評介',
-          path: 'observed_1',
+          name: '傳統音樂',
+          path: 'observed',
+          arr_1:[
+            {
+              name: '南管音樂活動觀察與評介',
+              path: 'observed_1',
+            },
+            {
+              name: '北管音樂活動觀察與評介',
+              path: 'observed_2',
+            },
+            {
+              name: '福佬歌謠活動觀察與評介',
+              path: 'observed_3',
+            },
+            {
+              name: '客家音樂活動觀察與評介',
+              path: 'observed_4',
+            },
+            {
+              name: '泰雅族、賽夏族、阿美族、卑南族音樂活動觀察與評介',
+              path: 'observed_5',
+            },
+            {
+              name: '邵族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
+              path: 'observed_6',
+            },
+            {
+              name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂活動觀察與評介',
+              path: 'observed_7',
+            },
+            {
+              name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂活動觀察與評介',
+              path: 'observed_8',
+            },
+            {
+              name: '佛釋教音樂活動觀察與評介',
+              path: 'observed_9',
+            },
+            {
+              name: '道法教音樂活動觀察與評介',
+              path: 'observed_10',
+            }
+          ],
+          isOpen:true
         },
         {
-          name: '北管音樂活動觀察與評介',
-          path: 'observed_2',
+          name:'藝術（當代創作）音樂',
+          path: 'observed',
+          arr_1:[
+            {
+              name: '國樂活動觀察與評介',
+              path: 'observed_11',
+            },
+            {
+              name: '西樂及混合編制活動觀察與評介',
+              path: 'observed_12',
+            }
+          ],
+          isOpen:false
         },
         {
-          name: '福佬歌謠活動觀察與評介',
-          path: 'observed_3',
+          name:'流行音樂',
+          path: 'observed',
+          arr_1:[
+            {
+              name: '流行音樂活動觀察與評介',
+              path: 'observed_13',
+            },
+          ],
+          isOpen:false
         },
         {
-          name: '客家音樂活動觀察與評介',
-          path: 'observed_4',
+          name:'跨界音樂',
+          path: 'observed',
+          arr_1:[
+            {
+              name: '跨界音樂活動觀察與評介',
+              path: 'observed_14',
+            }
+          ],
+          isOpen:false
         },
-        {
-          name: '泰雅族、賽夏族、阿美族、卑南族音樂活動觀察與評介',
-          path: 'observed_5',
-        },
-        {
-          name: '邵族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
-          path: 'observed_6',
-        },
-        {
-          name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂活動觀察與評介',
-          path: 'observed_7',
-        },
-        {
-          name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂活動觀察與評介',
-          path: 'observed_8',
-        },
-        {
-          name: '佛釋教音樂活動觀察與評介',
-          path: 'observed_9',
-        },
-        {
-          name: '道法教音樂活動觀察與評介',
-          path: 'observed_10',
-        }
       ],
-      arr_2:[
-        {
-          name: '國樂活動觀察與評介',
-          path: 'observed_11',
-        },
-        {
-          name: '西樂及混合編制活動觀察與評介',
-          path: 'observed_12',
-        }
-      ]
+      // isOpen:false
     };
   },
   methods: {
     clickLink (data) {
       this.$router.push(`/observed/${data}`)
+    },
+    openMenu(link){
+      link.isOpen = !link.isOpen
     }
   }
 };

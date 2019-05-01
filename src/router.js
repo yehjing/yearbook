@@ -66,11 +66,11 @@ export default new VueRouter({
       children: [
         {
           name: '傳藝中心主任序',
-          path: 'introduction_1',
+          path: '/',
           component: Introduction_1,
         },
         {
-          name: '臺音館管主任序',
+          name: '臺音館館主任序',
           path: 'introduction_2',
           component: Introduction_2,
         },
@@ -171,7 +171,7 @@ export default new VueRouter({
       children: [
         {
           name: '2018年潭灣傳統音樂文化與生態論述',
-          path: 'comment_1',
+          path: '/',
           component: Comment_1,
         },
         {
