@@ -119,6 +119,9 @@ $image-path: 'assets';
       padding: 70px 75px;
       background: #fff;
       box-shadow: 5px 7px 6px 0 rgba(0, 0, 0, 0.16);
+      .contentImg{
+        width: 100%;
+      }
       p{
         margin-bottom: 20px;
         &.firstRow{

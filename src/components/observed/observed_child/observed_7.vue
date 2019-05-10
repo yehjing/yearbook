@@ -1,5 +1,5 @@
 <template>
     <div>
-        observed_7
+        observed_7 表格
     </div>
 </template>
