@@ -117,6 +117,8 @@ $image-path: 'assets';
       line-height: 1.5;
       width: 78%;
       min-height: 720px;
+      max-height: 1100px;
+      overflow: auto;
       padding: 70px 75px;
       background: #fff;
       box-shadow: 5px 7px 6px 0 rgba(0, 0, 0, 0.16);
