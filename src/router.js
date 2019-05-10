@@ -101,7 +101,7 @@ export default new VueRouter({
       children: [
         {
           name: '南管音樂活動觀察與評介',
-          path: 'Observed_1',
+          path: '/',
           component: Observed_1,
         },
         {
@@ -200,7 +200,7 @@ export default new VueRouter({
       children: [
         {
           name: '南營音樂',
-          path: 'videoRecord_1',
+          path: '/',
           component: VideoRecord_1,
         },
         {

@@ -1,26 +1,31 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="linkGroup">
-        <div class="middleItem">
-          <span>傳統音樂</span> 
-          <img src="./../../assets/arrowDown.png" alt="">          
+      <div v-for="(link,index) in arr" :key="index" class="linkGroup">
+        <div @click="openMenu(link)" class="middleItem">
+          <span>{{link.name}}</span>
+          <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
+          <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">
         </div>
-        <div class="leafItem" v-for="item in arr_1" :key="item.path" @click="clickLink(item.path)">
+        <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
           {{item.name}}
         </div>
       </div>
-      <div class="linkGroup">
+      <!-- <div class="linkGroup">
         <div class="middleItem">
           <span>藝術（當代創作）音樂</span>
-          <img src="./../../assets/arrowDown.png" alt="">          
+          <img src="./../../assets/arrowDown.png" alt>
         </div>
-        <div class="leafItem" v-for="item in arr_2" :key="item.path" @click="clickLink(item.path)">
-          {{item.name}}
-        </div>
-      </div>
+        <div
+          class="leafItem"
+          v-for="item in arr_2"
+          :key="item.path"
+          @click="clickLink(item.path)"
+        >{{item.name}}</div>
+      </div> -->
+
       <div class="linkGroup">
-        <div class="middleItem" @click="clickLink('videoRecord_13')">
+        <div :class="activeName === 'videoRecord_13' ? 'active' :''" class="middleItem" @click="clickLink('videoRecord_13')">
           <span>流行音樂</span>
           <!-- <img src="./../../assets/arrowDown.png" alt="">           -->
         </div>
@@ -34,70 +39,89 @@
 </template>
 
 <script>
-import Share from './../share.vue';
+import Share from "./../share.vue";
 export default {
-  components:{
+  components: {
     Share
   },
   data() {
     return {
-      arr_1:[
+      activeName:'',
+      arr: [
         {
-          name: '南營音樂',
-          path: 'videoRecord_1'
+          name: "傳統音樂",
+          path: "videoRecord",
+          arr_1: [
+            {
+              name: "南營音樂",
+              path: ""
+            },
+            {
+              name: "北營音樂",
+              path: "videoRecord_2"
+            },
+            {
+              name: "福佬歌謠",
+              path: "videoRecord_3"
+            },
+            {
+              name: "客家音樂",
+              path: "videoRecord_4"
+            },
+            {
+              name: "泰雅族、賽夏族、阿美族、卑南族音樂",
+              path: "videoRecord_5"
+            },
+            {
+              name: "邵族、鄒族、撒奇萊雅族、達悟族音樂",
+              path: "videoRecord_6"
+            },
+            {
+              name: "排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂",
+              path: "videoRecord_7"
+            },
+            {
+              name: "賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂",
+              path: "videoRecord_8"
+            },
+            {
+              name: "佛釋教音樂",
+              path: "videoRecord_9"
+            },
+            {
+              name: "道法教音樂",
+              path: "videoRecord_10"
+            }
+          ],
+          isOpen: true
         },
         {
-          name: '北營音樂',
-          path: 'videoRecord_2'
-        },
-        {
-          name: '福佬歌謠',
-          path: 'videoRecord_3'
-        },
-        {
-          name: '客家音樂',
-          path: 'videoRecord_4'
-        },
-        {
-          name: '泰雅族、賽夏族、阿美族、卑南族音樂',
-          path: 'videoRecord_5'
-        },
-        {
-          name: '邵族、鄒族、撒奇萊雅族、達悟族音樂',
-          path: 'videoRecord_6'
-        },
-        {
-          name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂',
-          path: 'videoRecord_7'
-        },
-        {
-          name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂',
-          path: 'videoRecord_8'
-        },
-        {
-          name: '佛釋教音樂',
-          path: 'videoRecord_9'
-        },
-        {
-          name: '道法教音樂',
-          path: 'videoRecord_10'
+          name:'藝術（當代創作）音樂',
+          path:'videoRecord',
+          arr_1: [
+            {
+              name: "國樂",
+              path: "videoRecord_11"
+            },
+            {
+              name: "西樂及混合編制",
+              path: "videoRecord_12"
+            }
+          ],
+          isOpen:false
         }
       ],
-      arr_2:[
-        {
-          name: '國樂',
-          path: 'videoRecord_11'
-        },
-        {
-          name: '西樂及混合編制',
-          path: 'videoRecord_12'
-        }
-      ]
+
+      
     };
   },
   methods: {
-    clickLink (data) {
-      this.$router.push(`/videoRecord/${data}`)
+    clickLink(data) {
+      this.activeName = data
+      this.$router.push(`/videoRecord/${data}`);
+    },
+    openMenu(link){
+      link.isOpen = !link.isOpen
     }
   }
 };

@@ -1,9 +1,9 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem" @click="clickLink('')">2018年潭灣傳統音樂文化與生態論述</div>
-      <div class="middleItem" @click="clickLink('comment_2')">2018年潭灣藝術（當代創作）音樂文化與生態論述</div>
-      <div class="middleItem" @click="clickLink('comment_3')">2018年潭灣流行及跨界音樂文化與生態論述</div>
+      <div class="middleItem" :class="activeName === '' ? 'active' :''"  @click="clickLink('')">2018年潭灣傳統音樂文化與生態論述</div>
+      <div class="middleItem" :class="activeName === 'comment_2' ? 'active' :''"  @click="clickLink('comment_2')">2018年潭灣藝術（當代創作）音樂文化與生態論述</div>
+      <div class="middleItem" :class="activeName === 'comment_3' ? 'active' :''"  @click="clickLink('comment_3')">2018年潭灣流行及跨界音樂文化與生態論述</div>
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -20,10 +20,12 @@ export default {
   },
   data() {
     return {
+      activeName:''
     };
   },
   methods: {
     clickLink (data) {
+      this.activeName = data
       this.$router.push(`/comment/${data}`)
     }
   }

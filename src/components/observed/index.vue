@@ -58,7 +58,7 @@ export default {
           arr_1:[
             {
               name: '南管音樂活動觀察與評介',
-              path: 'observed_1',
+              path: '',
             },
             {
               name: '北管音樂活動觀察與評介',

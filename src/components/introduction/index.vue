@@ -1,10 +1,10 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem active" @click="clickLink('')">
+      <div class="middleItem" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
         傳藝中心主任序
       </div>
-      <div class="middleItem" @click="clickLink('introduction_2')">
+      <div class="middleItem" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
         臺音館館主任序
       </div>
     </aside>
@@ -23,12 +23,14 @@ export default {
   },
   data() {
     return{
-      }
+      activeName:''
+    }
   },
   created() {
   },
   methods: {
     clickLink(data) {
+      this.activeName = data
       this.$router.push(`/introduction/${data}`);
     },
   },

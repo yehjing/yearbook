@@ -1,8 +1,8 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem" @click="clickLink('')">音樂活動</div>
-      <div class="middleItem" @click="clickLink('indexDir_2')">團體與個人</div>
+      <div :class="activeName === '' ? 'active' :''" class="middleItem" @click="clickLink('')">音樂活動</div>
+      <div :class="activeName === 'indexDir_2' ? 'active' :''" class="middleItem" @click="clickLink('indexDir_2')">團體與個人</div>
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -19,10 +19,12 @@ export default {
   },
   data() {
     return {
+      activeName:''
     };
   },
   methods: {
     clickLink (data) {
+      this.activeName = data
       this.$router.push(`/indexDir/${data}`)
     }
   }
