@@ -2,8 +2,8 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div v-for="(link,index) in arr" :key="index" class="linkGroup">
-        <div @click="openMenu(link)" class="middleItem">
-          <span>{{link.name}}</span>
+        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link)" class="middleItem">
+          <span >{{link.name}}</span>
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">         
         </div>

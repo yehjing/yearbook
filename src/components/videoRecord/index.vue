@@ -2,7 +2,7 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div v-for="(link,index) in arr" :key="index" class="linkGroup">
-        <div @click="openMenu(link)" class="middleItem">
+        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link),clickLink('xx')" class="middleItem">
           <span>{{link.name}}</span>
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">
@@ -118,7 +118,9 @@ export default {
   methods: {
     clickLink(data) {
       this.activeName = data
-      this.$router.push(`/videoRecord/${data}`);
+      if(data !== 'xx'){
+        this.$router.push(`/videoRecord/${data}`);
+      }
     },
     openMenu(link){
       link.isOpen = !link.isOpen

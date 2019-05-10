@@ -177,17 +177,17 @@ export default new VueRouter({
       component: Comment,
       children: [
         {
-          name: '2018年潭灣傳統音樂文化與生態論述',
+          name: '2018年臺灣傳統音樂文化與生態論述',
           path: '/',
           component: Comment_1,
         },
         {
-          name: '2018年潭灣藝術（當代創作）音樂文化與生態論述',
+          name: '2018年臺灣藝術（當代創作）音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
         {
-          name: '2018年潭灣流行及跨界音樂文化與生態論述',
+          name: '2018年臺灣流行及跨界音樂文化與生態論述',
           path: 'comment_3',
           component: Comment_3,
         },

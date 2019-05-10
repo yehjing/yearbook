@@ -1,11 +1,11 @@
 <template>
   <div class="breadCrumb">
     <div>
-      <span>首頁 / </span>
+      <span>首頁&nbsp;&nbsp; / &nbsp;&nbsp;</span>
       <span v-for="(item,index) in bread" :key="item.path">
         <router-link :to="item.path">{{item.name}}</router-link>
         <!-- {{item.name}} -->
-        <span v-if="item.name && index !== bread.length - 1"> / </span>
+        <span v-if="item.name && index !== bread.length - 1">&nbsp;&nbsp; / &nbsp;&nbsp;</span>
       </span>
     </div>
   </div>
