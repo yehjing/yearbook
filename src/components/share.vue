@@ -11,17 +11,19 @@ export default {
   name:'Share',
   data() {
     return {
+      baseUrl:'https://yehjing.github.io/yearbook/dist/#'
     }
   },
   methods: {
     shareToFb(){
-      location.href=`https://www.facebook.com/sharer/sharer.php?u=https://www.hexschool.com/2016/01/02/2016-08-08-em-vs-rem/`
+      console.log(this.$route)
+      location.href=`https://www.facebook.com/sharer/sharer.php?u=${this.baseUrl}${this.$route.path}`
     },
     shareToTwitter(){
-      location.href=`https://twitter.com/intent/tweet?url=https://www.hexschool.com/2016/01/02/2016-08-08-em-vs-rem/`
+      location.href=`https://twitter.com/intent/tweet?url=${this.baseUrl}${this.$route.path}`
     },
     shareToGoogle(){
-      location.href=`https://plus.google.com/share?url=https://www.hexschool.com/2016/01/02/2016-08-08-em-vs-rem/`
+      location.href=`https://plus.google.com/share?url=${this.baseUrl}${this.$route.path}`
     }
   }
 };
