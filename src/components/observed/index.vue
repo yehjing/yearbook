@@ -2,13 +2,13 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div v-for="(link,index) in arr" :key="index" class="linkGroup">
-        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link)" class="middleItem">
+        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link,index)" class="middleItem">
           <span >{{link.name}}</span>
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">         
         </div>
-        <div class="customMenu" :class="'leafItem'+index">
-          <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path"  class="leafItem" @click="clickLink(item.path)">
+        <div :class="'customMenu'+index">
+          <div v-for="item in link.arr_1" :key="item.path"  class="leafItem" @click="clickLink(item.path)">
             {{item.name}}
           </div>
         </div>
@@ -53,6 +53,7 @@ export default {
   },
   data() {
     return {
+      activeName:'',
       arr:[
         {
           name: '傳統音樂',
@@ -146,8 +147,64 @@ export default {
     clickLink (data) {
       this.$router.push(`/observed/${data}`)
     },
-    openMenu(link){
-      link.isOpen = !link.isOpen
+    openMenu(link,index){
+        let dom0 = document.querySelector('.customMenu0')
+        let dom1 = document.querySelector('.customMenu1')
+        let dom2 = document.querySelector('.customMenu2')
+        let dom3 = document.querySelector('.customMenu3')
+        // if(link.isOpen){
+        //   link.isOpen = false
+        // }
+      if(index === 0){
+        if(this.arr[0]['isOpen']){
+          this.arr[0]['isOpen'] = false
+          dom0.classList.add('ex')
+        }else{
+          this.arr[0]['isOpen'] = !this.arr[0]['isOpen']
+          this.arr[1]['isOpen'] = false
+          this.arr[2]['isOpen'] = false
+          this.arr[3]['isOpen'] = false
+          dom0.classList.remove('ex')
+          dom0.classList.toggle('show0')
+          dom1.classList.remove('show1')
+          dom2.classList.remove('show2')
+          dom3.classList.remove('show3')
+        }
+      }else if(index ===1){
+        // dom1.previousSibling.classList.toggle('active')
+        this.arr[1]['isOpen'] = !this.arr[1]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[2]['isOpen'] = false
+        this.arr[3]['isOpen'] = false
+        dom1.classList.toggle('show1')
+        dom0.classList.remove('show0')
+        dom2.classList.remove('show2')
+        dom3.classList.remove('show3')
+        dom0.classList.add('ex')
+      }else if(index ===2){
+        this.arr[2]['isOpen'] = !this.arr[2]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[1]['isOpen'] = false
+        this.arr[3]['isOpen'] = false
+        // dom2.previousSibling.classList.toggle('active')
+        dom2.classList.toggle('show2')
+        dom0.classList.remove('show0')
+        dom1.classList.remove('show1')
+        dom3.classList.remove('show3')
+        dom0.classList.add('ex')
+      }else if(index ===3){
+        this.arr[3]['isOpen'] = !this.arr[3]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[2]['isOpen'] = false
+        this.arr[1]['isOpen'] = false
+        // dom3.previousSibling.classList.toggle('active')
+        dom3.classList.toggle('show3')
+        dom0.classList.remove('show0')
+        dom2.classList.remove('show2')
+        dom1.classList.remove('show1')
+        dom0.classList.add('ex')
+      }
+      // link.isOpen = !link.isOpen
     }
   }
 };
@@ -155,25 +212,31 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-.customMenu{
+// .wrapContain{
+  
+//   transition:all 10s;
+// }
+.customMenu0,.customMenu1,.customMenu2,.customMenu3{
   height: 0;
   overflow: hidden;
-  transition: 1s;
-  &.leafItem0{
-    transition: 1s;
-    height: auto;
+  transition:height .5s;
+  &.show0{
+    height: 800px;
   }
-  &.leafItem1{
-    transition: 1s;
-    height: auto;
+  &.show1{
+    height: 160px;
   }
-  &.leafItem2{
-    transition: 1s;
-    height: auto;
+  &.show2{
+    height: 80px;
   }
-  &.leafItem3{
-    transition: 1s;
-    height: auto;
+  &.show3{
+    height: 80px;
+  }
+}
+.customMenu0{
+  height: 800px;
+  &.ex{
+    height: 0;
   }
 }
 </style>

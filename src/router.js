@@ -224,7 +224,7 @@ export default new VueRouter({
           component: VideoRecord_5,
         },
         {
-          name: '邵族、鄒族、撒奇萊雅族、達悟族音樂',
+          name: '太魯閣族、鄒族、撒奇萊雅族、達悟族音樂',
           path: 'videoRecord_6',
           component: VideoRecord_6,
         },
@@ -234,7 +234,7 @@ export default new VueRouter({
           component: VideoRecord_7,
         },
         {
-          name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂',
+          name: '賽德克族、邵族、布農族、噶瑪蘭族音樂',
           path: 'videoRecord_8',
           component: VideoRecord_8,
         },

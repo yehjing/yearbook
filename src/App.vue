@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="wrap">
-      <!-- <div class="blackBar"></div> -->
+      <SearchBar></SearchBar>
       <BreadCrumb></BreadCrumb>
       <div class="headerContent"></div>
       <nav>
@@ -27,11 +27,13 @@
 </template>
 
 <script>
-import Footer from './components/footer'
+import SearchBar from './components/searchBar'
 import BreadCrumb from './components/breadCrumb'
+import Footer from './components/footer'
 export default {
   name: "App",
   components:{
+    SearchBar,
     BreadCrumb,
     Footer
   },

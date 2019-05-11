@@ -5,11 +5,6 @@ $image-path: 'assets';
   .wrapContain{
     display: flex;
   }
-  .blackBar{
-    width: 100%;
-    height: 50px;
-    background: #000;
-  }
   .headerContent{
     width: 100%;
     height: 300px;
@@ -117,7 +112,7 @@ $image-path: 'assets';
       line-height: 1.5;
       width: 78%;
       min-height: 720px;
-      max-height: 1100px;
+      max-height: 1000px;
       // overflow: auto;
       padding: 70px 55px;
       background: #fff;
@@ -128,19 +123,19 @@ $image-path: 'assets';
       >div{
       &::-webkit-scrollbar-track
         {
-          -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-          background-color: #F5F5F5;
+          -webkit-box-shadow: inset 0 0 6px #fff;
+          background-color: #fff;
         }
 
         &::-webkit-scrollbar
         {
           width: 6px;
-          background-color: #F5F5F5;
+          background-color: #fff;
         }
 
         &::-webkit-scrollbar-thumb
         {
-          background-color: #bbb;
+          background-color: #ccc;
         }
         &:first-child{
           overflow: auto;
@@ -155,9 +150,21 @@ $image-path: 'assets';
       }
       .title{
         display:flex;
-        align-items: center;
+        align-items: flex-end;
         justify-content:space-between;
         margin-bottom:30px;
+        span{
+          display: flex;
+          justify-content: flex-end;
+          align-items: flex-end;
+          min-width: 80px;
+        }
+      }
+      table{
+        width: 100%;
+        td{
+          padding: 2px 6px;
+        }
       }
     }
   }
