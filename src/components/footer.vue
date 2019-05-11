@@ -10,7 +10,7 @@
     </div>
     <div class="footerRight">
       <div class="text">
-        <p>今日訪客：6,540人 / 訪客總計：8,216,938人 / 內容更新：108-04-02.</p>
+        <p>今日訪客：{{today}} 人 &nbsp;/&nbsp; 訪客總計：{{total}} 人 &nbsp;/&nbsp; 內容更新：108-05-11</p>
       </div>
     </div>
   </section>
@@ -21,7 +21,18 @@ export default {
   name:'Footer',
   data() {
     return {
+      total:'',
+      today:''
     }
+  },
+  mounted() {
+    // 訪客統計
+    // https://sitestates.com/admin/get_code/js_text/13a82a5e8979dd19ace7ef8ad1134f24
+    this.total = document.querySelectorAll('.sitestatesJs')[0].textContent.replace('Total:','')
+    this.today = document.querySelectorAll('.sitestatesJs')[1].textContent.replace('Today:','')
+    document.querySelectorAll('.sitestatesJs').forEach(el => {
+      el.style.display = 'none'
+    });
   },
   methods: {
   }
@@ -30,6 +41,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
+.sitestatesJs {
+ 	display: block;
+ 	padding: 3px;
+}
 .footer{
   // width: 100%;
   height: 126px;
