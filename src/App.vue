@@ -3,7 +3,9 @@
     <div class="wrap">
       <SearchBar></SearchBar>
       <BreadCrumb></BreadCrumb>
-      <div class="headerContent"></div>
+      <div class="headerContent">
+        <!-- <img src="./assets/header2.jpg" alt=""> -->
+      </div>
       <nav>
         <ul>
           <li><router-link :to="'/introduction'">引言</router-link></li>
