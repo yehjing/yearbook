@@ -1,9 +1,10 @@
 <template>
   <section class="searchBar">
-    <input class="blackBar" type="text" placeholder="搜尋">
+    <!-- <input class="blackBar" type="text" placeholder="搜尋"> -->
     <div class="searchIcon">
       <img src="./../assets/search.png" alt="">
     </div>
+    <gcse:search></gcse:search>
   </section>
 </template>
 
@@ -21,6 +22,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
+
 .searchBar{
     // width: 100%;
     display: flex;

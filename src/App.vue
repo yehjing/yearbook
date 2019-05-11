@@ -43,10 +43,11 @@ export default {
      */
     const { NODE_ENV } = process.env;
     document.documentElement.className = NODE_ENV;
+
+    document.getElementById('gsc-i-id1').setAttribute('placeholder','搜尋')
   }
 };
 </script>
-
 <style rel="stylesheet/scss" lang="scss">
 // @import "~bootstrap/scss/bootstrap";
 *{
@@ -60,6 +61,42 @@ a{
 }
 body{
   background: linear-gradient(to bottom, #BB6400, #FF9100);
+}
+#___gcse_0 {
+  position: relative;
+  width: 270px;
+  height: 27px;
+  // padding: 5px 15px;
+  background: #fff;
+  border: none;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.gsc-control-cse ,.gsc-control-cse-zh-TW{
+  padding: 0 !important;
+}
+.gsib_a,#gs_tti50{
+  padding: 0 15px;
+}
+.gsc-search-button, .gsc-search-button-v2{
+  // width: 60px;
+  // padding: 6px 13px;
+  background: #fff;
+  &:hover{
+    cursor: pointer;
+  }
+  &:focus{
+    outline: none;
+  }
+}
+#gsc-i-id1{
+  background: #fff !important;
+  width: 110% !important;
+  text-indent:0 !important;
+}
+#gs_st50{
+  display: none;
 }
 @import "./assets/styles/app.scss";
 </style>
