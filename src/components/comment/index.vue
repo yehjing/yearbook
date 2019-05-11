@@ -34,7 +34,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-// .wrap{
-
-// }
+.middleItem{
+  font-size: .9rem !important;
+}
 </style>

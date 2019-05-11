@@ -35,6 +35,7 @@ export default {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  padding-top: 10px;
   img{
     margin-right: 10px;
   }

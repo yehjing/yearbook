@@ -7,8 +7,10 @@
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">         
         </div>
-        <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
-          {{item.name}}
+        <div class="customMenu" :class="'leafItem'+index">
+          <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path"  class="leafItem" @click="clickLink(item.path)">
+            {{item.name}}
+          </div>
         </div>
       </div>
       <!-- <div class="linkGroup">
@@ -77,7 +79,7 @@ export default {
               path: 'observed_5',
             },
             {
-              name: '邵族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
+              name: '太魯閣族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
               path: 'observed_6',
             },
             {
@@ -85,7 +87,7 @@ export default {
               path: 'observed_7',
             },
             {
-              name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂活動觀察與評介',
+              name: '賽德克族、邵族、布農族、噶瑪蘭族音樂活動觀察與評介',
               path: 'observed_8',
             },
             {
@@ -153,7 +155,25 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-// .wrap{
-
-// }
+.customMenu{
+  height: 0;
+  overflow: hidden;
+  transition: 1s;
+  &.leafItem0{
+    transition: 1s;
+    height: auto;
+  }
+  &.leafItem1{
+    transition: 1s;
+    height: auto;
+  }
+  &.leafItem2{
+    transition: 1s;
+    height: auto;
+  }
+  &.leafItem3{
+    transition: 1s;
+    height: auto;
+  }
+}
 </style>
