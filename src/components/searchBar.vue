@@ -1,7 +1,8 @@
 <template>
   <section class="searchBar">
-    <div class="blackBar">
-
+    <input class="blackBar" type="text" placeholder="搜尋">
+    <div class="searchIcon">
+      <img src="./../assets/search.png" alt="">
     </div>
   </section>
 </template>
@@ -29,10 +30,24 @@ export default {
     height: 50px;
     background: #000;
     .blackBar{
-      width: 300px;
-      height: 30px;
+      position: relative;
+      width: 270px;
+      height: 16px;
+      padding: 5px 15px;
       background: #fff;
-      border-radius: 20px；
+      border: none;
+      border-radius: 20px;
+      overflow: hidden;
+      &:focus{
+        outline: none;
+      }
+    }
+    .searchIcon{
+      position: absolute;
+      right: 35px;
+      &:hover{
+        cursor: pointer;
+      }
     }
   }
 </style>
