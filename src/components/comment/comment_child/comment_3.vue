@@ -491,7 +491,7 @@
       <p>台灣時代文化藝術基金會（始於2014）。台灣流行音樂維基館。http://www.tpmw.org.tw/index.php/%E9%A6%96%E9%A0%81（最後瀏覽日期2019/02/10）</p>
       <p>臺北市音樂展演空間。http://www.livehouse.taipei/臺北市音樂展演空間。http://www.livehouse.taipei/</p>
       <p>杭之（2016/8/30）。笨蛋 問題在有沒有文化。蘋果日報。https://tw.appledaily.com/new/realtime/20160830/938294/（最後瀏覽日期2019/02/10）</p>
-      <p>吳正忠（2015/12/26）。商業就是遜，非主流才酷？資深音樂人談台灣獨立樂團潮流：觀眾「沒受到邀請」都沒用。關鍵評論網。https://webcache.googleusercontent.com/search?q=cache:q4UUYX10dEUJ:https://www.thenewslens.com/article/33125+&amp;cd=1&amp;hl=zh-TW&amp;ct=clnk&amp;gl=tw&amp;client=firefox-b</p>
+      <!-- <p>吳正忠（2015/12/26）。商業就是遜，非主流才酷？資深音樂人談台灣獨立樂團潮流：觀眾「沒受到邀請」都沒用。關鍵評論網。https://webcache.googleusercontent.com/search?q=cache:q4UUYX10dEUJ:https://www.thenewslens.com/article/33125+&amp;cd=1&amp;hl=zh-TW&amp;ct=clnk&amp;gl=tw&amp;client=firefox-b</p> -->
       <p>広小路の浅原栄陽堂、創業100周年（2015/10/04）。十勝每日新聞。https://kachimai.jp/article/index.php?no=317083</p>
     </div>
   </div>
