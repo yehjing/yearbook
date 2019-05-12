@@ -32,10 +32,12 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
 .share{
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  padding-top: 10px;
+  display: block;
+  // display: flex;
+  // justify-content: flex-end;
+  // align-items: center;
+  text-align: right;
+  margin-top: 10px;
   img{
     margin-right: 10px;
   }
