@@ -73,7 +73,7 @@ export default {
               path: "videoRecord_5"
             },
             {
-              name: "邵族、鄒族、撒奇萊雅族、達悟族音樂",
+              name: "邵族、鄒族、撒奇萊雅族、雅美（達悟）族音樂",
               path: "videoRecord_6"
             },
             {

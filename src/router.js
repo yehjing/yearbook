@@ -125,7 +125,7 @@ export default new VueRouter({
           component: Observed_5,
         },
         {
-          name: '邵族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介',
+          name: '太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族音樂活動觀察與評介',
           path: 'Observed_6',
           component: Observed_6,
         },
@@ -135,7 +135,7 @@ export default new VueRouter({
           component: Observed_7,
         },
         {
-          name: '賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂活動觀察與評介',
+          name: '邵族、布農族、噶瑪蘭、賽德克族音樂活動觀察與評介',
           path: 'Observed_8',
           component: Observed_8,
         },
