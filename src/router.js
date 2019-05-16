@@ -51,6 +51,26 @@ import VideoRecord_13 from '@/components/videoRecord/video_child/video_13';
 import IndexDir from '@/components/indexDir';
 import IndexDir_1 from '@/components/indexDir/indexDir_child/indexDir_1';
 import IndexDir_2 from '@/components/indexDir/indexDir_child/indexDir_2';
+import IndexDir_3 from '@/components/indexDir/indexDir_child/indexDir_3';
+import IndexDir_4 from '@/components/indexDir/indexDir_child/indexDir_4';
+import IndexDir_5 from '@/components/indexDir/indexDir_child/indexDir_5';
+import IndexDir_6 from '@/components/indexDir/indexDir_child/indexDir_6';
+import IndexDir_7 from '@/components/indexDir/indexDir_child/indexDir_7';
+import IndexDir_8 from '@/components/indexDir/indexDir_child/indexDir_8';
+import IndexDir_9 from '@/components/indexDir/indexDir_child/indexDir_9';
+import IndexDir_10 from '@/components/indexDir/indexDir_child/indexDir_10';
+import IndexDir_11 from '@/components/indexDir/indexDir_child/indexDir_11';
+import IndexDir_12 from '@/components/indexDir/indexDir_child/indexDir_12';
+import IndexDir_13 from '@/components/indexDir/indexDir_child/indexDir_13';
+import IndexDir_14 from '@/components/indexDir/indexDir_child/indexDir_14';
+import IndexDir_15 from '@/components/indexDir/indexDir_child/indexDir_15';
+import IndexDir_16 from '@/components/indexDir/indexDir_child/indexDir_16';
+import IndexDir_17 from '@/components/indexDir/indexDir_child/indexDir_17';
+import IndexDir_18 from '@/components/indexDir/indexDir_child/indexDir_18';
+import IndexDir_19 from '@/components/indexDir/indexDir_child/indexDir_19';
+import IndexDir_20 from '@/components/indexDir/indexDir_child/indexDir_20';
+import IndexDir_21 from '@/components/indexDir/indexDir_child/indexDir_21';
+import IndexDir_22 from '@/components/indexDir/indexDir_child/indexDir_22';
 // download
 import Download from '@/components/download';
 import Download_1 from '@/components/download/download_child/download_1';
@@ -125,7 +145,7 @@ export default new VueRouter({
           component: Observed_5,
         },
         {
-          name: '太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族音樂活動觀察與評介',
+          name: '太魯閣族、鄒族、撒奇萊雅族、雅美(達悟)族音樂活動觀察與評介',
           path: 'Observed_6',
           component: Observed_6,
         },
@@ -182,7 +202,7 @@ export default new VueRouter({
           component: Comment_1,
         },
         {
-          name: '2018年臺灣藝術（當代創作）音樂文化與生態論述',
+          name: '2018年臺灣藝術(當代創作)音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
@@ -270,15 +290,125 @@ export default new VueRouter({
       path: '/indexDir',
       component: IndexDir,
       children: [
+        // {
+        //   name: '音樂活動',
+        //   path: '/',
+        //   component: IndexDir_1,
+        // },
+        // {
+        //   name: '團體與個人',
+        //   path: 'indexDir_2',
+        //   component: IndexDir_2,
+        // },
         {
-          name: '音樂活動',
+          name: '南管音樂',
           path: '/',
           component: IndexDir_1,
         },
         {
-          name: '團體與個人',
-          path: 'indexDir_2',
+          name: '北管音樂',
+          path: 'IndexDir_2',
           component: IndexDir_2,
+        },
+        {
+          name: '福佬歌謠',
+          path: 'IndexDir_3',
+          component: IndexDir_3,
+        },
+        {
+          name: '客家音樂',
+          path: 'IndexDir_4',
+          component: IndexDir_4,
+        },
+        {
+          name: '原住民音樂',
+          path: 'IndexDir_5',
+          component: IndexDir_5,
+        },
+        {
+          name: '佛、釋教音樂',
+          path: 'IndexDir_6',
+          component: IndexDir_6,
+        },
+        {
+          name: '道、法教音樂',
+          path: 'IndexDir_7',
+          component: IndexDir_7,
+        },
+        {
+          name: '國樂',
+          path: 'IndexDir_8',
+          component: IndexDir_8,
+        },
+        {
+          name: '西樂及混和編制',
+          path: 'IndexDir_9',
+          component: IndexDir_9,
+        },
+        {
+          name: '流行音樂',
+          path: 'IndexDir_10',
+          component: IndexDir_10,
+        },
+        {
+          name: '綜合型藝術節',
+          path: 'IndexDir_11',
+          component: IndexDir_11,
+        },
+        {
+          name: '南管音樂',
+          path: 'IndexDir_12',
+          component: IndexDir_12,
+        },
+        {
+          name: '北管音樂',
+          path: 'IndexDir_13',
+          component: IndexDir_13,
+        },
+        {
+          name: '福佬歌謠',
+          path: 'IndexDir_14',
+          component: IndexDir_14,
+        },
+        {
+          name: '客家音樂',
+          path: 'IndexDir_15',
+          component: IndexDir_15,
+        },
+        {
+          name: '原住民音樂',
+          path: 'IndexDir_16',
+          component: IndexDir_16,
+        },
+        {
+          name: '佛、釋教音樂',
+          path: 'IndexDir_17',
+          component: IndexDir_17,
+        },
+        {
+          name: '道、法教音樂',
+          path: 'IndexDir_18',
+          component: IndexDir_18,
+        },
+        {
+          name: '國樂',
+          path: 'IndexDir_19',
+          component: IndexDir_19,
+        },
+        {
+          name: '西樂及混合編制',
+          path: 'IndexDir_20',
+          component: IndexDir_20,
+        },
+        {
+          name: '流行音樂',
+          path: 'IndexDir_21',
+          component: IndexDir_21,
+        },
+        {
+          name: '跨界樂團',
+          path: 'IndexDir_22',
+          component: IndexDir_22,
         },
       ],
     },

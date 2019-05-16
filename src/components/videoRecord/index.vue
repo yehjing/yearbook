@@ -13,7 +13,7 @@
       </div>
       <!-- <div class="linkGroup">
         <div class="middleItem">
-          <span>藝術（當代創作）音樂</span>
+          <span>藝術(當代創作)音樂</span>
           <img src="./../../assets/arrowDown.png" alt>
         </div>
         <div
@@ -73,7 +73,7 @@ export default {
               path: "videoRecord_5"
             },
             {
-              name: "邵族、鄒族、撒奇萊雅族、雅美（達悟）族音樂",
+              name: "邵族、鄒族、撒奇萊雅族、雅美(達悟)族音樂",
               path: "videoRecord_6"
             },
             {
@@ -96,7 +96,7 @@ export default {
           isOpen: true
         },
         {
-          name:'藝術（當代創作）音樂',
+          name:'藝術(當代創作)音樂',
           path:'videoRecord',
           arr_1: [
             {

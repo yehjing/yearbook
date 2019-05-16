@@ -2,7 +2,7 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div class="middleItem" :class="activeName === '' ? 'active' :''"  @click="clickLink('')">2018年臺灣傳統音樂文化與生態論述</div>
-      <div class="middleItem" :class="activeName === 'comment_2' ? 'active' :''"  @click="clickLink('comment_2')">2018年臺灣藝術（當代創作）音樂文化與生態論述</div>
+      <div class="middleItem" :class="activeName === 'comment_2' ? 'active' :''"  @click="clickLink('comment_2')">2018年臺灣藝術(當代創作)音樂文化與生態論述</div>
       <div class="middleItem" :class="activeName === 'comment_3' ? 'active' :''"  @click="clickLink('comment_3')">2018年臺灣流行及跨界音樂文化與生態論述</div>
     </aside>
     <div class="viewRight">

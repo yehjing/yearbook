@@ -15,7 +15,7 @@
       </div>
       <!-- <div class="linkGroup">
         <div @click="openMenu" class="middleItem">
-          <span>藝術（當代創作）音樂</span>  
+          <span>藝術(當代創作)音樂</span>  
           <img v-if="!isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="isOpen" src="./../../assets/arrowUp.png" alt="">            
         </div>
@@ -53,7 +53,7 @@ export default {
   },
   data() {
     return {
-      activeName:'',
+      // activeName:'',
       arr:[
         {
           name: '傳統音樂',
@@ -80,7 +80,7 @@ export default {
               path: 'observed_5',
             },
             {
-              name: '太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族音樂活動觀察與評介',
+              name: '太魯閣族、鄒族、撒奇萊雅族、雅美(達悟)族音樂活動觀察與評介',
               path: 'observed_6',
             },
             {
@@ -103,7 +103,7 @@ export default {
           isOpen:true
         },
         {
-          name:'藝術（當代創作）音樂',
+          name:'藝術(當代創作)音樂',
           path: 'observed',
           arr_1:[
             {
