@@ -9,7 +9,7 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>時間</th>
+          <th style="width:15%">時間</th>
           <th>活動名稱</th>
           <th>活動內容</th>
           <th>主辦/承辦</th>

@@ -150,8 +150,7 @@
       ？這些都是值得集思廣益，必須邀請產、學、業者一起來思考與討論的問題。
     </p>
     <h4>二、獎補助</h4>
-    <small>1.天下雜誌2018-10-04網路新聞，陳一姍報導。https://www.cw.com.tw/article/article.action?id=5092354(最後瀏覽日期2019/02/10)</small>
-    <small>2 見2019年1月10日中時電子報，記者邱莉玲報導。https://www.chinatimes.com/realtimenews/20190110004249-260410(最後瀏覽日期2019/02/10)</small>
+    
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       臺灣本身的流行音樂市場規模雖然不大，不過不可諱言地，即使在今日龐
       大的中國市場，以及亞洲國家中發展最早最成熟的日本市場，還有近年來迅速
@@ -494,5 +493,7 @@
       <!-- <p>吳正忠(2015/12/26)。商業就是遜，非主流才酷？資深音樂人談台灣獨立樂團潮流：觀眾「沒受到邀請」都沒用。關鍵評論網。https://webcache.googleusercontent.com/search?q=cache:q4UUYX10dEUJ:https://www.thenewslens.com/article/33125+&amp;cd=1&amp;hl=zh-TW&amp;ct=clnk&amp;gl=tw&amp;client=firefox-b</p> -->
       <p>広小路の浅原栄陽堂、創業100周年(2015/10/04)。十勝每日新聞。https://kachimai.jp/article/index.php?no=317083</p>
     </div>
+    <small>1.天下雜誌2018-10-04網路新聞，陳一姍報導。https://www.cw.com.tw/article/article.action?id=5092354(最後瀏覽日期2019/02/10)</small>
+    <small>2 見2019年1月10日中時電子報，記者邱莉玲報導。https://www.chinatimes.com/realtimenews/20190110004249-260410(最後瀏覽日期2019/02/10)</small>
   </div>
 </template>

@@ -56,7 +56,7 @@ export default {
   list-style: none;
   margin: 0 ;
   padding: 0;
-  font-family: 'Times New Roman','微軟正黑體'
+  font-family: '微軟正黑體'
 }
 a{
   text-decoration: none;

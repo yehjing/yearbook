@@ -36,63 +36,12 @@ export default {
       activeName:'',
       arr:[
         {
-          name: '音樂活動',
-          path: 'indexDir',
-          arr_1:[
-            {
-              name: '南管音樂',
-              path: '',
-            },
-            {
-              name: '北管音樂',
-              path: 'indexDir_2',
-            },
-            {
-              name: '福佬歌謠',
-              path: 'indexDir_3',
-            },
-            {
-              name: '客家音樂',
-              path: 'indexDir_4',
-            },
-            {
-              name: '原住民音樂',
-              path: 'indexDir_5',
-            },
-            {
-              name: '佛、釋教音樂',
-              path: 'indexDir_6',
-            },
-            {
-              name: '道、法教音樂',
-              path: 'indexDir_7',
-            },
-            {
-              name: '國樂',
-              path: 'indexDir_8',
-            },
-            {
-              name: '西樂及混和編制',
-              path: 'indexDir_9',
-            },
-            {
-              name: '流行音樂',
-              path: 'indexDir_10',
-            },
-            {
-              name: '綜合型藝術節',
-              path: 'indexDir_11',
-            }
-          ],
-          isOpen:true
-        },
-        {
           name:'團體與個人',
           path: 'indexDir',
           arr_1:[
             {
               name: '南管音樂',
-              path: 'indexDir_12',
+              path: '',
             },
             {
               name: '北管音樂',
@@ -134,6 +83,57 @@ export default {
               name: '跨界樂團',
               path: 'indexDir_22',
             },
+          ],
+          isOpen:true
+        },
+        {
+          name: '音樂活動',
+          path: 'indexDir',
+          arr_1:[
+            {
+              name: '南管音樂',
+              path: 'indexDir_1',
+            },
+            {
+              name: '北管音樂',
+              path: 'indexDir_2',
+            },
+            {
+              name: '福佬歌謠',
+              path: 'indexDir_3',
+            },
+            {
+              name: '客家音樂',
+              path: 'indexDir_4',
+            },
+            {
+              name: '原住民音樂',
+              path: 'indexDir_5',
+            },
+            {
+              name: '佛、釋教音樂',
+              path: 'indexDir_6',
+            },
+            {
+              name: '道、法教音樂',
+              path: 'indexDir_7',
+            },
+            {
+              name: '國樂',
+              path: 'indexDir_8',
+            },
+            {
+              name: '西樂及混和編制',
+              path: 'indexDir_9',
+            },
+            {
+              name: '流行音樂',
+              path: 'indexDir_10',
+            },
+            {
+              name: '綜合型藝術節',
+              path: 'indexDir_11',
+            }
           ],
           isOpen:false
         },

@@ -303,61 +303,6 @@ export default new VueRouter({
         {
           name: '南管音樂',
           path: '/',
-          component: IndexDir_1,
-        },
-        {
-          name: '北管音樂',
-          path: 'IndexDir_2',
-          component: IndexDir_2,
-        },
-        {
-          name: '福佬歌謠',
-          path: 'IndexDir_3',
-          component: IndexDir_3,
-        },
-        {
-          name: '客家音樂',
-          path: 'IndexDir_4',
-          component: IndexDir_4,
-        },
-        {
-          name: '原住民音樂',
-          path: 'IndexDir_5',
-          component: IndexDir_5,
-        },
-        {
-          name: '佛、釋教音樂',
-          path: 'IndexDir_6',
-          component: IndexDir_6,
-        },
-        {
-          name: '道、法教音樂',
-          path: 'IndexDir_7',
-          component: IndexDir_7,
-        },
-        {
-          name: '國樂',
-          path: 'IndexDir_8',
-          component: IndexDir_8,
-        },
-        {
-          name: '西樂及混和編制',
-          path: 'IndexDir_9',
-          component: IndexDir_9,
-        },
-        {
-          name: '流行音樂',
-          path: 'IndexDir_10',
-          component: IndexDir_10,
-        },
-        {
-          name: '綜合型藝術節',
-          path: 'IndexDir_11',
-          component: IndexDir_11,
-        },
-        {
-          name: '南管音樂',
-          path: 'IndexDir_12',
           component: IndexDir_12,
         },
         {
@@ -409,6 +354,61 @@ export default new VueRouter({
           name: '跨界樂團',
           path: 'IndexDir_22',
           component: IndexDir_22,
+        },
+        {
+          name: '南管音樂',
+          path: 'IndexDir_1',
+          component: IndexDir_1,
+        },
+        {
+          name: '北管音樂',
+          path: 'IndexDir_2',
+          component: IndexDir_2,
+        },
+        {
+          name: '福佬歌謠',
+          path: 'IndexDir_3',
+          component: IndexDir_3,
+        },
+        {
+          name: '客家音樂',
+          path: 'IndexDir_4',
+          component: IndexDir_4,
+        },
+        {
+          name: '原住民音樂',
+          path: 'IndexDir_5',
+          component: IndexDir_5,
+        },
+        {
+          name: '佛、釋教音樂',
+          path: 'IndexDir_6',
+          component: IndexDir_6,
+        },
+        {
+          name: '道、法教音樂',
+          path: 'IndexDir_7',
+          component: IndexDir_7,
+        },
+        {
+          name: '國樂',
+          path: 'IndexDir_8',
+          component: IndexDir_8,
+        },
+        {
+          name: '西樂及混和編制',
+          path: 'IndexDir_9',
+          component: IndexDir_9,
+        },
+        {
+          name: '流行音樂',
+          path: 'IndexDir_10',
+          component: IndexDir_10,
+        },
+        {
+          name: '綜合型藝術節',
+          path: 'IndexDir_11',
+          component: IndexDir_11,
         },
       ],
     },
