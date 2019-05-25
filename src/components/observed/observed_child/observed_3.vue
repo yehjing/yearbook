@@ -31,18 +31,18 @@
     <b>(一)活動主題</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年有關「福佬系歌謠」的觀察，共有66個活動主題(表1)。表1中「展演」表「展演活動」、「推廣」表「推廣教育」、「傳習」表「傳習活動」、「交流」表「國際與兩岸交流」、「政策」表「文化政策」。</p>
 
-    <p>表1：2018年福佬系歌謠之活動主題</p>
+    <span>表1：2018年福佬系歌謠之活動主題</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td></td>
-        <td>活動主題</td>
-        <td>日期</td>
-        <td>地點</td>
-        <td>展演</td>
-        <td>推廣</td>
-        <td>傳習</td>
-        <td>交流</td>
-        <td>政策</td>
+        <td style="width:6%"></td>
+        <td class="tableCenter">活動主題</td>
+        <td class="tableCenter">日期</td>
+        <td class="tableCenter">地點</td>
+        <td class="tableCenter">展演</td>
+        <td class="tableCenter">推廣</td>
+        <td class="tableCenter">傳習</td>
+        <td class="tableCenter">交流</td>
+        <td class="tableCenter">政策</td>
       </tr>
       <tr>
         <td>1</td>
@@ -782,168 +782,169 @@
         <td></td>
       </tr>
     </table>
+    <br>
 
     <b>(二)活動時間</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年有關福佬系歌謠之觀察，共有66個活動主題，69場次。其中傳習與文物展，不論活動時間長短，均以一場次計，如序號1、5、35；同活動主題，不同時間，則分場次計，如序號28、58；同活動主題，分2場，各重播1次，以2場計，如序號3。故表2中，共69場次。其中以11月份的14次最多，後依序為9月份的10次、10月份的9次等。主要集中在9、10、11月。而光簡上仁設計、擔綱、主持、主講的場次就多達35場(表1序號2、6、7、9、11、12、14、15、17、18、19、20、21、24、26、29、30、31、33、38、39、41、42、43、46、47、48、51、54、57、60、61、62、63、65)，約佔51%，超過半數。其中民視臺灣學堂《Formosa音樂廳》從第1-15集，自09/12-12/19每週半小時分別以不同的主題呈現。</p>
 
-    <p>表2：2018年福佬系歌謠之活動時間與場次</p>
+    <span>表2：2018年福佬系歌謠之活動時間與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td>月份</td>
-        <td>一</td>
-        <td>二</td>
-        <td>三</td>
-        <td>四</td>
-        <td>五</td>
-        <td>六</td>
-        <td>七</td>
-        <td>八</td>
-        <td>九</td>
-        <td>十</td>
-        <td>十一</td>
-        <td>十二</td>
+        <td class="tableCenter">月份</td>
+        <td class="tableCenter">一</td>
+        <td class="tableCenter">二</td>
+        <td class="tableCenter">三</td>
+        <td class="tableCenter">四</td>
+        <td class="tableCenter">五</td>
+        <td class="tableCenter">六</td>
+        <td class="tableCenter">七</td>
+        <td class="tableCenter">八</td>
+        <td class="tableCenter">九</td>
+        <td class="tableCenter">十</td>
+        <td class="tableCenter">十一</td>
+        <td class="tableCenter">十二</td>
       </tr>
       <tr>
-        <td>場次</td>
-        <td>2</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-        <td>8</td>
-        <td>6</td>
-        <td>2</td>
-        <td>6</td>
-        <td>10</td>
-        <td>9</td>
-        <td>14</td>
-        <td>6</td>
+        <td class="tableCenter">場次</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">3</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">8</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">10</td>
+        <td class="tableCenter">9</td>
+        <td class="tableCenter">14</td>
+        <td class="tableCenter">6</td>
       </tr>
       <tr>
-        <td>合計</td>
-        <td colspan="12">69</td>
+        <td class="tableCenter">合計</td>
+        <td class="tableCenter" colspan="12">69</td>
       </tr>
     </table>
-
+    <br>
     <b>(三)活動地點</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年有關福佬系歌謠活動地點的觀察，如表3，雖有66個活動主題，但有68個地點，因表1序號28、58各有2場，但演出地點不同。臺灣除宜蘭、苗栗、南投、彰化、雲林及離島外，各縣市都有，其中以臺北最多，次為基隆，再次為屏東。臺北、基隆場次多，可能與觀察者地緣有關而有較多的觀察。恆春是福佬系傳統民謠的重鎮，因此屏東縣也有較多的活動。電視臺方面，光民視臺灣臺《Formosa音樂廳》就佔了15個之多。</p>
 
-    <p>表3：2018年福佬系歌謠的活動地點與場次</p>
+    <span>表3：2018年福佬系歌謠的活動地點與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td>地區</td>
-        <td>電視臺</td>
-        <td>基隆</td>
-        <td>臺北</td>
-        <td>新北</td>
-        <td>桃園</td>
-        <td>新竹</td>
-        <td>臺中</td>
-        <td>嘉義</td>
-        <td>臺南</td>
-        <td>高雄</td>
-        <td>屏東</td>
-        <td>花蓮</td>
-        <td>臺東</td>
-        <td>澎湖</td>
-        <td>中國</td>
+        <td class="tableCenter">地區</td>
+        <td class="tableCenter">電視臺</td>
+        <td class="tableCenter">基隆</td>
+        <td class="tableCenter">臺北</td>
+        <td class="tableCenter">新北</td>
+        <td class="tableCenter">桃園</td>
+        <td class="tableCenter">新竹</td>
+        <td class="tableCenter">臺中</td>
+        <td class="tableCenter">嘉義</td>
+        <td class="tableCenter">臺南</td>
+        <td class="tableCenter">高雄</td>
+        <td class="tableCenter">屏東</td>
+        <td class="tableCenter">花蓮</td>
+        <td class="tableCenter">臺東</td>
+        <td class="tableCenter">澎湖</td>
+        <td class="tableCenter">中國</td>
       </tr>
       <tr>
-        <td>場次</td>
-        <td>17</td>
-        <td>8</td>
-        <td>12</td>
-        <td>5</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-        <td>4</td>
-        <td>3</td>
-        <td>7</td>
-        <td>1</td>
-        <td>3</td>
-        <td>1</td>
-        <td>2</td>
+        <td class="tableCenter">場次</td>
+        <td class="tableCenter">17</td>
+        <td class="tableCenter">8</td>
+        <td class="tableCenter">12</td>
+        <td class="tableCenter">5</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">4</td>
+        <td class="tableCenter">3</td>
+        <td class="tableCenter">7</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">3</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">2</td>
       </tr>
       <tr>
-        <td>合計</td>
-        <td colspan="15">68</td>
+        <td class="tableCenter">合計</td>
+        <td class="tableCenter" colspan="15">68</td>
       </tr>
     </table>
-
+    <br>
     <b>(四)活動性質</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表1中知，2018年福佬系歌謠的活動性質如下(表4)：</p>
 
-    <p>表4：2018年福佬系歌謠的活動性質與場次</p>
+    <span>表4：2018年福佬系歌謠的活動性質與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td></td>
-        <td>演出性質</td>
-        <td>場次</td>
+        <td class="tableCenter">演出性質</td>
+        <td class="tableCenter">場次</td>
       </tr>
       <tr>
-        <td>1</td>
+        <td class="tableCenter">1</td>
         <td>展演活動</td>
-        <td>21</td>
+        <td class="tableCenter">21</td>
       </tr>
       <tr>
-        <td>2</td>
+        <td class="tableCenter">2</td>
         <td>推廣教育</td>
-        <td>9</td>
+        <td class="tableCenter">9</td>
       </tr>
       <tr>
-        <td>3</td>
+        <td class="tableCenter">3</td>
         <td>傳習活動</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
-        <td>4</td>
+        <td class="tableCenter">4</td>
         <td>國際與兩岸交流</td>
-        <td>2</td>
+        <td class="tableCenter">2</td>
       </tr>
       <tr>
-        <td>5</td>
+        <td class="tableCenter">5</td>
         <td>文化政策</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
-        <td>6</td>
+        <td class="tableCenter">6</td>
         <td>展演活動與推廣教育</td>
-        <td>28</td>
+        <td class="tableCenter">28</td>
       </tr>
       <tr>
-        <td>7</td>
+        <td class="tableCenter">7</td>
         <td>展演活動與傳習活動</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
-        <td>8</td>
+        <td class="tableCenter">8</td>
         <td>推廣教育與傳習活動</td>
-        <td>2</td>
+        <td class="tableCenter">2</td>
       </tr>
       <tr>
-        <td>9</td>
+        <td class="tableCenter">9</td>
         <td>展演活動、推廣教育與傳習活動</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
-        <td>10</td>
+        <td class="tableCenter">10</td>
         <td>展演活動、推廣教育與國際兩岸交流</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
     </table>
-
+    <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表4中知，2018年福佬系歌謠的演出性質以「展演活動與推廣教育」最多，次為「展演活動」，再次為「推廣教育」。沒有「研究與出版」。</p>
     <b>(五)曲目</b>
-    <p>以下分傳統民謠與創作歌謠作敘述。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以下分傳統民謠與創作歌謠作敘述。</p>
     <b>1.傳統民謠</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據2018年的觀察，筆者所掌握到的福佬系傳統民謠曲目，有〈一隻鳥仔〉、〈一隻鳥仔哮啁啁〉、〈一隻鳥仔哮救救〉、〈卜卦調〉、〈五孔小調〉、〈牛母絆〉、〈牛犁歌〉、〈四季春〉、〈平埔調〉(臺東調)、〈丟丟銅仔〉、〈安童哥買菜〉、〈守牛調〉、〈思想起〉、〈恆春四景〉、〈桃花過渡〉、〈茶山相褒〉、〈草螟弄雞公〉、〈都馬調〉、〈飲酒歌〉、〈搖子賢大漢〉、〈楓港小調〉、〈楓港老調〉、〈滿州小調〉、〈嬰仔乖〉(佚名)、〈勸世歌〉等。其中恆春民謠有10首，恆春地區以外有15首。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春民謠有〈五孔小調〉、〈牛母絆〉、〈四季春〉、〈平埔調〉、〈守牛調〉、〈思想起〉、〈恆春四景〉、〈楓港小調〉、〈楓港老調〉、〈滿州小調〉等。由於有「2018臺灣月琴民謠祭－臺灣月琴歌謠講唱會(一)：恆春民謠 來聽恆春半島兮歌謠 民謠進香團－藝遊北投月琴祭」、「2018半島歌謠祭『第12屆屏東縣恆春民謠全國大賽』」、「107年度技藝傳薪－重要傳統表演藝術傳習成果展：滿州民謠/張日貴傳習藝生－黎竹紅、許麗善」等的展演與比賽，使得恆春傳統民謠6大調(〈五孔小調〉、〈牛母絆〉、〈四季春〉、〈平埔調〉、〈思想起〉、〈楓港老調〉)被演出的次數相當多，因不論展演或比賽，6大調被規定是一定要使用的曲目。</p>
-    <b>2.創作歌謠</b>
-    <p>(1)曲目</p>
+    <b>2.創作歌謠</b><br>
+    <span>(1)曲目</span>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年筆者所觀察到的福佬系創作歌謠曲目(含改編、衍創)，至少有220首。(表5)</p>
 
-    <p>表5：創作歌謠曲目</p>
+    <span>表5：創作歌謠曲目</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td>ABC狗咬豬</td>
@@ -1282,13 +1283,14 @@
         <td>鑼聲若響</td>
       </tr>
     </table>
-
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表5這些創作歌謠除了有光復前、後的作品外，有的是更多近年來的作品。因有幾場為專人設計的演出，如「2017新北文化貢獻獎得獎人－曾仲影先生音樂會」、「思慕寶島情綿綿－向臺灣歌謠作詞家葉俊麟致敬音樂會」、「『舊情綿綿－寶島歌謠大師葉俊麟文物特展』開幕暨講唱會」、「葉俊麟的臺灣歌謠世界」、「大地之歌－原鄉之聲」(下半場皆陳維斌詞曲的作品，共11首)，而光簡上仁設計、擔綱、主持、主講的場次就多達35場(含民視臺灣學堂《Formosa音樂廳》共15集)，因此以簡上仁、曾仲影、葉俊麟、陳維斌的作品較多，尤其是簡上仁的作品，包括作詞、作曲、改編、衍創</p>。
+    <br>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表5這些創作歌謠除了有光復前、後的作品外，有的是更多近年來的作品。因有幾場為專人設計的演出，如「2017新北文化貢獻獎得獎人－曾仲影先生音樂會」、「思慕寶島情綿綿－向臺灣歌謠作詞家葉俊麟致敬音樂會」、「『舊情綿綿－寶島歌謠大師葉俊麟文物特展』開幕暨講唱會」、「葉俊麟的臺灣歌謠世界」、「大地之歌－原鄉之聲」(下半場皆陳維斌詞曲的作品，共11首)，而光簡上仁設計、擔綱、主持、主講的場次就多達35場(含民視臺灣學堂《Formosa音樂廳》共15集)，因此以簡上仁、曾仲影、葉俊麟、陳維斌的作品較多，尤其是簡上仁的作品，包括作詞、作曲、改編、衍創。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中有些半價歌曲(混血歌曲)，如〈水車姑娘〉(葉俊麟詞)、〈快樂的出帆〉(陳坤嶽詞)、〈孤女的願望〉(葉俊麟詞)、〈後街人生〉(文夏詞)、〈送君情淚〉(葉俊麟詞)、〈望郎早歸〉(陳志生詞)、〈悲情的城市〉(葉俊麟詞)、〈黃昏的故鄉〉(文夏詞)、〈媽媽歌星〉(葉俊麟詞)、〈慈母淚痕〉(葉俊麟詞)、〈溫泉鄉的吉他〉(葉俊麟詞)、〈溫泉鄉的故鄉〉(葉俊麟詞)、〈請你信賴我〉(葉俊麟詞)、〈臺灣小調〉、黃昏橋上(葉俊麟詞，越南情歌)等。這些混血歌曲大多是日本曲、葉俊麟詞，曲調雖無臺灣民族意識，但歌詞卻頗具臺灣味，因此也慰藉、擄獲不少臺灣人的心。有少部分取材自臺灣傳統音樂，如〈牛郎織女〉(葉俊麟詞，北管亂彈緊中慢)、〈安童哥買菜〉(葉俊麟詞，歌仔戲雜唸調)等。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而近年來國人作品中，有不少是描寫臺灣歷史、臺灣情(愛情、親情)、臺灣風景(地名、名勝古蹟)、臺灣小吃、臺灣動物等的作品，充滿濃厚的臺灣意識、情懷與風格。如陳維斌的〈放天燈〉描寫新北市平溪、〈暖暖的搖嬰仔歌〉描寫基隆暖暖、〈桐花圓舞曲〉描寫苗栗、〈半月沉江〉描寫臺南安平古堡與赤崁樓、〈飛機雲〉描寫桃園、〈濁水溪溪水濁〉描寫臺灣人、〈花廳門〉描寫臺中霧峰、〈海島戀歌〉描寫屏東墾丁等的作品，比比皆是。</p>
-    <p>(2)作詞者/編詞者/譯者</p>
+    <br>
+    <span>(2)作詞者/編詞者/譯者</span>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年筆者所觀察到的福佬系創作歌謠的作詞者、編詞者或譯者，至少有73位。(表6)</p>
-    <p>表6：作詞者/編詞者/譯者</p>
+    <span>表6：作詞者/編詞者/譯者</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td>小城凌子</td>
@@ -1395,14 +1397,15 @@
         <td></td>
       </tr>
     </table>
-
+    <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這些作詞者、編詞者或譯者，除了有光復前、後的作者，如王昶雄、江中清、呂傳梓、李臨秋、那卡諾、周添旺、張邱東松、許丙丁、陳君玉、陳達儒、葉俊麟、蔡培火、蕭安居、盧雲生等外，有的是更多近代的作者。其中也有少數外國人，如小城凌子。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作詞者作品量之多寡，依序為葉俊麟29首、簡上仁26首(大多其作曲)、陳維斌12首(皆其作曲)、陳達儒8首、李臨秋與向陽各5首、許丙丁與曾仲影、楊喚各4首等。此外也有少數譯詞，如〈芒草香〉等。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而量最多的是直接採用或改編自傳統民謠與唸謠者，共40首，有〈ABC狗咬豬〉、〈一年仔悾悾〉、〈一的炒米香〉、〈一隻鳥仔新唱〉、〈十二生肖歌〉、〈人插花，伊插草〉、〈土地公伯仔〉、〈大頭旺仔一粒珠〉、〈火金姑〉、〈予你臆勿著〉、〈正月調〉、〈白鷺鷥〉、〈白鷺鷥進行曲〉、〈白鷺鷥隨想曲〉、〈年〉、〈羊仔咩咩〉、〈你欲食清抑欲食濁〉、〈育女歌〉、〈刺瓜刺刺刺〉、〈放雞鴨〉、〈油車粿香又脆〉、〈空中飛的白鷺鷥〉、〈阿財天頂跋落來〉、〈狗咬豬〉、〈思想再起〉、〈挨仔挨呼呼〉、〈掩閣雞〉、〈搖荖搖〉、〈猴佮狗〉、〈新年謠〉、〈新娘仔水噹噹〉、〈嘉義查某〉、〈跳舞的白鷺鷥〉、〈臺東調新唱〉、〈臺灣是寶島〉、〈嬰仔你勿啼〉、〈嬰仔搖嫁板橋〉、〈臆臺灣的地名〉、〈點仔點水缸〉、〈鯽仔魚欲娶某〉等，絕大部分是簡上仁作曲或編曲，且大部分是童謠。</p>
-    <p>(3)作曲者/編曲者</p>
+    <br>
+    <span>(3)作曲者/編曲者</span>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年筆者所觀察到的福佬系創作歌謠的作曲者或編曲者，至少有56位。(表7)</p>
 
-    <p>表7：作曲者/編曲者</p>
+    <span>表7：作曲者/編曲者</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td>三山敏</td>
@@ -1485,11 +1488,11 @@
         <td></td>
       </tr>
     </table>
-
+    <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;這些作曲者或編曲者，除王雲峰、江中清、吳晉淮、呂泉生、洪一峰、張邱東松、許石、許常惠、陳水柳、陳秋霖、楊三郎、葉俊麟、蔡培火、鄧雨賢、黎明、蘇桐等屬光復前後期的作者外，有的也是更多近代的作者。其中有些外國人，如三山敏、中野忠晴、古賀政男、古關裕而、吉田矢健治、米山正夫、阿部武雄、能代八郎、豐田一雄、鐮多俊與等日本人。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作曲者與編曲者作品量之多寡，依序為簡上仁81首；洪一峰、曾仲影、陳維斌各11首；鄧雨賢8首；蕭泰然7首等。其中以簡上仁的作品最多，且多為童謠。(表8)</p>
 
-    <p>表8：簡上仁的作品</p>
+    <span>表8：簡上仁的作品</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td>ABC狗咬豬</td>
@@ -1618,12 +1621,13 @@
         <td></td>
       </tr>
     </table>
-
+    <br>
     <b>小結</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就2018年有關福佬系歌謠的觀察，筆者共觀察了66個活動主題。就活動時間言，有69個場次。而光簡上仁設計、擔綱、主持、主講的場次就多達35場次，約佔51%，超過半數。就活動地點言，有68個地點，臺灣本島除宜蘭、苗栗、南投、彰化、雲林外，各縣市都有，其中以臺北、基隆場次最多，此可能與觀察者地緣有關而有較多的觀察。恆春是福佬系民謠的重鎮，因此屏東也有較多的活動。電視臺方面，光民視臺灣臺《Formosa音樂廳》就佔了15個之多。就活動性質言，以「展演活動與推廣教育」最多，次為「展演活動」，再次為「推廣教育」。沒有「研究與出版」。以下就傳統民謠與創作歌謠作敘述。</p>
     <b>1.傳統民謠</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就曲目言，至少有25首，其中恆春地區10首，恆春地區以外15首。</p>
-    <p>(1)恆春地區</p>
+    <b></b>
+    <span>(1)恆春地區</span>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春地區所包含的範圍，隨各時期行政區域劃分的不同，而不盡相同，目前所指的恆春地區，其範圍包括恆春鎮、車城鄉、滿州鄉、枋山鄉、牡丹鄉等幾個鄉鎮。2018年的觀察，恆春地區傳統曲目10首，包括〈五孔小調〉、〈牛母絆〉、〈四季春〉、〈平埔調〉、〈守牛調〉、〈思想起〉、〈恆春四景〉、〈楓港小調〉、〈楓港老調〉、〈滿州小調〉，而其中6大調(〈五孔小調〉、〈牛母絆〉、〈四季春〉、〈平埔調〉、〈思想起〉、〈楓港老調〉)被演出的次數相當多，因不論展演或比賽，6大調被規定是一定要使用的曲目。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年的觀察，滿州鄉滿州民謠館有「滿州民謠館揭牌暨鍾明昆銅像安座」(02/16)、「民謠舵手鍾明昆教授紀念展」(08/18-11/11，也是2018半島歌謠祭活動之一)，這兩個活動意義重大，除了緬懷鍾明昆對滿州民謠的貢獻外，也鼓勵後輩持續傳承。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另有2篇與「國際與兩岸交流」有關的學術論文發表〈無形文化財－從沒落到指定傳承：屏東恆春民謠〉(05/01)、〈歌唱方法與半島文人生態研究：以臺灣恆春半島恆春人的歌唱系統談起〉(09/17)，也都與恆春民謠有關。</p>
@@ -1635,7 +1639,8 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;成人組的詮釋更佳、更具韻味、感人。比賽時多為清唱，或他人伴奏，且只唱1葩。成人組共29人參賽，其中只有1位來自臺南的男性，亦即恆春當地成人組並無男性參賽；另參賽者年齡稍顯偏高，20-40歲之間的女性不見了，甚為可惜，筆者以為可能男性與20-40歲之間的女性，正為經濟而打拼，平時較無閒暇參與。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唯一參賽的幼兒園－童心幼稚園，令筆者感動不已，除了孩童活潑可愛獲得不少掌聲外，更讓人看到恆春在地人的用心，他們已將紮根的觸角伸向從幼兒園開始培養。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於恆春民謠團體組、民謠對唱組、月琴伴唱創意組，更是多采多姿，各種傳統與創新層出不窮，服裝、造型、化妝、道具、音樂、劇情、舞臺設計等更費盡心思，熱鬧滾滾。</p>
-    <p>(2)恆春地區以外</p>
+    <br>
+    <span>(2)恆春地區以外</span>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恆春地區以外福佬傳統民謠曲目有15首。除了少數以月琴自彈自唱的傳習活動與成果展，由於成員皆來自社區以娛樂為目的的團體，皆以齊唱、對唱、輪唱等方式呈現外，在較正式以展演為主的活動，為了提高欣賞、演出的層次，作品多以合唱、重唱、獨唱等美聲唱法方式呈現，伴奏上也趨向多元，亦即作品多已重新編曲或編詞，呈現了不同於原始面貌的效果。</p>
     <b>2.創作歌謠</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，相較於傳統民謠，其量是不勝枚舉的，且源源不斷。創作歌謠有詞是創作或改編的，有曲是創作或改編的，有詞曲皆創作或改編的，其中以詞曲皆創作的居多，特別是童謠；改編的詞以傳統民謠或唸謠的詞作改編的為多。不論哪一種，無疑的詞都具有強烈的臺灣民族意識、精神與在地特色，曲則具有臺灣的音樂特性，完完全全具有臺灣人的情感與風格。</p>
@@ -1648,10 +1653,10 @@
     <b>(一)定義</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;說唱藝術是把一個故事用講、唱方式表達出來的表演藝術，從表演內容看，它是文學、音樂、戲劇藝術的綜合體。臺灣的說唱音樂皆隨移民傳入，依傳入時間與地域的不同，可分為「1949年以前傳入的說唱音樂」與「1949年以後傳入的說唱音樂」兩種。前者即一般所謂的「以閩南語發音的說唱音樂」與「以客家語發音的說唱音樂」，但主要以前者為主。以「閩南語發音的說唱音樂」，現存者為有說有唱的「唸歌仔」，以及只說不唱的「答嘴鼓」、「講古」等，而本文只敘述有說有唱的「唸歌仔」。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「歌仔」即一般所謂的「民謠小調」，閩南、臺灣都有此稱呼。「錦歌」是流傳於閩南漳州一帶的民謠小調，原名「歌仔」，後改名「錦歌」，但臺灣仍沿用「歌仔」之名。錦歌亦為閩南說唱曲種之一。「閩南歌仔」流傳到臺灣後，結合臺灣的風土民情與民間歌謠，而發展出具有臺灣特色的「臺灣歌仔」，後再發展成說唱音樂中的「唸歌仔」與戲曲音樂中的「歌仔戲」。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據張炫文教授所言，所謂「唸」，自然是接近語言聲調的，亦即相當於說唱音樂中的「說」；而所謂「歌仔」，自然是包含較多的「唱」。因此「唸歌仔」也就是「半說半唱」、「說中帶唱，唱中帶說」或「似說似唱」的說唱音樂。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據張炫文教授所言，所謂「唸」，自然是接近語言聲調的，亦即相當於說唱音樂中的「說」；而所謂「歌仔」，自然是包含較多的「唱」。因此「唸歌仔」也就是「半說半唱」、「說中帶唱，唱中帶說」或「似說似唱」的說唱音樂。<sup>1</sup></p>
     <b>(二)種類</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唸歌仔依歷史的發展，大致可分成光復前的「傳統式唸歌仔」與光復後的「改良式唸歌仔」兩種，前者重唱，後者說、唱並重。</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「傳統式唸歌仔」主要演出者為賣藝的乞丐、走唱者、江湖賣藥藝人、廣播電臺的說唱藝人、歌仔仙等職業藝人，以及部分閒暇時用以自娛娛人的業餘團體或個人。上述藝人大部分可能因時代的不同而身兼多重身分，如走唱者也可能是江湖賣藝人、茶坊酒樓賣唱藝人，或廣播電臺的說唱藝人，只是隨時代的改變，表演場所也有所不同而已。此時期的「唸歌仔」，以唱為主，除少數沒有確定音高而與說話無異，近乎用唸的唱詞外，完全沒有比較完整的「說」的詞句。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「傳統式唸歌仔」主要演出者為賣藝的乞丐、走唱者、江湖賣藥藝人、廣播電臺的說唱藝人、歌仔仙等職業藝人，以及部分閒暇時用以自娛娛人的業餘團體或個人。上述藝人大部分可能因時代的不同而身兼多重身分，如走唱者也可能是江湖賣藝人、茶坊酒樓賣唱藝人，或廣播電臺的說唱藝人，只是隨時代的改變，表演場所也有所不同而已。此時期的「唸歌仔」，以唱為主，除少數沒有確定音高而與說話無異，近乎用唸的唱詞外，完全沒有比較完整的「說」的詞句。<sup>2</sup></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「改良式唸歌仔」又稱「口白歌仔」。光復後，由於歌仔戲在唱腔、布景、服飾等各方面作了相當的改良，而廣受民眾喜愛。唸歌仔藝人為求生存與順應時代潮流的發展，也開始吸收如歌仔戲等戲曲的唱腔，再加入說白的部分，而成為「改良式唸歌仔」，楊秀卿可說是最典型的代表。她從傳統式唸歌仔走入改良式唸歌仔，數十年如一日，從演出、教學、推廣、保存等方面，一路走來始終如一，而使得唸歌仔成為臺灣說唱音樂的瑰寶。</p>
     <b>(三)題材</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唸歌仔的題材主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。改編自臺灣歷史故事或民間傳說類者，如《鄭成功開臺灣》、《運河奇案》等；改編自中國歷史故事或民間傳說類者，如《包公案》、《七世夫妻》等，此類題材最為豐富。勸世教化類者如《勸孝順》、《三世因果》等。事物類者如《婚嫁歌》、《地名歌》等。敘情類者如《茶園香褒》、《姨子配姊夫》等。趣味類者如《胡蠅蚊子大戰歌》、《草地查某》等。以上以歷史故事、民間傳說、社會寫實為題材者，大多屬中、長篇；而以勸世教化、情愛、滑稽笑料等為題材者，多屬中、短篇。</p>
@@ -1669,20 +1674,20 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有關2018年福佬系「說唱音樂－唸歌仔」之觀察，筆者共掌握到73個活動主題(電視臺的重播以及傳習、研習不論時間的長短，皆只算一個主題。但同主題不同地點不同時間，或同主題同地點不同時間的活動，則各算一個主題，因內容不一定完全一樣。)(表9)</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表9中，「楊」表「楊秀卿說唱藝術團」、「微笑」表「微笑唸歌團」。「其他欄」中的「鄭」表「鄭美」、「丁」表「丁秀津」、「陳」表「陳寶貴」、「臺灣」表「臺灣月琴民謠協會」、「不老梅」表「不老梅說唱藝術」、「楊鄭丁」表「楊秀卿、鄭美、丁秀津共同負責教學」。「展演」表「展演活動」、「推廣」表「推廣教育」、「傳習」表「傳習活動」、「交流」表「國際與兩岸交流」。</p>
 
-    <p>表9：2018年有關「唸歌仔」的活動主題</p>
+    <span>表9：2018年有關「唸歌仔」的活動主題</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td></td>
-        <td>活動主題</td>
-        <td>日期</td>
-        <td>楊</td>
-        <td>微笑</td>
-        <td>其他</td>
-        <td>地點</td>
-        <td>展演</td>
-        <td>推廣</td>
-        <td>傳習</td>
-        <td>交流</td>
+        <td style="width:6%"></td>
+        <td class="tableCenter">活動主題</td>
+        <td class="tableCenter">日期</td>
+        <td class="tableCenter">楊</td>
+        <td class="tableCenter">微笑</td>
+        <td class="tableCenter">其他</td>
+        <td class="tableCenter">地點</td>
+        <td class="tableCenter">展演</td>
+        <td class="tableCenter">推廣</td>
+        <td class="tableCenter">傳習</td>
+        <td class="tableCenter">交流</td>
       </tr>
       <tr>
         <td>1</td>
@@ -2664,88 +2669,89 @@
         <td></td>
       </tr>
     </table>
-
+    <br>
     <b>(二)活動時間</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年有關唸歌仔的觀察，筆者共觀察了73個活動主題(表9)，其中傳習與文物展，不論時間長短，均以一場次計，如表9序號6、25、35、38、40、48；同活動主題，不同時間，則分場次計，如序號54、55、56；電視臺重播不計，如序號3、5、8、32。故表9中，共73個活動主題，76個場次。其中以12月份的11次最多，次為3、8月份的8次。(表10)</p>
 
-    <p>表10：2018年唸歌仔的活動時間與場次</p>
+    <span>表10：2018年唸歌仔的活動時間與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td>月份</td>
-        <td>一</td>
-        <td>二</td>
-        <td>三</td>
-        <td>四</td>
-        <td>五</td>
-        <td>六</td>
-        <td>七</td>
-        <td>八</td>
-        <td>九</td>
-        <td>十</td>
-        <td>十一</td>
-        <td>十二</td>
+        <td class="tableCenter">月份</td>
+        <td class="tableCenter">一</td>
+        <td class="tableCenter">二</td>
+        <td class="tableCenter">三</td>
+        <td class="tableCenter">四</td>
+        <td class="tableCenter">五</td>
+        <td class="tableCenter">六</td>
+        <td class="tableCenter">七</td>
+        <td class="tableCenter">八</td>
+        <td class="tableCenter">九</td>
+        <td class="tableCenter">十</td>
+        <td class="tableCenter">十一</td>
+        <td class="tableCenter">十二</td>
       </tr>
       <tr>
-        <td>場次</td>
-        <td>6</td>
-        <td>6</td>
-        <td>8</td>
-        <td>4</td>
-        <td>7</td>
-        <td>7</td>
-        <td>6</td>
-        <td>2</td>
-        <td>5</td>
-        <td>6</td>
-        <td>11</td>
-        <td>8</td>
+        <td class="tableCenter">場次</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">8</td>
+        <td class="tableCenter">4</td>
+        <td class="tableCenter">7</td>
+        <td class="tableCenter">7</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">5</td>
+        <td class="tableCenter">6</td>
+        <td class="tableCenter">11</td>
+        <td class="tableCenter">8</td>
       </tr>
       <tr>
-        <td>合計</td>
-        <td colspan="12">76</td>
+        <td class="tableCenter">合計</td>
+        <td class="tableCenter" colspan="12">76</td>
       </tr>
     </table>
-
+    <br>
     <b>(三)活動地點</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表9中知，2018年唸歌仔的活動地點與場次如下(表11)：</p>
 
-    <p>表11：2018年唸歌仔的活動地點與場次</p>
+    <span>表11：2018年唸歌仔的活動地點與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td>地區</td>
-        <td>電視臺</td>
-        <td>線上</td>
-        <td>宜蘭</td>
-        <td>基隆</td>
-        <td>臺北</td>
-        <td>新北</td>
-        <td>桃園</td>
-        <td>臺中</td>
-        <td>彰化</td>
-        <td>雲林</td>
-        <td>嘉義</td>
-        <td>臺南</td>
-        <td>高雄</td>
-        <td>香港</td>
+        <td class="tableCenter">地區</td>
+        <td class="tableCenter">電視臺</td>
+        <td class="tableCenter">線上</td>
+        <td class="tableCenter">宜蘭</td>
+        <td class="tableCenter">基隆</td>
+        <td class="tableCenter">臺北</td>
+        <td class="tableCenter">新北</td>
+        <td class="tableCenter">桃園</td>
+        <td class="tableCenter">臺中</td>
+        <td class="tableCenter">彰化</td>
+        <td class="tableCenter">雲林</td>
+        <td class="tableCenter">嘉義</td>
+        <td class="tableCenter">臺南</td>
+        <td class="tableCenter">高雄</td>
+        <td class="tableCenter">香港</td>
       </tr>
       <tr>
-        <td>場次</td>
-        <td>5</td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-        <td>12</td>
-        <td>5</td>
-        <td>2</td>
-        <td>36</td>
-        <td>1</td>
-        <td>2</td>
-        <td>1</td>
-        <td>3</td>
-        <td>1</td>
-        <td>1</td>
+        <td class="tableCenter">場次</td>
+        <td class="tableCenter">5</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">12</td>
+        <td class="tableCenter">5</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">36</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">2</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">3</td>
+        <td class="tableCenter">1</td>
+        <td class="tableCenter">1</td>
       </tr>
     </table>
+    <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表11中知，除新竹、苗栗、南投、花蓮、臺東及離島外，遍及臺灣各縣市，而在臺中的演出佔49.3%強，亦即佔了將近一半，此與微笑唸歌團位居臺中的地緣有關，因微笑唸歌團的活動地點以臺中為大本營。</p>
     <b>(四)團體與個人</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前唸歌仔藝術實已相當式微，2018年的觀察，尚存團體只有楊秀卿說唱藝術團、微笑唸歌團、臺灣月琴民謠協會等有常態、實質的演出活動，其中以微笑唸歌團最為活躍。</p>
@@ -2756,54 +2762,55 @@
     <p>表12：2018年唸歌仔活動負責的團體與個人場次</p>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td colspan="2">團體/個人</td>
-        <td colspan="2">負責場次</td>
-        <td>合計</td>
+        <td class="tableCenter" colspan="2">團體/個人</td>
+        <td class="tableCenter" colspan="2">負責場次</td>
+        <td class="tableCenter">合計</td>
       </tr>
       <tr>
         <td colspan="2">楊秀卿說唱藝術團</td>
-        <td colspan="2">16</td>
-        <td rowspan="8">74</td>
+        <td colspan="2" class="tableRight">16</td>
+        <td rowspan="8" class="tableCenter">74</td>
       </tr>
       <tr>
         <td colspan="2">微笑唸歌團</td>
-        <td colspan="2">48</td>
+        <td colspan="2" class="tableRight">48</td>
       </tr>
       <tr>
         <td rowspan="6">其他</td>
         <td>臺灣月琴民謠協會</td>
-        <td>3</td>
-        <td rowspan="6">10</td>
+        <td class="tableCenter">3</td>
+        <td rowspan="6" class="tableRight">10</td>
       </tr>
       <tr>
         <td>不老梅說唱藝術</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
         <td>鄭美</td>
-        <td>3</td>
+        <td class="tableCenter">3</td>
       </tr>
       <tr>
         <td>丁秀津</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
         <td>陳寶貴</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
       <tr>
         <td>楊秀卿、鄭美、丁秀津</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
     </table>
+    <br>
     <b>(五)活動性質</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表9中知，2018年唸歌仔的活動性質如下(表13)：</p>
 
     <p>表13：2018年唸歌仔的活動性質與場次</p>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td>性質</td>
-        <td>場次</td>
+        <td class="tableCenter">性質</td>
+        <td class="tableCenter">場次</td>
       </tr>
       <tr>
         <td>展演活動</td>
@@ -2834,6 +2841,7 @@
         <td>1</td>
       </tr>
     </table>
+    <br>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表13中知，2018年唸歌仔的活動性質以「展演活動」最多，次為「展演活動與推廣教育」。沒有「研究與出版」和「文化政策」。</p>
     <b>(六)題材</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根據筆者2018年的觀察，唸歌仔演出題材主要包括歷史故事、民間傳說、勸世教化、事物、敘情、趣味等類。臺灣歷史故事或民間傳說類者，如《廖添丁傳奇》等；中國歷史故事或民間傳說類者，如「山伯英台」系列、《雪梅教子》等。勸世教化類者如《勸有孝》、《勸世歌》等。事物類者如《臺灣百年歌》、《潭子好風景》等。敘情類者如《翁某相褒》、《姨子配姊夫》等。趣味類者如《胡蠅蚊子大戰歌》、《十二生肖貓鼠冤》等。</p>
@@ -2852,38 +2860,39 @@
     <b>(十)伴奏樂器</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月琴是唸歌仔所用的必備樂器，尤其傳習活動與推廣教育中，是人手一把月琴自彈自唱，或自彈自說自唱。另有大廣絃、堂鼓。如微笑唸歌團的儲見智就習慣以大廣絃自拉自唱或搭配月琴伴奏。不論是恆春半島的民謠演唱或恆春半島以外地方的唸歌仔演出，被認為是國民樂器的「月琴」是不可少的。</p>
 
-    <table rules="all" style="border:1px solid;width:100%" cellpadding="5">
+    <table rules="all" style="border:1px solid #fff;width:100%" cellpadding="5">
       <tr>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image1.jpg" alt>
-          <p>臺中市中和國小(01/29)(黃玲玉提供)</p>
+          <p style="text-align:center">臺中市中和國小(01/29)(黃玲玉提供)</p>
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image2.jpg" alt>
-          <p>臺北市北投國小(07/13)(黃玲玉提供)</p>
+          <p style="text-align:center">臺北市北投國小(07/13)(黃玲玉提供)</p>
         </td>
       </tr>
       <tr>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image3.jpg" alt>
-          <p>臺北市松山區永吉路五全里樂齡月琴班(05/25)(黃玲玉提供)</p>
+          <p style="text-align:center">臺北市松山區永吉路五全里樂齡月琴班(05/25)(黃玲玉提供)</p>
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image4.jpg" alt>
-          <p>新北市新莊區擎天府擎天關懷長青會月琴傳習活動(11/17)(黃玲玉提供)</p>
+          <p style="text-align:center">新北市新莊區擎天府擎天關懷長青會月琴傳習活動(11/17)(黃玲玉提供)</p>
         </td>
       </tr>
       <tr>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image5.jpg" alt>
-          <p>臺灣唸歌節(07/08)(黃玲玉提供)</p>
+          <p style="text-align:center">臺灣唸歌節(07/08)(黃玲玉提供)</p>
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image6.png" alt>
-          <p>臺灣月琴民謠祭(09/23)(黃玲玉提供)</p>
+          <p style="text-align:center">臺灣月琴民謠祭(09/23)(黃玲玉提供)</p>
         </td>
       </tr>
     </table>
+    <br>
 
     <b>小結</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就2018年有關福佬系說唱音樂－唸歌仔的觀察，筆者共觀察了73個活動主題。就活動時間言，有76個場次，以12月份的11次最多。就活動地點言，臺灣除新竹、苗栗、南投、花蓮、臺東及離島外，遍及各縣市，而在臺中的演出就佔了49.3%強，此與微笑唸歌團位居臺中的地緣有關，微笑唸歌團的活動地點以臺中為大本營，2018年其所負責的場次就佔約65%左右。就活動性質言，以「展演活動」最多，次為「展演活動與推廣教育」，沒有「研究與出版」和「文化政策」。</p>
@@ -2901,5 +2910,8 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;約10年前，筆者深感唸歌仔藝術，終將會因後繼無人而走入歷史，但這些年來在藝生制度的培養下，已漸展露成果，陸續培育出鄭美、丁秀津、儲見智、林恬安等藝生。然因現實面的考量，鄭美、丁秀津的傳習活動與推廣教育，為考量學員的學習興趣，目前都只以教唱福佬系歌謠以及月琴彈奏為主，期能培養學員們自彈月琴自唱的自娛能力。至於微笑唸歌團(儲見智、林恬安)以目前情勢來看，接棒楊秀卿者已非他們莫屬，不論保存、出版、展演、推廣、傳習等都不遺餘力，2018年他們負責的場次就佔約65%。然也因現實環境的影響，只能以「硬撐、苦撐」來形容。房租、人事等開銷，在負成長與家庭、學業(儲見智、林恬安目前都還是國立臺南藝術大學民族音樂學研究所的研究生)等壓力下，也不得不曾經思考過何去何從，然在眾多人的鼓勵、期許下，仍扛起此重任繼續堅持下去。在大環境的變遷下，傳統藝術的保存著實不易，期盼政府單位能多予年輕人支持、鼓勵，讓此奄奄一息的傳統藝術，能永續發展。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高齡已85歲的國寶藝人楊秀卿，深恐唸歌仔藝術走入歷史，近年來不斷鼓勵微笑唸歌團要堅持下去，甚至一再叮嚀團長儲見智，只要申請案子，一律以微笑唸歌團的名義申請，不用顧慮到她與楊秀卿說唱藝術團，因她願意只站在背後支援、協助，尤其是2018年更是用心良苦、苦口婆心的再三叮囑，為的只是希望唸歌仔藝術能永續發展，免於失傳。多坦蕩蕩、提攜後輩的心胸啊！</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年第3屆說唱「唸歌仔」藝生甄選(01/24)，共錄取3位。據了解期中考後陣亡1位，已放棄補考；期末考(11/18)後差點又陣亡2位，經苦勸後才參加補考。臺灣傳統音樂，如歌仔戲、布袋戲、南管、北管等，都還有不少館閣或團體存在，傑出藝人也大有人在，但唸歌仔只有國寶級藝人楊秀卿一人，被指定為「重要無形文化資產」的傳藝師。楊秀卿已高齡85歲，可說在與時間賽跑，加上藝生的甄選與培訓著實不易，在期中考、期末考的標準上，是否一開始不要要求太高，畢竟楊秀卿在唸歌仔領域中已有70多年的歷練，技術上已爐火純青，想要在短短幾個月內就學到楊秀卿的真髓，談何容易，需給她們更多時間的磨練與培訓，否則沒有藝生的培訓，唸歌仔藝術的傳承與發展豈不前途更為坎坷。筆者以為唸歌仔藝術當務之急應要先存活，故應吸引更多人看得到、有興趣、能參與、再入門學習，因此對於藝生的培養應更有耐心，宜給予更多的學習信心和鼓勵。</p>
+    <br>
+    <small>1.張炫文（1986）。臺灣的說唱音樂。臺灣省政府教育廳交響樂團發行。</small><br>
+    <small>2.張炫文（1986）。臺灣的說唱音樂。臺灣省政府教育廳交響樂團發行。</small>
   </div>
 </template>
