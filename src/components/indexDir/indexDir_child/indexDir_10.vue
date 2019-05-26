@@ -9,8 +9,8 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th style="width:15%">時間</th>
-          <th style="width:15%">活動主題</th>
+          <th style="width:18%">時間</th>
+          <th style="width:20%">活動主題</th>
           <th>活動內容</th>
           <th>備註</th>
         </tr>

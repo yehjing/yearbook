@@ -11,7 +11,7 @@
       <thead>
         <tr>
           <th>名稱</th>
-          <th>負責人</th>
+          <th style="width:15%">負責人</th>
           <th>地址/電話</th>
           <th>其他聯絡方式</th>
           <th>備註</th>
@@ -28,7 +28,7 @@
           <td>
             <a
               href="https://www.facebook.com/CYCWINDORCHESTRA/"
-            >https://www.facebook.com/CYCWINDORCHESTRA/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -40,7 +40,7 @@
             <br>0939-373-691
           </td>
           <td>
-            <a href="https://www.facebook.com/KLSWO/">https://www.facebook.com/KLSWO/</a>
+            <a href="https://www.facebook.com/KLSWO/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -52,7 +52,7 @@
             <br>02-2423-1415
           </td>
           <td>
-            <a href="https://www.facebook.com/keelungcpo/">https://www.facebook.com/keelungcpo/</a>
+            <a href="https://www.facebook.com/keelungcpo/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -64,21 +64,21 @@
             <br>02-2578-6731
           </td>
           <td>
-            <a href="https://www.tso.gov.taipei/">https://www.tso.gov.taipei/</a>
+            <a href="https://www.tso.gov.taipei/">連結</a>
           </td>
           <td></td>
         </tr>
         <tr>
           <td>國家交響樂團</td>
-          <td>執行長 郭玟岑 總監 呂紹嘉</td>
+          <td>執行長 郭玟岑<br>總監 呂紹嘉</td>
           <td>
             臺北市中山南路21-1號
             <br>02-3393-9888
           </td>
           <td>
-            <a href="http://npac-nso.org/zh/">http://npac-nso.org/zh/</a>
+            <a href="http://npac-nso.org/zh/">連結</a>
             <br>
-            <a href="mailto:nso_service@mail.npac-ntch.org">nso_service@mail.npac-ntch.org</a>
+            <a href="mailto:nso_service@mail.npac-ntch.org">連結</a>
           </td>
           <td></td>
         </tr>
@@ -90,7 +90,7 @@
             <br>02-2351006799
           </td>
           <td>
-            <a href="https://www.evergreensymphony.org/">https://www.evergreensymphony.org/</a>
+            <a href="https://www.evergreensymphony.org/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -102,7 +102,7 @@
             <br>02-2593-5811
           </td>
           <td>
-            <a href="http://www.musforum.com.tw">http://www.musforum.com.tw</a>
+            <a href="http://www.musforum.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -114,7 +114,7 @@
             <br>02-2891-9900
           </td>
           <td>
-            <a href="http://www.jpg.org.tw/">http://www.jpg.org.tw/</a>
+            <a href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -126,7 +126,7 @@
             <br>02-2394-1048
           </td>
           <td>
-            <a href="mailto:e1002@seed.net.tw">e1002@seed.net.tw</a>
+            <a href="mailto:e1002@seed.net.tw">連結</a>
           </td>
           <td>
             <em></em>
@@ -140,7 +140,7 @@
             <br>02-2362-6128
           </td>
           <td>
-            <a href="mailto:SUFL2004@mail.nhctc.edu.tw">SUFL2004@mail.nhctc.edu.tw</a>
+            <a href="mailto:SUFL2004@mail.nhctc.edu.tw">連結</a>
           </td>
           <td>
             <em></em>
@@ -151,10 +151,10 @@
           <td>嚴福榮</td>
           <td>02-2664-4027</td>
           <td>
-            <a href="mailto:yscheng1125@gmail.com/">yscheng1125@gmail.com/</a>
+            <a href="mailto:yscheng1125@gmail.com/">連結</a>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/雙溪樂集-Shuanghsi-Music-Forum-1354691857893198/"
-            >https://www.facebook.com/pages/category/Musician-Band/雙溪樂集-Shuanghsi-Music-Forum-1354691857893198/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -163,7 +163,7 @@
           <td>陳玠如</td>
           <td>臺北市北投區中和街20巷2號4樓之18</td>
           <td>
-            <a href="mailto:jieru.chen1015@gmail.com">jieru.chen1015@gmail.com</a>
+            <a href="mailto:jieru.chen1015@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -177,7 +177,7 @@
           <td>
             <a
               href="https://www.facebook.com/HeySeed.Clarinet/"
-            >https://www.facebook.com/HeySeed.Clarinet/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -191,7 +191,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Performing-Arts/Yeh-Shu-Han-Brass-Quintet-葉樹涵銅管五重奏樂團-165973993413439/"
-            >https://www.facebook.com/pages/category/Performing-Arts/Yeh-Shu-Han-Brass-Quintet-葉樹涵銅管五重奏樂團-165973993413439/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -203,7 +203,7 @@
             <br>0911-135-413
           </td>
           <td>
-            <a href="mailto:claptap.taipei@gmail.com">claptap.taipei@gmail.com</a>
+            <a href="mailto:claptap.taipei@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -215,7 +215,7 @@
             <br>02-2367-0039
           </td>
           <td>
-            <a href="https://www.mit-sax.com/">https://www.mit-sax.com/</a>
+            <a href="https://www.mit-sax.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -227,7 +227,7 @@
             <br>0919-897-709
           </td>
           <td>
-            <a href="mailto:Tbrass2017@gmail.co">Tbrass2017@gmail.co</a>
+            <a href="mailto:Tbrass2017@gmail.co">連結</a>
           </td>
           <td></td>
         </tr>
@@ -239,7 +239,7 @@
             <br>02-2776-2020
           </td>
           <td>
-            <a href="mailto:winnietheflute@yahoo.com.tw">winnietheflute@yahoo.com.tw</a>
+            <a href="mailto:winnietheflute@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -251,7 +251,7 @@
             <br>02-2702-7253
           </td>
           <td>
-            <a href="http://www.century.org.tw">http://www.century.org.tw</a>
+            <a href="http://www.century.org.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -263,7 +263,7 @@
             <br>02-2765-6145
           </td>
           <td>
-            <a href="http://www.tappei-percussion.com.tw">http://www.tappei-percussion.com.tw</a>
+            <a href="http://www.tappei-percussion.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -272,7 +272,7 @@
           <td>彭廣林</td>
           <td>臺北市大安區復興南路一段360號三樓之三</td>
           <td>
-            <a href="mailto:gwanglinpeng@gmail.com">gwanglinpeng@gmail.com</a>
+            <a href="mailto:gwanglinpeng@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -284,7 +284,7 @@
             <br>02-2369-4802
           </td>
           <td>
-            <a href="mailto:amatwn@ms17.hinet.net">amatwn@ms17.hinet.net</a>
+            <a href="mailto:amatwn@ms17.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -298,7 +298,7 @@
           <td>
             <a
               href="https://www.facebook.com/taiwanbrass/?ref=page_internal"
-            >https://www.facebook.com/taiwanbrass/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -310,7 +310,7 @@
             <br>02-2597-7789
           </td>
           <td>
-            <a href="http://www.harp.com.tw">http://www.harp.com.tw</a>
+            <a href="http://www.harp.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -322,7 +322,7 @@
             <br>02-2891-9900
           </td>
           <td>
-            <a href="http://www.jpg.org.tw/">http://www.jpg.org.tw/</a>
+            <a href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -334,7 +334,7 @@
             <br>02-2312-4248
           </td>
           <td>
-            <a href="mailto:tw.yale.ensemble@gmail.com">tw.yale.ensemble@gmail.com</a>
+            <a href="mailto:tw.yale.ensemble@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -346,7 +346,7 @@
             <br>02-2321-168
           </td>
           <td>
-            <a href="http://www.atstrings.com.tw">http://www.atstrings.com.tw</a>
+            <a href="http://www.atstrings.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -358,7 +358,7 @@
             <br>02-8509-1050
           </td>
           <td>
-            <a href="http://www.musician.com.tw">http://www.musician.com.tw</a>
+            <a href="http://www.musician.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -372,7 +372,7 @@
           <td>
             <a
               href="https://www.facebook.com/suzuki.music.Taiwan/"
-            >https://www.facebook.com/suzuki.music.Taiwan/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -386,7 +386,7 @@
           <td>
             <a
               href="http://www.amgroup.com.tw/show_page/page/20"
-            >http://www.amgroup.com.tw/show_page/page/20</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -398,7 +398,7 @@
             <br>02-2321-9035
           </td>
           <td>
-            <a href="http://www.geocities.com/jdfe1998">http://www.geocities.com/jdfe1998</a>
+            <a href="http://www.geocities.com/jdfe1998">連結</a>
           </td>
           <td></td>
         </tr>
@@ -410,7 +410,7 @@
             <br>02-2369-4802
           </td>
           <td>
-            <a href="mailto:amatwn@ms17.hinet.net">amatwn@ms17.hinet.net</a>
+            <a href="mailto:amatwn@ms17.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -422,7 +422,7 @@
             <br>02-3322-1428
           </td>
           <td>
-            <a href="http://www.chambermusic.org.tw">http://www.chambermusic.org.tw</a>
+            <a href="http://www.chambermusic.org.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -436,7 +436,7 @@
           <td>
             <a
               href="https://m.facebook.com/chiayinchamberorchestra"
-            >https://m.facebook.com/chiayinchamberorchestra</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -448,7 +448,7 @@
             <br>0937-878-251
           </td>
           <td>
-            <a href="mailto:snoopyshark@gmail.com">snoopyshark@gmail.com</a>
+            <a href="mailto:snoopyshark@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -460,7 +460,7 @@
             <br>0911-817-939
           </td>
           <td>
-            <a href="mailto:interestringquartet@gmail.com">interestringquartet@gmail.com</a>
+            <a href="mailto:interestringquartet@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -472,7 +472,7 @@
             <br>02-2286-9792
           </td>
           <td>
-            <a href="mailto:fagott@ms21.hinet.net">fagott@ms21.hinet.net</a>
+            <a href="mailto:fagott@ms21.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -484,7 +484,7 @@
             <br>02-2944-2244
           </td>
           <td>
-            <a href="mailto:tscle.tw@gmail.com">tscle.tw@gmail.com</a>
+            <a href="mailto:tscle.tw@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -493,7 +493,7 @@
           <td>孫愛光</td>
           <td>臺北市大安區泰順街56巷16號1樓</td>
           <td>
-            <a href="mailto:aikuang.sun@gmail.com">aikuang.sun@gmail.com</a>
+            <a href="mailto:aikuang.sun@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -505,7 +505,7 @@
             <br>02-2702-7253
           </td>
           <td>
-            <a href="mailto:tmso1990@gmail.com">tmso1990@gmail.com</a>
+            <a href="mailto:tmso1990@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -517,7 +517,7 @@
             <br>02-2509-1226
           </td>
           <td>
-            <a href="http://fcmf.com.tw/member/">http://fcmf.com.tw/member/</a>
+            <a href="http://fcmf.com.tw/member/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -529,7 +529,7 @@
             <br>02-2397-0979
           </td>
           <td>
-            <a href="http://www.tspo.org.tw/main.html">http://www.tspo.org.tw/main.html</a>
+            <a href="http://www.tspo.org.tw/main.html">連結</a>
           </td>
           <td></td>
         </tr>
@@ -541,7 +541,7 @@
             <br>02-2624-1035
           </td>
           <td>
-            <a href="http://www.twwe.com.tw/">http://www.twwe.com.tw/</a>
+            <a href="http://www.twwe.com.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -553,7 +553,7 @@
             <br>02-2505-0859
           </td>
           <td>
-            <a href="http://www.momentmusical.com.tw">http://www.momentmusical.com.tw</a>
+            <a href="http://www.momentmusical.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -562,7 +562,7 @@
           <td>歐陽伶宜</td>
           <td>0910-862-301</td>
           <td>
-            <a href="mailto:cello01.ouyang@hotmail.com">cello01.ouyang@hotmail.com</a>
+            <a href="mailto:cello01.ouyang@hotmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -576,7 +576,7 @@
           <td>
             <a
               href="https://www.facebook.com/barockensembletaipei/"
-            >https://www.facebook.com/barockensembletaipei/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -588,7 +588,7 @@
             <br>02-2891-9900
           </td>
           <td>
-            <a href="http://www.jpg.org.tw">http://www.jpg.org.tw</a>
+            <a href="http://www.jpg.org.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -600,7 +600,7 @@
             <br>02-3765-1985
           </td>
           <td>
-            <a href="mailto:pylin@cm1.hinet.net">pylin@cm1.hinet.net</a>
+            <a href="mailto:pylin@cm1.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -612,9 +612,9 @@
             <br>02- 2593-6143
           </td>
           <td>
-            <a href="http://www.onesongorchestra.com/">http://www.onesongorchestra.com/</a>
+            <a href="http://www.onesongorchestra.com/">連結</a>
             <br>
-            <a href="mailto:onesongorchestra@gmail.com">onesongorchestra@gmail.com</a>
+            <a href="mailto:onesongorchestra@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -623,7 +623,7 @@
           <td>蔡銘</td>
           <td>新北市新莊區龍安路487巷2弄6號3樓</td>
           <td>
-            <a href="https://www.facebook.com/kokolab.tw/">https://www.facebook.com/kokolab.tw/</a>
+            <a href="https://www.facebook.com/kokolab.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -634,7 +634,7 @@
           <td>
             <a
               href="https://www.facebook.com/bachanaliataiwan/"
-            >https://www.facebook.com/bachanaliataiwan/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -653,7 +653,7 @@
           <td>葛承澐</td>
           <td>新北市板橋區國光路189-5號5樓</td>
           <td>
-            <a href="https://www.facebook.com/YsjyEnsemble/">https://www.facebook.com/YsjyEnsemble/</a>
+            <a href="https://www.facebook.com/YsjyEnsemble/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -664,7 +664,7 @@
           <td>
             <a
               href="https://www.facebook.com/弦樂之音青少年弦樂團-289850861196793/"
-            >https://www.facebook.com/弦樂之音青少年弦樂團-289850861196793/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -676,7 +676,7 @@
             <br>02-2993-3893
           </td>
           <td>
-            <a href="mailto:shinsharn@yahoo.com.tw">shinsharn@yahoo.com.tw</a>
+            <a href="mailto:shinsharn@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -687,7 +687,7 @@
           <td>
             <a
               href="https://www.facebook.com/ChansontpePage/"
-            >https://www.facebook.com/ChansontpePage/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -698,7 +698,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Public-Figure/114540231889458/"
-            >https://www.facebook.com/pages/category/Public-Figure/114540231889458/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -709,7 +709,7 @@
           <td>
             <a
               href="https://www.facebook.com/新北城市愛樂-587512178276662/"
-            >https://www.facebook.com/新北城市愛樂-587512178276662/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -720,7 +720,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/179921122093836/"
-            >https://www.facebook.com/pages/category/Musician-Band/179921122093836/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -729,7 +729,7 @@
           <td>黃素珠</td>
           <td>新北市永和區中和路499號16樓之1</td>
           <td>
-            <a href="mailto:tpsomusic@gmail.com">tpsomusic@gmail.com</a>
+            <a href="mailto:tpsomusic@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -740,7 +740,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/臺灣銅管樂團-Taiwan-Brass-Band-373591703198195/"
-            >https://www.facebook.com/pages/category/Musician-Band/臺灣銅管樂團-Taiwan-Brass-Band-373591703198195/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -749,7 +749,7 @@
           <td>洪余昇</td>
           <td>新北市新莊區新泰路179號2樓</td>
           <td>
-            <a href="http://www.opusmusic.com.tw/">http://www.opusmusic.com.tw/</a>
+            <a href="http://www.opusmusic.com.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -758,7 +758,7 @@
           <td>簡任廷</td>
           <td>新北市蘆洲區重陽街72-5號3樓</td>
           <td>
-            <a href="https://www.facebook.com/Twincussion/">https://www.facebook.com/Twincussion/</a>
+            <a href="https://www.facebook.com/Twincussion/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -767,7 +767,7 @@
           <td>王守芳</td>
           <td>新北市中和區景平路726-6號5樓之6</td>
           <td>
-            <a href="https://www.facebook.com/woodarts2010/">https://www.facebook.com/woodarts2010/</a>
+            <a href="https://www.facebook.com/woodarts2010/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -776,7 +776,7 @@
           <td>蕭崇傑</td>
           <td>新北市板橋區光復街213號4樓</td>
           <td>
-            <a href="https://www.facebook.com/HornWorks/">https://www.facebook.com/HornWorks/</a>
+            <a href="https://www.facebook.com/HornWorks/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -788,7 +788,7 @@
             <br>03-4990111
           </td>
           <td>
-            <a href="http://www.ltpo.com.tw/">http://www.ltpo.com.tw/</a>
+            <a href="http://www.ltpo.com.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -800,7 +800,7 @@
             <br>03-331-5855
           </td>
           <td>
-            <a href="https://www.facebook.com/vsso1997/">https://www.facebook.com/vsso1997/</a>
+            <a href="https://www.facebook.com/vsso1997/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -812,7 +812,7 @@
             <br>03-285-0612
           </td>
           <td>
-            <a href="https://www.facebook.com/ConBello2017/">https://www.facebook.com/ConBello2017/</a>
+            <a href="https://www.facebook.com/ConBello2017/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -821,7 +821,7 @@
           <td>林昀宏</td>
           <td>0983-553- 105</td>
           <td>
-            <a href="https://www.facebook.com/MLBQ2016/">https://www.facebook.com/MLBQ2016/</a>
+            <a href="https://www.facebook.com/MLBQ2016/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -833,7 +833,7 @@
             <br>0937-115-577
           </td>
           <td>
-            <a href="http://web.tysb.org.tw/">http://web.tysb.org.tw/</a>
+            <a href="http://web.tysb.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -844,7 +844,7 @@
           <td>
             <a
               href="https://www.facebook.com/windsoundensemble.tw/"
-            >https://www.facebook.com/windsoundensemble.tw/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -855,7 +855,7 @@
           <td>
             <a
               href="https://www.facebook.com/風城青少年管弦樂團粉絲團-144640359713791/"
-            >https://www.facebook.com/風城青少年管弦樂團粉絲團-144640359713791/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -864,7 +864,7 @@
           <td>李金恭</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/hsinchuwo/">https://www.facebook.com/hsinchuwo/</a>
+            <a href="https://www.facebook.com/hsinchuwo/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -875,7 +875,7 @@
           <td>
             <a
               href="https://www.facebook.com/bratsche.artist/"
-            >https://www.facebook.com/bratsche.artist/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -897,7 +897,7 @@
             <br>0928-956-716
           </td>
           <td>
-            <a href="http://www.classic-orch.com/">http://www.classic-orch.com/</a>
+            <a href="http://www.classic-orch.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -909,7 +909,7 @@
             <br>04-2380-6616
           </td>
           <td>
-            <a href="mailto:classic.orch@gmail.com">classic.orch@gmail.com</a>
+            <a href="mailto:classic.orch@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -921,7 +921,7 @@
             <br>04-2378-7838
           </td>
           <td>
-            <a href="https://www.facebook.com/TCSO1/">https://www.facebook.com/TCSO1/</a>
+            <a href="https://www.facebook.com/TCSO1/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -932,7 +932,7 @@
           <td>
             <a
               href="https://www.facebook.com/TaichungPhilharmonicWindEnsemble/"
-            >https://www.facebook.com/TaichungPhilharmonicWindEnsemble/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -946,9 +946,9 @@
           <td>
             <a
               href="https://www.facebook.com/taiwanyouthband/"
-            >https://www.facebook.com/taiwanyouthband/</a>
+            >連結</a>
             <br>
-            <a href="mailto:taiwanyouthband@gmail.com">taiwanyouthband@gmail.com</a>
+            <a href="mailto:taiwanyouthband@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -957,7 +957,7 @@
           <td>林怡文</td>
           <td>臺中市北區太原北路10號1樓</td>
           <td>
-            <a href="https://www.facebook.com/taiwanbrass/">https://www.facebook.com/taiwanbrass/</a>
+            <a href="https://www.facebook.com/taiwanbrass/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -969,7 +969,7 @@
             <br>0932-040-017
           </td>
           <td>
-            <a href="mailto:iamdindon@gmail.com">iamdindon@gmail.com</a>
+            <a href="mailto:iamdindon@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -983,7 +983,7 @@
           <td>
             <a
               href="https://www.facebook.com/playingforformosa/"
-            >https://www.facebook.com/playingforformosa/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -995,7 +995,7 @@
             <br>0932-455-901
           </td>
           <td>
-            <a href="mailto:chenlovemusic@gmail.com">chenlovemusic@gmail.com</a>
+            <a href="mailto:chenlovemusic@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1007,7 +1007,7 @@
             <br>04-2339-1141
           </td>
           <td>
-            <a href="https://www.ntso.gov.tw/home">https://www.ntso.gov.tw/home</a>
+            <a href="https://www.ntso.gov.tw/home">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1026,7 +1026,7 @@
           <td>陳宜彣</td>
           <td>臺中市西區英才路589巷2號6樓</td>
           <td>
-            <a href="https://www.facebook.com/gigorenmusic/">https://www.facebook.com/gigorenmusic/</a>
+            <a href="https://www.facebook.com/gigorenmusic/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1038,7 +1038,7 @@
             <br>0963-129-037
           </td>
           <td>
-            <a href="mailto:composetrio@gmail.com">composetrio@gmail.com</a>
+            <a href="mailto:composetrio@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1050,7 +1050,7 @@
             <br>04-2529-4863
           </td>
           <td>
-            <a href="mailto:recorder.capriccio@gmail.com">recorder.capriccio@gmail.com</a>
+            <a href="mailto:recorder.capriccio@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1059,7 +1059,7 @@
           <td>曾鵬宇</td>
           <td>臺中市霧峰區中正路1056巷21號</td>
           <td>
-            <a href="mailto:OrangeOrchestra2007@gmail.com">OrangeOrchestra2007@gmail.com</a>
+            <a href="mailto:OrangeOrchestra2007@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1071,7 +1071,7 @@
             <br>04-834-7485
           </td>
           <td>
-            <a href="https://baishamus.weebly.com/">https://baishamus.weebly.com/</a>
+            <a href="https://baishamus.weebly.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1093,7 +1093,7 @@
             <br>0931-581-755
           </td>
           <td>
-            <a href="https://www.facebook.com/CHYB.Fans/">https://www.facebook.com/CHYB.Fans/</a>
+            <a href="https://www.facebook.com/CHYB.Fans/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1107,7 +1107,7 @@
           <td>
             <a
               href="https://www.facebook.com/changhua7115256imucic/"
-            >https://www.facebook.com/changhua7115256imucic/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1119,7 +1119,7 @@
             <br>05-537-3919
           </td>
           <td>
-            <a href="https://www.facebook.com/Musetrio123">https://www.facebook.com/Musetrio123</a>
+            <a href="https://www.facebook.com/Musetrio123">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1143,7 +1143,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Band/陽光室內樂團-1633836913579334/"
-            >https://www.facebook.com/pages/category/Band/陽光室內樂團-1633836913579334/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1167,7 +1167,7 @@
           <td>
             <a
               href="https://sites.google.com/site/yunlinsax/"
-            >https://sites.google.com/site/yunlinsax/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1179,7 +1179,7 @@
             <br>0926-330-786
           </td>
           <td>
-            <a href="https://www.facebook.com/CYO.CHIAYI/">https://www.facebook.com/CYO.CHIAYI/</a>
+            <a href="https://www.facebook.com/CYO.CHIAYI/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1191,11 +1191,11 @@
             <br>05-222-5173
           </td>
           <td>
-            <a href="mailto:cywo@ms14.hinet.net/">cywo@ms14.hinet.net/</a>
+            <a href="mailto:cywo@ms14.hinet.net/">連結</a>
             <br>
             <a
               href="https://www.facebook.com/ChiaYiWindOrchestra/"
-            >https://www.facebook.com/ChiaYiWindOrchestra/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1207,7 +1207,7 @@
             <br>05-216-2762
           </td>
           <td>
-            <a href="mailto:lifetime@ms12.hinet.net">lifetime@ms12.hinet.net</a>
+            <a href="mailto:lifetime@ms12.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1229,7 +1229,7 @@
             <br>0929-048-109
           </td>
           <td>
-            <a href="https://www.wsa.com.tw/">https://www.wsa.com.tw/</a>
+            <a href="https://www.wsa.com.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1238,7 +1238,7 @@
           <td></td>
           <td>臺南市新化區信義路142-1號(新化演藝廳)</td>
           <td>
-            <a href="https://www.facebook.com/tsbandsh/">https://www.facebook.com/tsbandsh/</a>
+            <a href="https://www.facebook.com/tsbandsh/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1250,7 +1250,7 @@
             <br>0920-026-192
           </td>
           <td>
-            <a href="http://www.dorimu.com.tw/">http://www.dorimu.com.tw/</a>
+            <a href="http://www.dorimu.com.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1262,7 +1262,7 @@
             <br>06-293-1790
           </td>
           <td>
-            <a href="http://www.tso.org.tw/">http://www.tso.org.tw/</a>
+            <a href="http://www.tso.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1276,7 +1276,7 @@
           <td>
             <a
               href="https://www.facebook.com/台南愛樂管絃樂團-125194660844525/"
-            >https://www.facebook.com/台南愛樂管絃樂團-125194660844525/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1288,7 +1288,7 @@
             <br>06-703-5353
           </td>
           <td>
-            <a href="https://www.facebook.com/TAEGROUP/">https://www.facebook.com/TAEGROUP/</a>
+            <a href="https://www.facebook.com/TAEGROUP/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1302,7 +1302,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/Liberal-Arts-Ensemble-自由人室內樂團-132928066723153/"
-            >https://www.facebook.com/pages/category/Musician-Band/Liberal-Arts-Ensemble-自由人室內樂團-132928066723153/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1314,9 +1314,9 @@
             <br>07-559-1067
           </td>
           <td>
-            <a href="mailto:fl.miracle@gmail.com">fl.miracle@gmail.com</a>
+            <a href="mailto:fl.miracle@gmail.com">連結</a>
             <br>
-            <a href="http://www.miracle.tw">http://www.miracle.tw</a>
+            <a href="http://www.miracle.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1325,7 +1325,7 @@
           <td>李茂嵩</td>
           <td>高雄市新興區八德一路335號5樓</td>
           <td>
-            <a href="mailto:op.maosunglee@gmail.com">op.maosunglee@gmail.com</a>
+            <a href="mailto:op.maosunglee@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1337,7 +1337,7 @@
             <br>07-715-6611
           </td>
           <td>
-            <a href="mailto:sixartsmusic@gmail.com">sixartsmusic@gmail.com</a>
+            <a href="mailto:sixartsmusic@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1349,9 +1349,9 @@
             <br>07-525-1556
           </td>
           <td>
-            <a href="mailto:kmu021013@gmail.com">kmu021013@gmail.com</a>
+            <a href="mailto:kmu021013@gmail.com">連結</a>
             <br>
-            <a href="http://www.baroque-camerata.org/">http://www.baroque-camerata.org/</a>
+            <a href="http://www.baroque-camerata.org/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1363,7 +1363,7 @@
             <br>02-2922-6131
           </td>
           <td>
-            <a href="mailto:bachanaliataiwan@gmail.com">bachanaliataiwan@gmail.com</a>
+            <a href="mailto:bachanaliataiwan@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1375,7 +1375,7 @@
             <br>0908-217-568
           </td>
           <td>
-            <a href="mailto:yijenwang@tlbebrass.com">yijenwang@tlbebrass.com</a>
+            <a href="mailto:yijenwang@tlbebrass.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1387,7 +1387,7 @@
             <br>07-332-7006
           </td>
           <td>
-            <a href="mailto:sonatarecord@gmail.com">sonatarecord@gmail.com</a>
+            <a href="mailto:sonatarecord@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1399,9 +1399,9 @@
             <br>07-225-4100
           </td>
           <td>
-            <a href="mailto:info@cmiam.com">info@cmiam.com</a>
+            <a href="mailto:info@cmiam.com">連結</a>
             <br>
-            <a href="http://www.taiwansoloists.org">http://www.taiwansoloists.org</a>
+            <a href="http://www.taiwansoloists.org">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1413,7 +1413,7 @@
             <br>07-341-1356
           </td>
           <td>
-            <a href="mailto:chiayin2014@gmail.com">chiayin2014@gmail.com</a>
+            <a href="mailto:chiayin2014@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1425,7 +1425,7 @@
             <br>0955-215-877
           </td>
           <td>
-            <a href="mailto:defendyourself2018@gmail.com">defendyourself2018@gmail.com</a>
+            <a href="mailto:defendyourself2018@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1439,7 +1439,7 @@
           <td>
             <a
               href="http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht"
-            >http://kpcaf.khcc.gov.tw/index.php?temp=kso&amp;lang=cht</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1451,7 +1451,7 @@
             <br>07-715-6611
           </td>
           <td>
-            <a href="mailto:kcwo2012@gmail.com">kcwo2012@gmail.com</a>
+            <a href="mailto:kcwo2012@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1463,7 +1463,7 @@
             <br>07-662-3208
           </td>
           <td>
-            <a href="mailto:kce.taiwan@gmail.com">kce.taiwan@gmail.com</a>
+            <a href="mailto:kce.taiwan@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1475,7 +1475,7 @@
             <br>07-282-8496
           </td>
           <td>
-            <a href="mailto:godspeed0304@yahoo.com.tw">godspeed0304@yahoo.com.tw</a>a
+            <a href="mailto:godspeed0304@yahoo.com.tw">連結</a>a
           </td>
           <td></td>
         </tr>
@@ -1487,9 +1487,9 @@
             <br>07-226-0989
           </td>
           <td>
-            <a href="mailto:tw.counterpoint@gmail.com">tw.counterpoint@gmail.com</a>
+            <a href="mailto:tw.counterpoint@gmail.com">連結</a>
             <br>
-            <a href="http://www.counterpoint.org.tw/">http://www.counterpoint.org.tw/</a>
+            <a href="http://www.counterpoint.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1501,7 +1501,7 @@
             <br>0911-163-707
           </td>
           <td>
-            <a href="http://www.formosabaroque.com">http://www.formosabaroque.com</a>
+            <a href="http://www.formosabaroque.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1513,7 +1513,7 @@
             <br>091067749
           </td>
           <td>
-            <a href="mailto:fred2002m@yahoo.com.tw">fred2002m@yahoo.com.tw</a>
+            <a href="mailto:fred2002m@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1525,7 +1525,7 @@
             <br>0988-530-086
           </td>
           <td>
-            <a href="mailto:irisma313@gmail.com">irisma313@gmail.com</a>
+            <a href="mailto:irisma313@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1537,7 +1537,7 @@
             <br>07-521-4731
           </td>
           <td>
-            <a href="mailto:yh002e@yahoo.com">yh002e@yahoo.com</a>
+            <a href="mailto:yh002e@yahoo.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1549,7 +1549,7 @@
             <br>0930-818-040
           </td>
           <td>
-            <a href="mailto:onaip1017@gmail.com">onaip1017@gmail.com</a>
+            <a href="mailto:onaip1017@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1561,7 +1561,7 @@
             <br>07-385-5641
           </td>
           <td>
-            <a href="mailto:succperc1995@gmail.com">succperc1995@gmail.com</a>
+            <a href="mailto:succperc1995@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1573,7 +1573,7 @@
             <br>0910-966-988
           </td>
           <td>
-            <a href="mailto:p7517777@xuite.hinet.net">p7517777@xuite.hinet.net</a>
+            <a href="mailto:p7517777@xuite.hinet.net">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1585,7 +1585,7 @@
             <br>08-737-2099
           </td>
           <td>
-            <a href="mailto:fanfare2099@gmail.com">fanfare2099@gmail.com</a>
+            <a href="mailto:fanfare2099@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1594,7 +1594,7 @@
           <td>曾令凱</td>
           <td>0921-250-966</td>
           <td>
-            <a href="https://www.facebook.com/ptso2016/">https://www.facebook.com/ptso2016/</a>
+            <a href="https://www.facebook.com/ptso2016/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1606,7 +1606,7 @@
             <br>0912-777-479
           </td>
           <td>
-            <a href="https://www.facebook.com/ptsb1995/">https://www.facebook.com/ptsb1995/</a>
+            <a href="https://www.facebook.com/ptsb1995/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1628,7 +1628,7 @@
             <br>0956-610-621
           </td>
           <td>
-            <a href="mailto:sj_5512@yahoo.com.tw">sj_5512@yahoo.com.tw</a>
+            <a href="mailto:sj_5512@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1640,7 +1640,7 @@
             <br>08-722-0635
           </td>
           <td>
-            <a href="mailto:chinyihsu@gmail.com">chinyihsu@gmail.com</a>
+            <a href="mailto:chinyihsu@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1652,7 +1652,7 @@
             <br>0963-131-252
           </td>
           <td>
-            <a href="mailto:singyue.music@gmail.com">singyue.music@gmail.com</a>
+            <a href="mailto:singyue.music@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1664,7 +1664,7 @@
             <br>0981-341-834
           </td>
           <td>
-            <a href="mailto:f902601@hotmail.com">f902601@hotmail.com</a>
+            <a href="mailto:f902601@hotmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1676,7 +1676,7 @@
             <br>0911-659-343
           </td>
           <td>
-            <a href="mailto:shiehyf@gmail.com">shiehyf@gmail.com</a>
+            <a href="mailto:shiehyf@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1688,7 +1688,7 @@
             <br>0933-046-547
           </td>
           <td>
-            <a href="mailto:trbarts2004@yahoo.com.tw">trbarts2004@yahoo.com.tw</a>
+            <a href="mailto:trbarts2004@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1700,7 +1700,7 @@
             <br>0952-003-877
           </td>
           <td>
-            <a href="http://come-app.com.tw/web/4660/">http://come-app.com.tw/web/4660/</a>
+            <a href="http://come-app.com.tw/web/4660/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1712,7 +1712,7 @@
             <br>0914-034-039
           </td>
           <td>
-            <a href="mailto:deannawu88@gmail.com">deannawu88@gmail.com</a>
+            <a href="mailto:deannawu88@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1724,7 +1724,7 @@
             <br>03-936-9115#115
           </td>
           <td>
-            <a href="mailto:yilanperform@gmail.com">yilanperform@gmail.com</a>
+            <a href="mailto:yilanperform@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1743,7 +1743,7 @@
             <br>03- 832-4517
           </td>
           <td>
-            <a href="https://phononmusic.wordpress.com/">https://phononmusic.wordpress.com/</a>
+            <a href="https://phononmusic.wordpress.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1754,7 +1754,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Performing-Arts/High-Fly豎笛四重奏-1501783193374355/"
-            >https://www.facebook.com/pages/category/Performing-Arts/High-Fly豎笛四重奏-1501783193374355/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1763,7 +1763,7 @@
           <td>劉環瑜</td>
           <td>0988-517-389</td>
           <td>
-            <a href="mailto:Liuhuanyu11@gmail.com">Liuhuanyu11@gmail.com</a>
+            <a href="mailto:Liuhuanyu11@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1777,7 +1777,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Band/禾弦愛樂-231168581004213/"
-            >https://www.facebook.com/pages/category/Band/禾弦愛樂-231168581004213/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1791,7 +1791,7 @@
           <td>
             <a
               href="https://sites.google.com/site/juzhiyinmudihezoutuan/"
-            >https://sites.google.com/site/juzhiyinmudihezoutuan/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1820,7 +1820,7 @@
           <td></td>
           <td></td>
           <td>
-            <a href="https://reurl.cc/WDRXD">https://reurl.cc/WDRXD</a>
+            <a href="https://reurl.cc/WDRXD">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1832,9 +1832,9 @@
       <thead>
         <tr>
           <th>名稱</th>
-          <th>負責人</th>
+          <th style="width:14%">負責人</th>
           <th>地址/電話</th>
-          <th>其他聯絡方式</th>
+          <th style="width:13%">其他聯絡方式</th>
           <th>備註</th>
         </tr>
       </thead>
@@ -1849,7 +1849,7 @@
           <td>
             <a
               href="http://www.yuyun.org.tw/yuyun/index.php/component/content/?view=featured"
-            >http://www.yuyun.org.tw/yuyun/index.php/component/content/?view=featured</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1863,7 +1863,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Performing-Arts/基隆市啄木鳥合唱團粉絲團-516315805193598/"
-            >https://www.facebook.com/pages/category/Performing-Arts/基隆市啄木鳥合唱團粉絲團-516315805193598/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1877,7 +1877,7 @@
           <td>
             <a
               href="https://www.facebook.com/KeelungPhilharmonicChoir/"
-            >https://www.facebook.com/KeelungPhilharmonicChoir/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1889,7 +1889,7 @@
             <br>0933-935-303
           </td>
           <td>
-            <a href="https://www.facebook.com/hsieh.jsc">https://www.facebook.com/hsieh.jsc</a>
+            <a href="https://www.facebook.com/hsieh.jsc">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1898,7 +1898,7 @@
           <td>李鴻偉</td>
           <td>臺北市大安區和平東路一段163號7樓</td>
           <td>
-            <a href="http://gmajor.infm.net/community/">http://gmajor.infm.net/community/</a>
+            <a href="http://gmajor.infm.net/community/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1912,9 +1912,9 @@
           <td>
             <a
               href="https://www.vocalasia.com/index.php?lang=tw"
-            >https://www.vocalasia.com/index.php?lang=tw</a>
+            >連結</a>
             <br>
-            <a href="mailto:info@vocalasia.com">info@vocalasia.com</a>
+            <a href="mailto:info@vocalasia.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1926,7 +1926,7 @@
             <br>0933-701-390
           </td>
           <td>
-            <a href="mailto:aasote@gmail.com">aasote@gmail.com</a>
+            <a href="mailto:aasote@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1938,7 +1938,7 @@
             <br>02-2365-8943
           </td>
           <td>
-            <a href="http://www.muller.org.tw">http://www.muller.org.tw</a>
+            <a href="http://www.muller.org.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1950,7 +1950,7 @@
             <br>0952-790-068
           </td>
           <td>
-            <a href="mailto:ntuchorusone@gmail.com">ntuchorusone@gmail.com</a>
+            <a href="mailto:ntuchorusone@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1962,7 +1962,7 @@
             <br>0920-592-810
           </td>
           <td>
-            <a href="http://www.taipeicenturychoir.org.tw/">http://www.taipeicenturychoir.org.tw/</a>
+            <a href="http://www.taipeicenturychoir.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1974,7 +1974,7 @@
             <br>02-2776-4089
           </td>
           <td>
-            <a href="http://www.tcschoir.org.tw/">www.tcschoir.org.tw/</a>
+            <a href="http://www.tcschoir.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1986,7 +1986,7 @@
             <br>0910-229-300
           </td>
           <td>
-            <a href="http://tccc.main.nu">http://tccc.main.nu</a>
+            <a href="http://tccc.main.nu">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1998,7 +1998,7 @@
             <br>02-2751-0191
           </td>
           <td>
-            <a href="http://www.hantaipei.org">http://www.hantaipei.org</a>
+            <a href="http://www.hantaipei.org">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2010,7 +2010,7 @@
             <br>0972-101-106
           </td>
           <td>
-            <a href="mailto:9508b2@gmail.com">9508b2@gmail.com</a>
+            <a href="mailto:9508b2@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2021,7 +2021,7 @@
           <td>
             <a
               href="https://www.facebook.com/pg/tabernacle.choir/about/?ref=page_internal"
-            >https://www.facebook.com/pg/tabernacle.choir/about/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2033,19 +2033,19 @@
             <br>02-2365-8943
           </td>
           <td>
-            <a href="http://lavoixdazur.blogspot.com/">http://lavoixdazur.blogspot.com/</a>
+            <a href="http://lavoixdazur.blogspot.com/">連結</a>
           </td>
           <td></td>
         </tr>
         <tr>
           <td>蝦米視障人聲樂團</td>
-          <td>代表人 朱元雷 公關 劉靜惠</td>
+          <td>代表人 朱元雷<br>公關 劉靜惠</td>
           <td>
             臺北市內湖區麗山里內湖路一段387巷5號
             <br>02-2920-9028
           </td>
           <td>
-            <a href="https://www.facebook.com/shiamishiami/">https://www.facebook.com/shiamishiami/</a>
+            <a href="https://www.facebook.com/shiamishiami/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2054,7 +2054,7 @@
           <td>劉靜諭</td>
           <td>臺北市大安區復興南路一段107巷5弄18號</td>
           <td>
-            <a href="mailto:lcy6667@gmail.com">lcy6667@gmail.com</a>
+            <a href="mailto:lcy6667@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2066,7 +2066,7 @@
             <br>02- 2591-9422
           </td>
           <td>
-            <a href="http://formosasingers.org.tw/">http://formosasingers.org.tw/</a>
+            <a href="http://formosasingers.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2078,7 +2078,7 @@
             <br>02-8913-2068
           </td>
           <td>
-            <a href="http://www.tmccaf.org.tw/">http://www.tmccaf.org.tw/</a>
+            <a href="http://www.tmccaf.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2090,7 +2090,7 @@
             <br>02-8913-2068
           </td>
           <td>
-            <a href="http://www.tmccaf.org.tw/">http://www.tmccaf.org.tw/</a>
+            <a href="http://www.tmccaf.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2102,7 +2102,7 @@
             <br>02-8913-2068
           </td>
           <td>
-            <a href="http://www.tmccaf.org.tw/">http://www.tmccaf.org.tw/</a>
+            <a href="http://www.tmccaf.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2114,7 +2114,7 @@
             <br>02-8913-2069
           </td>
           <td>
-            <a href="http://www.tmccaf.org.tw/">http://www.tmccaf.org.tw/</a>
+            <a href="http://www.tmccaf.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2126,7 +2126,7 @@
             <br>0929-356-282
           </td>
           <td>
-            <a href="http://www.sirensv/">http://www.sirensv/</a>
+            <a href="http://www.sirensv/">連結</a>
           </td>
           <td>宜蘭市立案演藝團體</td>
         </tr>
@@ -2137,7 +2137,7 @@
           <td>
             <a
               href="https://www.facebook.com/TheOctangleSingers/"
-            >https://www.facebook.com/TheOctangleSingers/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2149,9 +2149,9 @@
             <br>02-2771-1270
           </td>
           <td>
-            <a href="https://www.chinyun.org.tw">https://www.chinyun.org.tw</a>
+            <a href="https://www.chinyun.org.tw">連結</a>
             <br>
-            <a href="mailto:chingyunchoir@gmail.com">chingyunchoir@gmail.com</a>
+            <a href="mailto:chingyunchoir@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2160,7 +2160,7 @@
           <td>方素貞</td>
           <td>新北市板橋區文化路二段90號地下1樓</td>
           <td>
-            <a href="https://www.facebook.com/huashincc/">https://www.facebook.com/huashincc/</a>
+            <a href="https://www.facebook.com/huashincc/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2171,7 +2171,7 @@
           <td>
             <a
               href="https://www.facebook.com/TaoYuanChoirOfJoy/"
-            >https://www.facebook.com/TaoYuanChoirOfJoy/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2180,7 +2180,7 @@
           <td>賴家慶</td>
           <td>0958-137-281</td>
           <td>
-            <a href="https://www.facebook.com/okaisingers/">https://www.facebook.com/okaisingers/</a>
+            <a href="https://www.facebook.com/okaisingers/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2191,7 +2191,7 @@
           <td>
             <a
               href="https://www.facebook.com/YiPhoneChamberChoir/"
-            >https://www.facebook.com/YiPhoneChamberChoir/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2200,7 +2200,7 @@
           <td>負責人 張瑞釗</td>
           <td>0919-314- 793</td>
           <td>
-            <a href="https://www.facebook.com/seagullk.tw/">https://www.facebook.com/seagullk.tw/</a>
+            <a href="https://www.facebook.com/seagullk.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2209,7 +2209,7 @@
           <td>朱娟瑩</td>
           <td>新竹市東區工業東二路1號4樓407室</td>
           <td>
-            <a href="http://www.crystalchoir.org.tw/">http://www.crystalchoir.org.tw/</a>
+            <a href="http://www.crystalchoir.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2220,7 +2220,7 @@
           <td>
             <a
               href="http://sibonnevie.wixsite.com/theodeofspring/blank-11"
-            >http://sibonnevie.wixsite.com/theodeofspring/blank-11</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2232,7 +2232,7 @@
             <br>0978-589-019
           </td>
           <td>
-            <a href="http://tccchoir.blogspot.com/">http://tccchoir.blogspot.com/</a>
+            <a href="http://tccchoir.blogspot.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2243,7 +2243,7 @@
           <td>
             <a
               href="http://taichungartistchoir.com/about-us/about-tacc"
-            >http://taichungartistchoir.com/about-us/about-tacc</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2255,7 +2255,7 @@
             <br>0982-918-508
           </td>
           <td>
-            <a href="https://www.facebook.com/sstaichung">https://www.facebook.com/sstaichung</a>
+            <a href="https://www.facebook.com/sstaichung">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2267,7 +2267,7 @@
             <br>04-2238-8203
           </td>
           <td>
-            <a href="mailto:lcc36419@yahoo.com.tw">lcc36419@yahoo.com.tw</a>
+            <a href="mailto:lcc36419@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2301,7 +2301,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Performing-Arts/162104895425/"
-            >https://www.facebook.com/pages/category/Performing-Arts/162104895425/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2313,7 +2313,7 @@
             <br>05-277-8577
           </td>
           <td>
-            <a href="mailto:nicola2031@yahoo.com.tw">nicola2031@yahoo.com.tw</a>
+            <a href="mailto:nicola2031@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2324,7 +2324,7 @@
           <td>
             <a
               href="https://www.facebook.com/Chiayi.Chamber.Choir/"
-            >https://www.facebook.com/Chiayi.Chamber.Choir/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2333,7 +2333,7 @@
           <td>鍾秀華</td>
           <td>嘉義市忠義街197巷8號</td>
           <td>
-            <a href="mailto:mama340217@yahoo.com.tw">mama340217@yahoo.com.tw</a>
+            <a href="mailto:mama340217@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2344,7 +2344,7 @@
           <td>
             <a
               href="https://www.facebook.com/MP-Singers-173637153206556/posts"
-            >https://www.facebook.com/MP-Singers-173637153206556/posts</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2356,7 +2356,7 @@
             <br>06-261-4879
           </td>
           <td>
-            <a href="http://www.earthart.org.tw/index.htm">http://www.earthart.org.tw/index.htm</a>
+            <a href="http://www.earthart.org.tw/index.htm">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2370,7 +2370,7 @@
           <td>
             <a
               href="https://www.facebook.com/台南市愛樂合唱團-156018251201644/"
-            >https://www.facebook.com/台南市愛樂合唱團-156018251201644/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2384,7 +2384,7 @@
           <td>
             <a
               href="https://www.facebook.com/tainanchamber/"
-            >https://www.facebook.com/tainanchamber/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2396,7 +2396,7 @@
             <br>0926-057-609
           </td>
           <td>
-            <a href="http://msju2004.pixnet.net/blog">http://msju2004.pixnet.net/blog</a>
+            <a href="http://msju2004.pixnet.net/blog">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2415,7 +2415,7 @@
           <td>劉益廷</td>
           <td>臺南市賢北街25巷42號1樓</td>
           <td>
-            <a href="https://www.facebook.com/hopefulseeds/">https://www.facebook.com/hopefulseeds/</a>
+            <a href="https://www.facebook.com/hopefulseeds/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2427,7 +2427,7 @@
             <br>0937-025-252
           </td>
           <td>
-            <a href="mailto:natus.cantorum@gmail.com">natus.cantorum@gmail.com</a>
+            <a href="mailto:natus.cantorum@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2439,7 +2439,7 @@
             <br>07-215-7604
           </td>
           <td>
-            <a href="mailto:cycchoir@gmail.com">cycchoir@gmail.com</a>
+            <a href="mailto:cycchoir@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2450,7 +2450,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/高雄市佳音合唱團-205952043285448/"
-            >https://www.facebook.com/pages/category/Musician-Band/高雄市佳音合唱團-205952043285448/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2462,7 +2462,7 @@
             <br>07-521-0626
           </td>
           <td>
-            <a href="mailto:music4700@yahoo.com.tw">music4700@yahoo.com.tw</a>
+            <a href="mailto:music4700@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2476,7 +2476,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/Kaohsiung-Chamber-Choir-高雄室內合唱團-161258233928570/"
-            >https://www.facebook.com/pages/category/Musician-Band/Kaohsiung-Chamber-Choir-高雄室內合唱團-161258233928570/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2495,7 +2495,7 @@
             <br>0937-331-407
           </td>
           <td>
-            <a href="mailto:cfleekhh@yahoo.com.tw">cfleekhh@yahoo.com.tw</a>
+            <a href="mailto:cfleekhh@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2507,7 +2507,7 @@
             <br>0986-099-633
           </td>
           <td>
-            <a href="mailto:kaohsiungpcc@gmail.com">kaohsiungpcc@gmail.com</a>
+            <a href="mailto:kaohsiungpcc@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2521,7 +2521,7 @@
           <td>
             <a
               href="https://www.facebook.com/pages/category/Performing-Arts/Acapassion阿卡佩炫人聲樂團-1029498567118113/"
-            >https://www.facebook.com/pages/category/Performing-Arts/Acapassion阿卡佩炫人聲樂團-1029498567118113/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2533,7 +2533,7 @@
             <br>0920-284-449
           </td>
           <td>
-            <a href="https://www.facebook.com/singers.SURE/">https://www.facebook.com/singers.SURE/</a>
+            <a href="https://www.facebook.com/singers.SURE/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2545,7 +2545,7 @@
             <br>08-736-9441
           </td>
           <td>
-            <a href="https://www.facebook.com/ThePureBand/">https://www.facebook.com/ThePureBand/</a>
+            <a href="https://www.facebook.com/ThePureBand/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2557,7 +2557,7 @@
             <br>08-756-0198
           </td>
           <td>
-            <a href="https://www.facebook.com/pcc999/">https://www.facebook.com/pcc999/</a>
+            <a href="https://www.facebook.com/pcc999/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2569,7 +2569,7 @@
             <br>08-788-3360
           </td>
           <td>
-            <a href="mailto:chen7883360@yahoo.com.tw">chen7883360@yahoo.com.tw</a>
+            <a href="mailto:chen7883360@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2581,7 +2581,7 @@
             <br>0952-334-388
           </td>
           <td>
-            <a href="https://www.facebook.com/sonar1998/">https://www.facebook.com/sonar1998/</a>
+            <a href="https://www.facebook.com/sonar1998/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2593,7 +2593,7 @@
             <br>03-931-2289
           </td>
           <td>
-            <a href="mailto:tsaililin@yahoo.com.tw">tsaililin@yahoo.com.tw</a>
+            <a href="mailto:tsaililin@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2605,7 +2605,7 @@
             <br>03-936-9115 #116
           </td>
           <td>
-            <a href="mailto:yilanperform@gmail.com">yilanperform@gmail.com</a>
+            <a href="mailto:yilanperform@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2614,7 +2614,7 @@
           <td>徐菊紅</td>
           <td>宜蘭市復興里12鄰復興路一段121 巷21弄13號</td>
           <td>
-            <a href="mailto:shu_3450@yahoo.com.tw">shu_3450@yahoo.com.tw</a>
+            <a href="mailto:shu_3450@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2626,7 +2626,7 @@
             <br>0937-168-385
           </td>
           <td>
-            <a href="https://www.facebook.com/HualienChoir/">https://www.facebook.com/HualienChoir/</a>
+            <a href="https://www.facebook.com/HualienChoir/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2635,7 +2635,7 @@
           <td>趙佩憶</td>
           <td>花蓮縣新城鄉北埔村民有街397號</td>
           <td>
-            <a href="https://www.facebook.com/etwe.1989/">https://www.facebook.com/etwe.1989/</a>
+            <a href="https://www.facebook.com/etwe.1989/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2644,7 +2644,7 @@
           <td></td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/TTNDChorus/">https://www.facebook.com/TTNDChorus/</a>
+            <a href="https://www.facebook.com/TTNDChorus/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2655,7 +2655,7 @@
           <td>
             <a
               href="https://www.facebook.com/PuzangalanChoir/"
-            >https://www.facebook.com/PuzangalanChoir/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2667,7 +2667,7 @@
             <br>0922-911-389
           </td>
           <td>
-            <a href="http://www.tmccaf.org.tw/index.php">http://www.tmccaf.org.tw/index.php</a>
+            <a href="http://www.tmccaf.org.tw/index.php">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2719,7 +2719,7 @@
             <br>0953-014-721
           </td>
           <td>
-            <a href="mailto:kinmen6526371@yahoo.com.tw">kinmen6526371@yahoo.com.tw</a>
+            <a href="mailto:kinmen6526371@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2728,7 +2728,7 @@
           <td>吳健忠</td>
           <td></td>
           <td>
-            <a href="https://reurl.cc/OVGkv">https://reurl.cc/OVGkv</a>
+            <a href="https://reurl.cc/OVGkv">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2755,7 +2755,7 @@
             <br>02-2897-5900
           </td>
           <td>
-            <a href="http://www.acl-taiwan.org.tw/">http://www.acl-taiwan.org.tw/</a>
+            <a href="http://www.acl-taiwan.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2764,7 +2764,7 @@
           <td>董昭民</td>
           <td>臺北市大安區德安里四維路52巷27-2號3樓</td>
           <td>
-            <a href="https://www.taiwancomputermusic.org/">https://www.taiwancomputermusic.org/</a>
+            <a href="https://www.taiwancomputermusic.org/">連結</a>
           </td>
           <td>
             <em></em>
@@ -2777,7 +2777,7 @@
           <td>
             <a
               href="http://www.poco-a-poco.org/pocoapoco/portal/PortalHome.asp"
-            >http://www.poco-a-poco.org/pocoapoco/portal/PortalHome.asp</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2789,7 +2789,7 @@
             <br>02-2891-9900
           </td>
           <td>
-            <a href="http://www.jpg.org.tw/">http://www.jpg.org.tw/</a>
+            <a href="http://www.jpg.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2802,7 +2802,7 @@
           <td>
             <a
               href="http://www.vocalistasso.org.tw/front/bin/home.phtml"
-            >http://www.vocalistasso.org.tw/front/bin/home.phtml</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -2814,7 +2814,7 @@
             <br>02-2773-3691
           </td>
           <td>
-            <a href="http://www.tpf.org.tw/">http://www.tpf.org.tw/</a>
+            <a href="http://www.tpf.org.tw/">連結</a>
           </td>
           <td></td>
         </tr>
