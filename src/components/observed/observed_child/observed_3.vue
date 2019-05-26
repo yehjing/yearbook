@@ -34,9 +34,9 @@
     <span>表1：2018年福佬系歌謠之活動主題</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td style="width:6%"></td>
+        <td style="width:5%"></td>
         <td class="tableCenter">活動主題</td>
-        <td class="tableCenter">日期</td>
+        <td style="width:18%" class="tableCenter">日期</td>
         <td class="tableCenter">地點</td>
         <td class="tableCenter">展演</td>
         <td class="tableCenter">推廣</td>
@@ -47,7 +47,7 @@
       <tr>
         <td>1</td>
         <td>追尋歷史．原音重現－民歌採集50年特展</td>
-        <td>2017/10/27-2018/09/30</td>
+        <td>2017/10/27-<br>2018/09/30</td>
         <td>臺灣戲曲中心臺灣音樂館3樓展示室(臺北市)</td>
         <td></td>
         <td>V</td>
@@ -69,7 +69,7 @@
       <tr>
         <td>3</td>
         <td>2018古早味ㄟ臺語金曲演唱會－許石先生的歌謠創作年代(共2集)</td>
-        <td>02/15-02/17(含重播)</td>
+        <td>02/15-02/17<br>(含重播)</td>
         <td>公視</td>
         <td>V</td>
         <td></td>
@@ -334,8 +334,7 @@
         <td>27</td>
         <td>民謠舵手鍾明昆教授紀念展</td>
         <td>
-          08/18-
-          11/11
+          08/18-11/11
         </td>
         <td>屏東縣滿州民謠館</td>
         <td></td>
@@ -1677,13 +1676,13 @@
     <span>表9：2018年有關「唸歌仔」的活動主題</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
-        <td style="width:6%"></td>
+        <td style="width:5%"></td>
         <td class="tableCenter">活動主題</td>
-        <td class="tableCenter">日期</td>
+        <td style="width:18%" class="tableCenter">日期</td>
         <td class="tableCenter">楊</td>
         <td class="tableCenter">微笑</td>
         <td class="tableCenter">其他</td>
-        <td class="tableCenter">地點</td>
+        <td style="width:20%" class="tableCenter">地點</td>
         <td class="tableCenter">展演</td>
         <td class="tableCenter">推廣</td>
         <td class="tableCenter">傳習</td>
@@ -2319,8 +2318,7 @@
         <td>48</td>
         <td>唸歌藝術紮根計畫－唸歌說唱藝術基礎班</td>
         <td>
-          09/06-
-          11/29
+          09/06-11/29
         </td>
         <td></td>
         <td>V</td>

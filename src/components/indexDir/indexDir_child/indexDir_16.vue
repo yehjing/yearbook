@@ -119,7 +119,7 @@
           <td></td>
           <td>屏東縣牡丹鄉東源村</td>
           <td>
-            <a href="https://www.facebook.com/sauniaw">https://www.facebook.com/sauniaw</a>
+            <a href="https://www.facebook.com/sauniaw">連結</a>
           </td>
           <td>臺灣第一個打破專屬男性傳統，學習口、鼻笛的女性。2011年，屏東縣政府將她列為屏東縣傳統藝術排灣族口、鼻笛傳藝師。</td>
         </tr>
@@ -128,7 +128,7 @@
           <td>牡丹國小</td>
           <td>屏東縣牡丹鄉牡丹路93號08-883-0065</td>
           <td>
-            <a href="https://www.facebook.com/love.mudan/">https://www.facebook.com/love.mudan/</a>
+            <a href="https://www.facebook.com/love.mudan/">連結</a>
           </td>
           <td>2010年在學校支持下成立，由王曉慧老師指導，多次獲邀演出，並在2006年的全縣鄉土歌謠比賽榮獲優等佳績。</td>
         </tr>
@@ -139,7 +139,7 @@
           <td>
             <a
               href="https://sites.google.com/site/ljemingas005/"
-            >https://sites.google.com/site/ljemingas005/</a>
+            >連結</a>
           </td>
           <td>2013年由白勇務理事長成立的牡丹古謠班，為牡丹鄉第一個部落古謠班。</td>
         </tr>
@@ -150,7 +150,7 @@
           <td>
             <a
               href="https://www.facebook.com/佳平彩虹古謠隊-602875839756163/"
-            >https://www.facebook.com/佳平彩虹古謠隊-602875839756163/</a>
+            >連結</a>
           </td>
           <td>屏東縣武潭國小佳平分校的排灣族合唱團。</td>
         </tr>
@@ -159,7 +159,7 @@
           <td></td>
           <td>屏東縣牡丹鄉石門村</td>
           <td>
-            <a href="https://www.facebook.com/ivi.kalaya">https://www.facebook.com/ivi.kalaya</a>
+            <a href="https://www.facebook.com/ivi.kalaya">連結</a>
           </td>
           <td>原住民族文化園區及原舞者的創始團員，也是現任瑪莎露樂團的主唱。</td>
         </tr>
@@ -168,7 +168,7 @@
           <td>阿VAN老師</td>
           <td>屏東縣牡丹鄉高士村</td>
           <td>
-            <a href="https://www.facebook.com/KusKusaSenai/">https://www.facebook.com/KusKusaSenai/</a>
+            <a href="https://www.facebook.com/KusKusaSenai/">連結</a>
           </td>
           <td>由獲得第23屆金曲獎最佳演唱組合的新寶島康樂隊的排灣族成員&mdash;阿van於2012年成立。</td>
         </tr>
@@ -179,7 +179,7 @@
           <td>
             <a
               href="https://www.facebook.com/TaiwuAncientBalladsTroupe/"
-            >https://www.facebook.com/TaiwuAncientBalladsTroupe/</a>
+            >連結</a>
           </td>
           <td>第23屆金曲獎「最佳傳統音樂詮釋獎」、第25屆金曲獎「最佳原住民語專輯獎」。</td>
         </tr>
@@ -188,7 +188,7 @@
           <td></td>
           <td>屏東縣牡丹鄉石門村</td>
           <td>
-            <a href="https://www.facebook.com/TaiSiaoChun">https://www.facebook.com/TaiSiaoChun</a>
+            <a href="https://www.facebook.com/TaiSiaoChun">連結</a>
           </td>
           <td>入圍第28屆金曲獎流行類「最佳原住民語專輯獎」、「最佳原住民語歌手獎」和「年度專輯」。</td>
         </tr>
@@ -199,9 +199,9 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>名稱</th>
+          <th style="width:24%">名稱</th>
           <th style="width:11%">負責人</th>
-          <th>地址/電話</th>
+          <th style="width:28%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th>備註</th>
         </tr>
@@ -215,7 +215,7 @@
             <br>049-279-2800
           </td>
           <td>
-            <a href="http://sixstar.moc.gov">http://sixstar.moc.gov</a>
+            <a href="http://sixstar.moc.gov">連結</a>
           </td>
           <td>Lileh之聲合唱團</td>
         </tr>
@@ -226,7 +226,7 @@
           <td>
             <a
               href="https://www.facebook.com/小芳家族-1712064369093367/"
-            >https://www.facebook.com/小芳家族-1712064369093367/</a>
+            >連結</a>
           </td>
           <td>布農族演出團體</td>
         </tr>
@@ -249,7 +249,7 @@
           <td>
             <a
               href="http://sixstar.moc.gov.tw/blog/shinibunun"
-            >http://sixstar.moc.gov.tw/blog/shinibunun</a>
+            >連結</a>
           </td>
           <td>1999年成立，為國家級重要傳統藝術保存團體，練習時間：每週一19:30-21:00。</td>
         </tr>
@@ -261,7 +261,7 @@
             <br>049-270-1340
           </td>
           <td>
-            <a href="http://www.tpups.ntct.edu.tw">www.tpups.ntct.edu.tw</a>
+            <a href="http://www.tpups.ntct.edu.tw">連結</a>
           </td>
           <td>布農族演出團體</td>
         </tr>
@@ -270,7 +270,7 @@
           <td>洪春滿</td>
           <td></td>
           <td>
-            <a href="https://voxnativausa.org">https://voxnativausa.org</a>
+            <a href="https://voxnativausa.org">連結</a>
           </td>
           <td>成立於2008年，布農族演出團體。</td>
         </tr>
@@ -383,7 +383,7 @@
           <td>
             <a
               href="https://www.facebook.com/DrekaiYacengeceng/"
-            >https://www.facebook.com/DrekaiYacengeceng/</a>
+            >連結</a>
           </td>
           <td>成立時間於2008年3月</td>
         </tr>
@@ -394,10 +394,10 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>名稱</th>
+          <th style="width:20%">名稱</th>
           <th style="width:10%">負責人</th>
-          <th>地址/電話</th>
-          <th>其他聯絡方式</th>
+          <th style="width:28%">地址/電話</th>
+          <th style="width:15%">其他聯絡方式</th>
           <th>備註</th>
         </tr>
       </thead>
@@ -406,10 +406,10 @@
           <td>Am band樂團</td>
           <td>溫麗珍</td>
           <td>
-            <br>0976-677-611
+            0976-677-611
           </td>
           <td>
-            <a href="https://line.me/R/ti/p/%40kkr3620f">https://line.me/R/ti/p/%40kkr3620f</a>
+            <a href="https://line.me/R/ti/p/%40kkr3620f">連結</a>
           </td>
           <td>鄒族演出團體2017/12/29發行首張鄒語創作專輯「故鄉」。</td>
         </tr>
@@ -423,7 +423,7 @@
           <td>
             <a
               href="https://www.facebook.com/cou.culture.center/"
-            >https://www.facebook.com/cou.culture.center/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -435,7 +435,7 @@
             <br>0937-476-115
           </td>
           <td>
-            <a href="mailto:hosa520@gmail.com">hosa520@gmail.com</a>
+            <a href="mailto:hosa520@gmail.com">連結</a>
           </td>
           <td>2010年成立協會，汪義福為現任部落領袖。</td>
         </tr>
@@ -482,10 +482,10 @@
             <br>05-251-3369
           </td>
           <td>
-            鄒族營隊
+            鄒族營隊<br>
             <a
               href="https://www.facebook.com/sinvi.niahosa/"
-            >https://www.facebook.com/sinvi.niahosa/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -550,7 +550,7 @@
             0989-715-257
           </td>
           <td>
-            <a href="mailto:aat88888888@gmail.com">aat88888888@gmail.com</a>
+            <a href="mailto:aat88888888@gmail.com">連結</a>
           </td>
           <td>成立於2018年，演出蘭嶼達悟族藝術劇目。</td>
         </tr>
@@ -561,7 +561,7 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>名稱</th>
+          <th style="width:20%">名稱</th>
           <th style="width:10%">負責人</th>
           <th>地址/電話</th>
           <th>其他聯絡方式</th>
@@ -577,7 +577,7 @@
             <br>049-285-0036
           </td>
           <td>
-            <a href="https://www.facebook.com/Thao.Nation/">https://www.facebook.com/Thao.Nation/</a>
+            <a href="https://www.facebook.com/Thao.Nation/">連結</a>
           </td>
           <td>邵族演出團體</td>
         </tr>
@@ -591,7 +591,7 @@
           <td>
             <a
               href="https://www.facebook.com/itathao.thethao"
-            >https://www.facebook.com/itathao.thethao</a>
+            >連結</a>
           </td>
           <td>
             南投縣魚池鄉邵族文化發展協會(簡稱邵文協) Thao Culture Development
@@ -607,7 +607,7 @@
         <tr>
           <th>名稱</th>
           <th style="width:10%">負責人</th>
-          <th>地址/電話</th>
+          <th style="width:25%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th>備註</th>
         </tr>
@@ -628,7 +628,7 @@
           <td>陳夏梅</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/kudisdamu/">https://www.facebook.com/kudisdamu/</a>
+            <a href="https://www.facebook.com/kudisdamu/">連結</a>
           </td>
           <td>每週六日常態練習</td>
         </tr>
@@ -639,9 +639,9 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>名稱</th>
-          <th style="width:10%">負責人</th>
-          <th>地址/電話</th>
+          <th style="width:20%">名稱</th>
+          <th style="width:15%">負責人</th>
+          <th style="width:25%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th>備註</th>
         </tr>
@@ -655,20 +655,20 @@
             <br>0972-892-209
           </td>
           <td>
-            <a href="mailto:chenlinjo@gmail.com">chenlinjo@gmail.com</a>
+            <a href="mailto:chenlinjo@gmail.com">連結</a>
           </td>
           <td>太魯閣族演出團體，2004年成立。</td>
         </tr>
         <tr>
           <td>謝皓成Labaga Taru</td>
-          <td>謝皓成Labaga Taru</td>
+          <td>謝皓成<br>Labaga Taru</td>
           <td>
             <br>0981-016-207
           </td>
           <td>
             <a
               href="https://www.facebook.com/pg/LabagaTaru/about/?ref=page_internal"
-            >https://www.facebook.com/pg/LabagaTaru/about/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td>太魯閣族演出歌手，2018年製作謝皓成首張專輯《獵首笛》。</td>
         </tr>
@@ -679,10 +679,10 @@
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
-          <th>名稱</th>
+          <th style="width:28%">名稱</th>
           <th style="width:10%">負責人</th>
-          <th>地址/電話</th>
-          <th>其他聯絡方式</th>
+          <th style="width:22%">地址/電話</th>
+          <th style="width:10%">其他聯絡方式</th>
           <th>備註</th>
         </tr>
       </thead>
@@ -694,7 +694,7 @@
           <td>
             <a
               href="https://www.facebook.com/gluban.theater/?ref=page_internal"
-            >https://www.facebook.com/gluban.theater/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td>成立時間於2014年4月26日</td>
         </tr>
@@ -705,7 +705,7 @@
           <td>
             <a
               href="https://www.facebook.com/mahung.house2016"
-            >https://www.facebook.com/mahung.house2016</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -714,7 +714,7 @@
           <td>瑪姮巴丸</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/pusu.asd/">https://www.facebook.com/pusu.asd/</a>
+            <a href="https://www.facebook.com/pusu.asd/">連結</a>
           </td>
           <td>每週六日常態</td>
         </tr>
@@ -725,7 +725,7 @@
           <td>
             <a
               href="https://www.facebook.com/賽德克巴蘭社青年舞團-620278148011079/"
-            >https://www.facebook.com/賽德克巴蘭社青年舞團-620278148011079/</a>
+            >連結</a>
           </td>
           <td>成立於2011年，每週五六晚間常態練習。</td>
         </tr>
@@ -764,7 +764,7 @@
           <td>
             <a
               href="https://www.facebook.com/TaivoanPingpu/"
-            >https://www.facebook.com/TaivoanPingpu/</a>
+            >連結</a>
           </td>
           <td>2011年族人自主成立</td>
         </tr>

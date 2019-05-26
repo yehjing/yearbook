@@ -36,7 +36,7 @@
     <span>表1：在臺全真道派道長名錄</span>
     <table rules="all" style="border:1px solid;width:100%" cellpadding="5">
       <tr>
-        <td style="width:6%"></td>
+        <td style="width:5%"></td>
         <td style="text-align:center">全真道長/姓名</td>
         <td style="text-align:center">所屬宮廟</td>
         <td style="text-align:center">師承地點/道長</td>

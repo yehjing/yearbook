@@ -59,7 +59,7 @@ $image-path: 'assets';
     min-height: 960px;
     background: url('#{$image-path}/bg.png');
     .insideArea{
-      width: 70%;
+      width: 75%;
       min-height: 960px;
       background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6));
       box-sizing: border-box;
@@ -171,6 +171,8 @@ $image-path: 'assets';
         word-break:break-all; 
         word-wrap:break-all;
         td,th{
+          // transform: scale(.8);
+          font-size: 10px;
           padding: 2px 6px;
         }
         .tableCenter{

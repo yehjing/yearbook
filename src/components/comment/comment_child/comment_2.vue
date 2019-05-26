@@ -98,15 +98,15 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/01.jpg" alt="2018/08/15文化部蕭次長為曲盟記者會開鑼(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/08/15文化部蕭次長為曲盟記者會開鑼(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/08/15文化部蕭次長為曲盟記者會開鑼(亞洲作曲家聯盟提供)</small>
     <br>
     <img class="contentImg" src="./../../../assets/comment2/02.jpg" alt="2018/10/19曲盟開幕式(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/10/19曲盟開幕式(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/10/19曲盟開幕式(亞洲作曲家聯盟提供)</small>
     <br>
     <img class="contentImg" src="./../../../assets/comment2/03.jpg" alt="2018/10/19曲盟開幕式大合影(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/10/19曲盟開幕式大合影(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/10/19曲盟開幕式大合影(亞洲作曲家聯盟提供)</small>
     <br>
     
     <h3>貳、臺灣當代音樂創作的推手：</h3>
@@ -207,7 +207,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/04.jpg" alt="劉團長和評審與得獎者合影(國立臺灣交響樂團提供)">
     <br>
-    <small>劉團長和評審與得獎者合影(國立臺灣交響樂團提供)</small>
+    <small style="display:block;text-align:center">劉團長和評審與得獎者合影(國立臺灣交響樂團提供)</small>
     <br>
     <b>(二)國家交響樂團：</b>
     <p>
@@ -234,7 +234,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/05.jpg" alt="2018/11/17臺灣國樂團菁英爭揮評審與得獎者合影(臺灣國樂團提供)">
     <br>
-    <small>2018/11/17臺灣國樂團菁英爭揮評審與得獎者合影(臺灣國樂團提供)</small>
+    <small style="display:block;text-align:center">2018/11/17臺灣國樂團菁英爭揮評審與得獎者合影(臺灣國樂團提供)</small>
     <br>
     <b>(四)台北市立交響樂團：</b>
     <p>
@@ -345,7 +345,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/06.jpg" alt="2018/12/09對位室內樂團與作曲家合影(對位室內樂團提供)">
     <br>
-    <small>2018/12/09對位室內樂團與作曲家合影(對位室內樂團提供)</small>
+    <small style="display:block;text-align:center">2018/12/09對位室內樂團與作曲家合影(對位室內樂團提供)</small>
     <br>
     <b>(六)小巨人絲竹樂團：</b>
     <p>
@@ -488,15 +488,15 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/07.jpg" alt="2018/10/23曲盟閉幕音樂會謝幕(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/10/23曲盟閉幕音樂會謝幕(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/10/23曲盟閉幕音樂會謝幕(亞洲作曲家聯盟提供)</small>
     <br>
     <img class="contentImg" src="./../../../assets/comment2/08.jpg" alt="2018/10/23曲盟執委會與首席代表合影(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/10/23曲盟執委會與首席代表合影(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/10/23曲盟執委會與首席代表合影(亞洲作曲家聯盟提供)</small>
     <br>
     <img class="contentImg" src="./../../../assets/comment2/09.jpg" alt="2018/10/23曲盟閉幕音樂會之一(亞洲作曲家聯盟提供)">
     <br>
-    <small>2018/10/23曲盟閉幕音樂會之一(亞洲作曲家聯盟提供)</small>
+    <small style="display:block;text-align:center">2018/10/23曲盟閉幕音樂會之一(亞洲作曲家聯盟提供)</small>
     <br>
     <h3>七、吳三連獎：「連結台灣」－吳三連獎40有成音樂會</h3>
     <p>
@@ -563,7 +563,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/10.jpg" alt="2018/05/20臺音館翁館主任和黑種籽單簧管合奏團與作曲家合影(臺灣音樂館提供)">
     <br>
-    <small>2018/05/20臺音館翁館主任和黑種籽單簧管合奏團與作曲家合影(臺灣音樂館提供)</small>
+    <small style="display:block;text-align:center">2018/05/20臺音館翁館主任和黑種籽單簧管合奏團與作曲家合影(臺灣音樂館提供)</small>
     <br>
     <b>(五)春秋樂集：</b>
     <p>
@@ -578,7 +578,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/11.jpg" alt="2018/09/29春秋樂集演出者與作曲家大合照(春秋樂集提供)">
     <br>
-    <small>2018/09/29春秋樂集演出者與作曲家大合照(春秋樂集提供)</small>
+    <small style="display:block;text-align:center">2018/09/29春秋樂集演出者與作曲家大合照(春秋樂集提供)</small>
     <br>
     <b>(六)台灣璇音雅集：</b>
     <p>
@@ -655,7 +655,7 @@
       C室內樂團」於12月30日首演董昭民《觀山形別》中西混合編制室內樂曲。
       <img class="contentImg" src="./../../../assets/comment2/12.jpg" alt="2018/12/30台北中央C室內樂團定期音樂會(鄭義鐘攝影)">
     <br>
-    <small>2018/12/30台北中央C室內樂團定期音樂會(鄭義鐘攝影)</small>
+    <small style="display:block;text-align:center">2018/12/30台北中央C室內樂團定期音樂會(鄭義鐘攝影)</small>
     <br>
       <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.打擊樂合奏方面：「台北打擊樂團(簡稱北打)」於4月23日首演陳廷銓作品
       。北打/翁明榆於11月10日首演陳廷銓《窗外的巴黎》，北打「2018爵士音樂會–
@@ -701,7 +701,7 @@
     </p>
     <img class="contentImg" src="./../../../assets/comment2/13.jpg" alt="2018/09/08美國Ulysses 弦樂四重奏音樂會後簽名會(陽光台北交響樂團提供)">
     <br>
-    <small>2018/09/08美國Ulysses 弦樂四重奏音樂會後簽名會(陽光台北交響樂團提供)</small>
+    <small style="display:block;text-align:center">2018/09/08美國Ulysses 弦樂四重奏音樂會後簽名會(陽光台北交響樂團提供)</small>
     <br>
     <h3>參、音樂家的資訊網絡：</h3>
     <h4>一、臺灣音樂館：「臺灣音樂群像」</h4>

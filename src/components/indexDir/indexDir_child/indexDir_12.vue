@@ -28,7 +28,7 @@
           <td>
             <a
               href="https://www.facebook.com/groups/217228464957550/"
-            >https://www.facebook.com/groups/217228464957550/</a>
+            >連結</a>
           </td>
           <td>
             基府教演字第036號，負責人呂光輝亦為南管組組長，
@@ -49,7 +49,7 @@
           <td>
             <a
               href="https://www.facebook.com/dadaochen2011/"
-            >https://www.facebook.com/dadaochen2011/</a>
+            >連結</a>
           </td>
           <td>上課時間：每週二晚上，報名請洽大稻埕戲苑南管班。</td>
         </tr>
@@ -63,7 +63,7 @@
           <td>
             <a
               href="https://www.facebook.com/中華絃管研究團-328596864328765/"
-            >https://www.facebook.com/中華絃管研究團-328596864328765/</a>
+            >連結</a>
           </td>
           <td>目前以松山社大傳習為主體</td>
         </tr>
@@ -78,7 +78,7 @@
           <td>
             <a
               href="https://www.facebook.com/NanguanXinXin/"
-            >https://www.facebook.com/NanguanXinXin/</a>
+            >連結</a>
           </td>
           <td>2003年成立</td>
         </tr>
@@ -92,7 +92,7 @@
           <td>
             <a
               href="https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/"
-            >https://www.facebook.com/和鳴南樂社-He-Ming-Nanguan-Ensemble-南管館閣-175327956220495/</a>
+            >連結</a>
           </td>
           <td>1997年成立 上課時間：每週一、四晚上；拍館時間：每週五。</td>
         </tr>
@@ -101,7 +101,7 @@
           <td>魏伯年</td>
           <td>臺北市士林區承德路四段177號</td>
           <td>
-            <a href="https://www.facebook.com/qhnanguan/">https://www.facebook.com/qhnanguan/</a>
+            <a href="https://www.facebook.com/qhnanguan/">連結</a>
           </td>
           <td>
             士林社區大學報名電話：02-2880-6580；
@@ -123,7 +123,7 @@
           <td>
             <a
               href="https://www.facebook.com/HuaSiengNanGuan/"
-            >https://www.facebook.com/HuaSiengNanGuan/</a>
+            >連結</a>
           </td>
           <td>
             1985年創團，穩定成長，老團員多位已有三十年以上學習歷史；
@@ -157,7 +157,7 @@
           <td>
             <a
               href="https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/"
-            >https://www.facebook.com/台北市閩南樂府弦管研究會-2196238770415810/</a>
+            >連結</a>
           </td>
           <td>拍館時間：每週六晚上，總幹事呂瑞華。</td>
         </tr>
@@ -202,7 +202,7 @@
           <td>
             <a
               href="https://www.facebook.com/pg/danshuinanguan/about/?ref=page_internal"
-            >https://www.facebook.com/pg/danshuinanguan/about/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td>社長李巧芸、教師徐智城，上課時間：每週一19:00-21:00。</td>
         </tr>
@@ -216,7 +216,7 @@
           <td>
             <a
               href="https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/"
-            >https://www.facebook.com/漢唐樂府-HanTang-YueFu-184122174945933/</a>
+            >連結</a>
           </td>
           <td>為專業演藝團體，成員為家族式，兼習梨園戲，並以現代劇場呈現傳統曲藝。王阿心於2002年(民91)離開漢唐樂府，自創心心南管樂府。</td>
         </tr>
@@ -249,7 +249,7 @@
           <td>
             <a
               href="https://www.facebook.com/pg/台中南屯文昌公廟南管樂團-1590780834504047/about/?ref=page_internal"
-            >https://www.facebook.com/pg/台中南屯文昌公廟南管樂團-1590780834504047/about/?ref=page_internal</a>
+            >連結</a>
           </td>
           <td>
             1998年(民87)成立；
@@ -281,7 +281,7 @@
           <td>
             <a
               href="https://www.facebook.com/合和藝苑-579899192117301/"
-            >https://www.facebook.com/合和藝苑-579899192117301/</a>
+            >連結</a>
           </td>
           <td>1999年成立，以傳承七子戲前後場為主。</td>
         </tr>
@@ -295,7 +295,7 @@
           <td>
             <a
               href="https://www.facebook.com/profile.php?id=100002456890010"
-            >https://www.facebook.com/profile.php?id=100002456890010</a>
+            >連結</a>
           </td>
           <td>傳承七子戲前場與南管音樂，副團長吳炳慧為南管戲人間國寶吳素霞之第一屆結業藝生。</td>
         </tr>
@@ -310,7 +310,7 @@
           <td>
             <a
               href="https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/"
-            >https://www.facebook.com/Taichung.CHING.YA.YUEH.FU/</a>
+            >連結</a>
           </td>
           <td>興旺，兼傳習七子戲，吳素霞於2000年(民89)離開，自創合和藝苑。</td>
         </tr>
@@ -331,7 +331,7 @@
           <td>
             <a
               href="https://www.facebook.com/profile.php?id=100000501913312"
-            >https://www.facebook.com/profile.php?id=100000501913312</a>
+            >連結</a>
           </td>
           <td>南管音樂</td>
         </tr>
@@ -342,7 +342,7 @@
           <td>
             <a
               href="https://www.facebook.com/profile.php?id=100008301367221"
-            >https://www.facebook.com/profile.php?id=100008301367221</a>
+            >連結</a>
           </td>
           <td>南管音樂</td>
         </tr>
@@ -366,7 +366,7 @@
           <td>
             <a
               href="https://www.facebook.com/groups/618296004968390/"
-            >https://www.facebook.com/groups/618296004968390/</a>
+            >連結</a>
           </td>
           <td>臺灣最古老的館閣，至少有300年歷史。</td>
         </tr>
@@ -384,7 +384,7 @@
           <td>
             <a
               href="https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/"
-            >https://www.facebook.com/鹿港遏雲齋南管樂團-180173595360938/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -430,9 +430,9 @@
             <br>0935-224-100
           </td>
           <td>
-            <a href="https://www.facebook.com/LKnankuan/">https://www.facebook.com/LKnankuan/</a>
+            <a href="https://www.facebook.com/LKnankuan/">連結</a>
             <br>
-            <a href="mailto:tyu666888@yahoo.com.tw">tyu666888@yahoo.com.tw</a>
+            <a href="mailto:tyu666888@yahoo.com.tw">連結</a>
           </td>
           <td>現多為年輕人。平日分鹿港、彰化二地練習，興習假日回鹿港龍山寺合樂。</td>
         </tr>
@@ -443,7 +443,7 @@
           <td>
             <a
               href="https://www.facebook.com/yongsheng.zhu1"
-            >https://www.facebook.com/yongsheng.zhu1</a>
+            >連結</a>
           </td>
           <td>上課時間：每週六13:30，報名請洽彰化美港西社區大學。</td>
         </tr>
@@ -465,7 +465,7 @@
             <br>05-783-4085
           </td>
           <td>
-            <a href="https://www.facebook.com/集斌社-274917685886071/"></a>https://www.facebook.com/集斌社-274917685886071//a
+            <a href="https://www.facebook.com/集斌社-274917685886071/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -482,7 +482,7 @@
           <td>
             <a
               href="https://www.facebook.com/nanguan.fen.ye/"
-            >https://www.facebook.com/nanguan.fen.ye/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -504,7 +504,7 @@
           <td>
             <a
               href="https://www.facebook.com/鳳聲閣-559488677847210/"
-            >https://www.facebook.com/鳳聲閣-559488677847210/</a>
+            >連結</a>
           </td>
           <td>上課時間：每週五18:30，嘉義南管研習班。</td>
         </tr>
@@ -516,7 +516,7 @@
             <br>06-262-0536
           </td>
           <td>
-            <a href="https://www.facebook.com/Wanli.Lamim/">https://www.facebook.com/Wanli.Lamim/</a>
+            <a href="https://www.facebook.com/Wanli.Lamim/">連結</a>
           </td>
           <td>每週一、二、五晚上活動。</td>
         </tr>
@@ -530,7 +530,7 @@
           <td>
             <a
               href="https://www.facebook.com/tainannanshan/"
-            >https://www.facebook.com/tainannanshan/</a>
+            >連結</a>
           </td>
           <td>興旺，每週三、六晚上活動。</td>
         </tr>
@@ -552,8 +552,8 @@
           <td>
             <a
               href="https://www.facebook.com/TNtsinsingsia/"
-            >https://www.facebook.com/TNtsinsingsia/</a>
-            <a href="mailto:tsai.fente@msa.hinet.net"></a>
+            >連結</a>
+            <a href="mailto:tsai.fente@msa.hinet.net">連結</a>
           </td>
           <td>1996年(民85)恢復活動，每週六、日下午活動。</td>
         </tr>
@@ -564,7 +564,7 @@
           <td>
             <a
               href="https://www.facebook.com/海寮南樂清和社-1555814204633359/"
-            >https://www.facebook.com/海寮南樂清和社-1555814204633359/</a>
+            >連結</a>
           </td>
           <td>目前成員有23人，每週四、五20:00-21:30由資深館員帶領進行練習。</td>
         </tr>
@@ -630,7 +630,7 @@
           <td>
             <a
               href="https://www.facebook.com/groups/225183657584348/"
-            >https://www.facebook.com/groups/225183657584348/</a>
+            >連結</a>
           </td>
           <td>配合廟會活動學習。</td>
         </tr>
@@ -688,7 +688,7 @@
           <td>
             <a
               href="https://www.facebook.com/GuangYiNanYue/"
-            >https://www.facebook.com/GuangYiNanYue/</a>
+            >連結</a>
           </td>
           <td>原太平歌館集興軒改學洞管</td>
         </tr>
@@ -723,7 +723,7 @@
           <td>
             <a
               href="https://www.facebook.com/JHENHAIKUNG.NUNKUAN/"
-            >https://www.facebook.com/JHENHAIKUNG.NUNKUAN/</a>
+            >連結</a>
           </td>
           <td>原為南管小唱，現改習洞管。</td>
         </tr>
@@ -740,7 +740,7 @@
           <td>
             <a
               href="https://www.facebook.com/groups/139815092737543/"
-            >https://www.facebook.com/groups/139815092737543/</a>
+            >連結</a>
           </td>
           <td>每週六下午活動</td>
         </tr>
@@ -772,7 +772,7 @@
           <td>
             <a
               href="https://www.facebook.com/groups/176691215689013/"
-            >https://www.facebook.com/groups/176691215689013/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -805,8 +805,8 @@
             <br>傳真：06-927-6602
           </td>
           <td>
-            <a href="mailto:ph1141@ms2.hinet.net">ph1141@ms2.hinet.net</a>
-            <a href="mailto:geosu5438@yahoo.com.tw">geosu5438@yahoo.com.tw</a>
+            <a href="mailto:ph1141@ms2.hinet.net">連結</a>
+            <a href="mailto:geosu5438@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>

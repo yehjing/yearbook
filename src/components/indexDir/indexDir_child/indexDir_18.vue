@@ -11,7 +11,7 @@
         <tr>
           <th>名稱</th>
           <th style="width:15%">負責人</th>
-          <th>地址/電話</th>
+          <th style="width:28%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th>備註</th>
         </tr>
@@ -35,7 +35,7 @@
             <br>02-2595-1676
           </td>
           <td>
-            <a href="http://www.baoan.org.tw/">http://www.baoan.org.tw/</a>
+            <a href="http://www.baoan.org.tw/">連結</a>
           </td>
           <td>1742年創建</td>
         </tr>
@@ -47,7 +47,7 @@
             <br>02-2891-5323
           </td>
           <td>
-            <a href="http://www.cihougong.org/">http://www.cihougong.org/</a>
+            <a href="http://www.cihougong.org/">連結</a>
           </td>
           <td>1918年創建</td>
         </tr>
@@ -59,7 +59,7 @@
             <br>02-2308-4598
           </td>
           <td>
-            <a href="http://chitian.org/main.php">http://chitian.org/main.php</a>
+            <a href="http://chitian.org/main.php">連結</a>
           </td>
           <td>1841年啟天宮創建，2012年促進會成立。</td>
         </tr>
@@ -71,7 +71,7 @@
             <br>02-2726-1735
           </td>
           <td>
-            <a href="https://www.sstht.org.tw/">https://www.sstht.org.tw/</a>
+            <a href="https://www.sstht.org.tw/">連結</a>
           </td>
           <td>1969年成立</td>
         </tr>
@@ -85,7 +85,7 @@
           <td>
             <a
               href="https://www.facebook.com/208336599377129/"
-            >https://www.facebook.com/208336599377129/</a>
+            >連結</a>
           </td>
           <td>1972年創建</td>
         </tr>
@@ -104,7 +104,7 @@
             <br>02-2972-5421
           </td>
           <td>
-            <a href="https://xsd-temple.com.tw/">https://xsd-temple.com.tw/</a>
+            <a href="https://xsd-temple.com.tw/">連結</a>
           </td>
           <td>1976年由楊敏枝女士創建</td>
         </tr>
@@ -116,7 +116,7 @@
             <br>02-2978-2428
           </td>
           <td>
-            <a href="https://www.facebook.com/tw.mingde/">https://www.facebook.com/tw.mingde/</a>
+            <a href="https://www.facebook.com/tw.mingde/">連結</a>
           </td>
           <td>2012年弘道會成立</td>
         </tr>
@@ -128,7 +128,7 @@
             <br>02-2995-2345
           </td>
           <td>
-            <a href="https://www.facebook.com/2015sfdt/">https://www.facebook.com/2015sfdt/</a>
+            <a href="https://www.facebook.com/2015sfdt/">連結</a>
           </td>
           <td>1755年創建</td>
         </tr>
@@ -140,7 +140,7 @@
             <br>02-8981-0858
           </td>
           <td>
-            <a href="http://www.sannai.org/">http://www.sannai.org/</a>
+            <a href="http://www.sannai.org/">連結</a>
           </td>
           <td>1999年福音堂成立，2015年促進協會成立。</td>
         </tr>
@@ -154,7 +154,7 @@
           <td>
             <a
               href="https://www.facebook.com/209210456114196/"
-            >https://www.facebook.com/209210456114196/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -168,7 +168,7 @@
           <td>
             <a
               href="https://www.facebook.com/723890907722863/"
-            >https://www.facebook.com/723890907722863/</a>
+            >連結</a>
           </td>
           <td>2015年成立</td>
         </tr>
@@ -180,7 +180,7 @@
             <br>02-2621-2121#2201、2202
           </td>
           <td>
-            <a href="https://religion.au.edu.tw/">https://religion.au.edu.tw/</a>
+            <a href="https://religion.au.edu.tw/">連結</a>
           </td>
           <td>1996年成立</td>
         </tr>
@@ -192,7 +192,7 @@
             <br>02-2993-6810
           </td>
           <td>
-            <a href="http://www.xzdza.org.tw/">http://www.xzdza.org.tw/</a>
+            <a href="http://www.xzdza.org.tw/">連結</a>
           </td>
           <td>1757年創建，其大眾爺繞境被列為新北市文化資產，也被認為是官將首的起源地。</td>
         </tr>
@@ -204,7 +204,7 @@
             <br>02-2905-2603
           </td>
           <td>
-            <a href="http://www.rsd.fju.edu.tw/">http://www.rsd.fju.edu.tw/</a>
+            <a href="http://www.rsd.fju.edu.tw/">連結</a>
           </td>
           <td>1988年成立</td>
         </tr>
@@ -218,7 +218,7 @@
           <td>
             <a
               href="https://www.facebook.com/TianDaoJianXiuGong/"
-            >https://www.facebook.com/TianDaoJianXiuGong/</a>
+            >連結</a>
           </td>
           <td>1976年創建</td>
         </tr>
@@ -232,7 +232,7 @@
           <td>
             <a
               href="https://www.facebook.com/tsunyangtaoistpriest/"
-            >https://www.facebook.com/tsunyangtaoistpriest/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -244,7 +244,7 @@
             <br>05-222-4116
           </td>
           <td>
-            <a href="https://www.facebook.com/cycht/">https://www.facebook.com/cycht/</a>
+            <a href="https://www.facebook.com/cycht/">連結</a>
           </td>
           <td>1715年創建，古名「諸羅城隍廟」，是當時諸羅縣轄域的第一座官設城隍廟。</td>
         </tr>
@@ -258,7 +258,7 @@
           <td>
             <a
               href="https://www.facebook.com/513521462110595/"
-            >https://www.facebook.com/513521462110595/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -280,7 +280,7 @@
             <br>06-223-8695
           </td>
           <td>
-            <a href="http://www.anping-matsu.org.tw/">http://www.anping-matsu.org.tw/</a>
+            <a href="http://www.anping-matsu.org.tw/">連結</a>
           </td>
           <td>1668年創建</td>
         </tr>
@@ -291,7 +291,7 @@
           <td>
             <a
               href="https://www.facebook.com/604073843032176/"
-            >https://www.facebook.com/604073843032176/</a>
+            >連結</a>
           </td>
           <td>2014年成立小法團</td>
         </tr>
@@ -303,7 +303,7 @@
             <br>06-794-0135
           </td>
           <td>
-            <a href="https://www.facebook.com/bauchigung">https://www.facebook.com/bauchigung</a>
+            <a href="https://www.facebook.com/bauchigung">連結</a>
           </td>
           <td></td>
         </tr>
@@ -317,7 +317,7 @@
           <td>
             <a
               href="https://www.facebook.com/707212695963371/"
-            >https://www.facebook.com/707212695963371/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -331,7 +331,7 @@
           <td>
             <a
               href="https://www.facebook.com/346085912241125/"
-            >https://www.facebook.com/346085912241125/</a>
+            >連結</a>
           </td>
           <td>1990年創建</td>
         </tr>
@@ -343,7 +343,7 @@
             <br>08-832-2961
           </td>
           <td>
-            <a href="http://www.66.org.tw/index.php">http://www.66.org.tw/index.php</a>
+            <a href="http://www.66.org.tw/index.php">連結</a>
           </td>
           <td>1706年創建，其三年一科的「東港迎王平安祭典」為國家指定重要民俗及有關文物。</td>
         </tr>
@@ -355,7 +355,7 @@
             <br>039-774-061
           </td>
           <td>
-            <a href="http://www.jtain.com.tw/">http://www.jtain.com.tw/</a>
+            <a href="http://www.jtain.com.tw/">連結</a>
           </td>
           <td>1822年創建，原名「接天廟」，1987年更名為「接天宮」。</td>
         </tr>

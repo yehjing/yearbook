@@ -11,8 +11,8 @@
       <thead>
         <tr>
           <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:20%">地址/電話</th>
+          <th style="width:15%">負責人</th>
+          <th style="width:28%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th style="width:25%">備註</th>
         </tr>
@@ -48,7 +48,7 @@
             <br>02-2303-4875
           </td>
           <td>
-            <a href="mailto:khome.pan@msa.hinet.net">khome.pan@msa.hinet.net</a>
+            <a href="mailto:khome.pan@msa.hinet.net">連結</a>
           </td>
           <td>1991年成立</td>
         </tr>
@@ -70,7 +70,7 @@
             <br>02-2820-8756
           </td>
           <td>
-            <a href="mailto:lifechang8@gmail.com">lifechang8@gmail.com</a>
+            <a href="mailto:lifechang8@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -112,7 +112,7 @@
             <br>0921-831-786
           </td>
           <td>
-            <a href="mailto:ho2104@gmail.com">ho2104@gmail.com</a>
+            <a href="mailto:ho2104@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -163,7 +163,7 @@
             <br>0912-671-732
           </td>
           <td>
-            <a href="https://www.facebook.com/LBCCTY/">https://www.facebook.com/LBCCTY/</a>
+            <a href="https://www.facebook.com/LBCCTY/">連結</a>
           </td>
           <td>2005年9月9日成立</td>
         </tr>
@@ -205,7 +205,7 @@
             <br>0937-729-055
           </td>
           <td>
-            <a href="mailto:kan@taian.gov.tw">kan@taian.gov.tw</a>
+            <a href="mailto:kan@taian.gov.tw">連結</a>
           </td>
           <td>2000年4月16日成立</td>
         </tr>
@@ -312,7 +312,7 @@
           <td>張素珠</td>
           <td></td>
           <td>
-            <a href="mailto:swiftlet@swiftlet.com.tw">swiftlet@swiftlet.com.tw</a>
+            <a href="mailto:swiftlet@swiftlet.com.tw">連結</a>
           </td>
           <td>2013年7月10日成立</td>
         </tr>
@@ -320,7 +320,7 @@
           <td>美濃客家山歌班</td>
           <td>葉鍾金嬌</td>
           <td>
-            <br>07-681-6865
+            07-681-6865
           </td>
           <td></td>
           <td></td>
@@ -329,13 +329,13 @@
           <td>美濃婦女合唱團</td>
           <td>
             團長
-            李雪光
+            李雪光<br>
             行政總監
             劉蘭英
           </td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/hklee0321/">https://www.facebook.com/hklee0321/</a>
+            <a href="https://www.facebook.com/hklee0321/">連結</a>
           </td>
           <td>2007年成立</td>
         </tr>
@@ -419,7 +419,7 @@
           <td>
             <a
               href="https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/"
-            >https://www.facebook.com/高雄市美濃混聲合唱團-491930940887705/</a>
+            >連結</a>
           </td>
           <td>2006年成立</td>
         </tr>
@@ -447,7 +447,7 @@
           <td>
             <a
               href="http://kh19.khakka.org.tw/webeip/HT00567/kh19.asp"
-            >http://kh19.khakka.org.tw/webeip/HT00567/kh19.asp</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -475,7 +475,7 @@
           <td>
             <a
               href="https://www.facebook.com/世客文化藝術團-336912869758607/"
-            >https://www.facebook.com/世客文化藝術團-336912869758607/</a>
+            >連結</a>
           </td>
           <td>1995年成立</td>
         </tr>
@@ -495,7 +495,7 @@
           <td>
             <a
               href="https://www.facebook.com/LiWenGuGeJuTuan/"
-            >https://www.facebook.com/LiWenGuGeJuTuan/</a>
+            >連結</a>
           </td>
           <td>1996年成立</td>
         </tr>
@@ -507,7 +507,7 @@
             <br>08-738-2600
           </td>
           <td>
-            <a href="mailto:hwushin066@yahoo.com.tw">hwushin066@yahoo.com.tw</a>
+            <a href="mailto:hwushin066@yahoo.com.tw">連結</a>
           </td>
           <td>2000年成立</td>
         </tr>
@@ -526,7 +526,7 @@
             <br>0929-355-368
           </td>
           <td>
-            <a href="https://www.facebook.com/PTHakka/">https://www.facebook.com/PTHakka/</a>
+            <a href="https://www.facebook.com/PTHakka/">連結</a>
           </td>
           <td>2001年成立</td>
         </tr>
@@ -639,7 +639,7 @@
           <td>
             <a
               href="https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/"
-            >https://www.facebook.com/藍衫樂舞團-Blue-Shirts-Music-and-Dance-Troupe-185867531445580/</a>
+            >連結</a>
           </td>
           <td>2007年11月27日成立</td>
         </tr>
@@ -650,7 +650,7 @@
             <br>0933-997-800
           </td>
           <td>
-            <a href="mailto:Grace0933997800@gmail.com">Grace0933997800@gmail.com</a>
+            <a href="mailto:Grace0933997800@gmail.com">連結</a>
           </td>
           <td>2006年8月31日成立，練習時間：每週四19:00-21:00</td>
         </tr>
@@ -664,7 +664,7 @@
           <td>
             <a
               href="http://www.web66.com.tw/CW123/花蓮縣瑞穗鄉富源社區發展協會-B123480.html"
-            >http://www.web66.com.tw/CW123/花蓮縣瑞穗鄉富源社區發展協會-B123480.html</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -686,8 +686,8 @@
       <thead>
         <tr>
           <th style="width:20%">名稱</th>
-          <th style="width:20%">負責人</th>
-          <th style="width:25%">地址/電話</th>
+          <th style="width:10%">負責人</th>
+          <th style="width:30%">地址/電話</th>
           <th>其他聯絡方式</th>
           <th style="width:25%">備註</th>
         </tr>
@@ -701,7 +701,7 @@
             <br>02-2704-7208
           </td>
           <td>
-            <a href="mailto:weiderdon101@gmail.com">weiderdon101@gmail.com</a>
+            <a href="mailto:weiderdon101@gmail.com">連結</a>
           </td>
           <td>1977年成立</td>
         </tr>
@@ -713,7 +713,7 @@
             <br>0921-831-786
           </td>
           <td>
-            <a href="https://www.facebook.com/hakkamelody/">https://www.facebook.com/hakkamelody/</a>
+            <a href="https://www.facebook.com/hakkamelody/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -734,7 +734,7 @@
           <td>
             <a
               href="https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/"
-            >https://www.facebook.com/大華國樂文創團陳國芳-1563159900469333/</a>
+            >連結</a>
           </td>
           <td>2000年成立</td>
         </tr>
@@ -746,7 +746,7 @@
             <br>0910-150-749
           </td>
           <td>
-            <a href="https://www.facebook.com/Hcg2232/">https://www.facebook.com/Hcg2232/</a>
+            <a href="https://www.facebook.com/Hcg2232/">連結</a>
           </td>
           <td>1994年成立</td>
         </tr>
@@ -757,7 +757,7 @@
           <td>
             <a
               href="https://www.facebook.com/TienWuBeiGuanBaYin/"
-            >https://www.facebook.com/TienWuBeiGuanBaYin/</a>
+            >連結</a>
           </td>
           <td>1921年成立</td>
         </tr>
@@ -771,7 +771,7 @@
           <td>
             <a
               href="https://m.facebook.com/陳四源祖堂祭祀公業法人新竹縣陳乾興-172956626411473/"
-            >https://m.facebook.com/陳四源祖堂祭祀公業法人新竹縣陳乾興-172956626411473/</a>
+            >連結</a>
           </td>
           <td>2012年成立</td>
         </tr>
@@ -784,8 +784,8 @@
           <td>
             <a
               href="https://m.facebook.com/紅如樂團Hung-Ru-Music-Group-703386793013859/"
-            >https://m.facebook.com/紅如樂團Hung-Ru-Music-Group-703386793013859/</a>
-            <a href="mailto:fn4286@yahoo.com.tw">fn4286@yahoo.com.tw</a>
+            >連結</a>
+            <a href="mailto:fn4286@yahoo.com.tw">連結</a>
           </td>
           <td>2002年3月15日成立</td>
         </tr>
@@ -799,7 +799,7 @@
           <td>
             <a
               href="https://www.facebook.com/MiaoliChenFamilyBeiguanBayinTroupe/"
-            >https://www.facebook.com/MiaoliChenFamilyBeiguanBayinTroupe/</a>
+            >連結</a>
           </td>
           <td>1945年成立</td>
         </tr>
@@ -811,7 +811,7 @@
             <br>07-681-2538
           </td>
           <td>
-            <a href="mailto:p6812538@gmail.com">p6812538@gmail.com</a>
+            <a href="mailto:p6812538@gmail.com">連結</a>
           </td>
           <td></td>
         </tr>
@@ -831,7 +831,7 @@
             <br>謝宜文0932-837-873
           </td>
           <td>
-            <a href="mailto:anmiwen@gmail.com">anmiwen@gmail.com</a>
+            <a href="mailto:anmiwen@gmail.com">連結</a>
           </td>
           <td>2006年成立</td>
         </tr>
@@ -866,7 +866,7 @@
           <td>
             <a
               href="https://www.facebook.com/大夥房藝術團-1371254872966824/"
-            >https://www.facebook.com/大夥房藝術團-1371254872966824/</a>
+            >連結</a>
           </td>
           <td>2002年成立</td>
         </tr>
@@ -902,7 +902,7 @@
           <th>負責人</th>
           <th>地址/電話</th>
           <th>其他聯絡方式</th>
-          <th style="width:10%">備註</th>
+          <th style="width:15%">備註</th>
         </tr>
       </thead>
       <tbody>
@@ -917,7 +917,7 @@
           <td>
             <a
               href="https://www.facebook.com/星韻創意合唱團-563743170344180/"
-            >https://www.facebook.com/星韻創意合唱團-563743170344180/</a>
+            >連結</a>
           </td>
           <td>指導老師：徐韻絜</td>
         </tr>
@@ -931,7 +931,7 @@
           <td>
             <a
               href="https://www.facebook.com/paperwindmilltheatre/"
-            >https://www.facebook.com/paperwindmilltheatre/</a>
+            >連結</a>
           </td>
           <td>1992年成立</td>
         </tr>
@@ -946,7 +946,7 @@
             <br>02-2936-7231#2551
           </td>
           <td>
-            <a href="http://b017.tcpa.edu.tw/bin/home.php">http://b017.tcpa.edu.tw/bin/home.php</a>
+            <a href="http://b017.tcpa.edu.tw/bin/home.php">連結</a>
           </td>
           <td></td>
         </tr>
@@ -960,7 +960,7 @@
           <td>
             <a
               href="https://www.facebook.com/山宛然客家布袋戲團-193976375896/"
-            >https://www.facebook.com/山宛然客家布袋戲團-193976375896/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -972,7 +972,7 @@
             <br>02-2557-5320
           </td>
           <td>
-            <a href="mailto:mei_chiang1204@yahoo.com.tw">mei_chiang1204@yahoo.com.tw</a>
+            <a href="mailto:mei_chiang1204@yahoo.com.tw">連結</a>
           </td>
           <td>1977年成立</td>
         </tr>
@@ -985,7 +985,7 @@
             <br>0975-386-935
           </td>
           <td>
-            <a href="http://www.playpuppet.com.tw/home.html">http://www.playpuppet.com.tw/home.html</a>
+            <a href="http://www.playpuppet.com.tw/home.html">連結</a>
           </td>
           <td>2003年成立</td>
         </tr>
@@ -998,7 +998,7 @@
           <td>
             <a
               href="https://www.facebook.com/金龍戲劇總團-196943617329245/"
-            >https://www.facebook.com/金龍戲劇總團-196943617329245/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1011,7 +1011,7 @@
           <td>
             <a
               href="https://www.facebook.com/景勝戲劇團-1657899551112033/"
-            >https://www.facebook.com/景勝戲劇團-1657899551112033/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1022,7 +1022,7 @@
             <br>0911-241-388
           </td>
           <td>
-            <a href="https://www.facebook.com/a241388/">https://www.facebook.com/a241388/</a>
+            <a href="https://www.facebook.com/a241388/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1036,7 +1036,7 @@
           <td>
             <a
               href="https://www.facebook.com/新月娥歌劇團-334133613587392/"
-            >https://www.facebook.com/新月娥歌劇團-334133613587392/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1049,7 +1049,7 @@
             <br>0919-362-104
           </td>
           <td>
-            <a href="http://yoyo4586287yahoo.com.tw">http://yoyo4586287yahoo.com.tw</a>
+            <a href="http://yoyo4586287yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1063,7 +1063,7 @@
           <td>
             <a
               href="https://www.facebook.com/song.xing.opera/"
-            >https://www.facebook.com/song.xing.opera/</a>
+            >連結</a>
           </td>
           <td>2003年成立</td>
         </tr>
@@ -1089,7 +1089,7 @@
           <td>徐進堯</td>
           <td></td>
           <td>
-            <a href="mailto:ctl.wang@msa.hinet.net">ctl.wang@msa.hinet.net</a>
+            <a href="mailto:ctl.wang@msa.hinet.net">連結</a>
           </td>
           <td>1996年成立</td>
         </tr>
@@ -1119,7 +1119,7 @@
           <td>
             <a
               href="https://www.facebook.com/romshinghakka/"
-            >https://www.facebook.com/romshinghakka/</a>
+            >連結</a>
           </td>
           <td></td>
         </tr>
@@ -1152,7 +1152,7 @@
             <br>0933-499-999
           </td>
           <td>
-            <a href="https://www.facebook.com/wen.holiao/">https://www.facebook.com/wen.holiao/</a>
+            <a href="https://www.facebook.com/wen.holiao/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1174,7 +1174,7 @@
             <br>楊秀春0931-616-986
           </td>
           <td>
-            <a href="https://www.facebook.com/HaChiGu/">https://www.facebook.com/HaChiGu/</a>
+            <a href="https://www.facebook.com/HaChiGu/">連結</a>
           </td>
           <td>2004年2月成立</td>
         </tr>
