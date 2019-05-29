@@ -7,6 +7,7 @@ import VueRouter from 'vue-router';
 import Introduction from './components/introduction';
 import Introduction_1 from './components/introduction/intro/intro_1';
 import Introduction_2 from '@/components/introduction/intro/intro_2';
+import Introduction_3 from '@/components/introduction/intro/intro_3';
 // idea
 import Idea from '@/components/idea';
 import Idea_1 from '@/components/idea/idea_child/idea_1';
@@ -86,19 +87,24 @@ export default new VueRouter({
       hidden: true,
     },
     {
-      name: '引言',
+      name: '序',
       path: '/introduction',
       component: Introduction,
       children: [
         {
-          name: '傳藝中心主任序',
+          name: '國立傳統藝術中心主任序',
           path: '/',
           component: Introduction_1,
         },
         {
-          name: '臺音館館主任序',
+          name: '臺灣音樂館館主任序',
           path: 'introduction_2',
           component: Introduction_2,
+        },
+        {
+          name: '主編序',
+          path: 'introduction_3',
+          component: Introduction_3,
         },
       ],
     },
