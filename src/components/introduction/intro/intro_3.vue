@@ -35,8 +35,12 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感謝國立傳藝中心臺灣音樂館的具體策劃與推動；感謝投入田野、執筆撰述的編輯委員和研究助理；亦感謝對年鑑研究多所配合的眾多國內音樂團體與個人。各項來自政府以及民間的助力，都共同成就了本年鑑的編輯。期望這份記錄臺灣音樂發展軌跡的《2018臺灣音樂年鑑》，一方面為臺灣音樂的傳習與活化提供助力，另一方面能為日後的音樂研究者提供一份完整翔實的歷史資料，遠程目標則是期待成就更全面的臺灣音樂史。
     </p>
     <br/>
-    <p style="text-align:right;margin-bottom:0">主編 / 國立臺灣藝術大學教授</p>
-    <p style="text-align:right;margin-bottom:0">張儷瓊</p>
-    <p style="text-align:right;margin-bottom:0">2019年6月30日</p>
+    <div style="text-align:right">主編 / 國立臺灣藝術大學教授</div>
+    <div style="text-align:right;margin-top:1em"><img src="./../../../assets/sign.jpg" alt=""></div>
   </div>
 </template>
+<style lang="scss" scoped>
+img{
+  width:8em ;
+}
+</style>

@@ -16,7 +16,8 @@
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣的傳統表演藝術近年除了被納入無形文化資產之一，受到文化資產保存法的保護，在民間也不斷上演著活潑、熱絡的展演與傳習活動。《2018臺灣音樂年鑑》即將出版之際，冀望這份深具意義的編輯計畫，能在工作團隊的群策群力之下永續傳承，不僅呼應文化部的施政目標，更能逐年匯集成為臺灣音樂的精萃，深刻映照臺灣人文藝術發展的流長軌跡。
     </p>
-    <div style="text-align:right;margin-top:5em"><img src="./../../../assets/中心主任中文簽名檔.jpg" alt=""></div>
+    <div style="text-align:right">國立傳統藝術中心主任</div>
+    <div style="text-align:right;margin-top:2em"><img src="./../../../assets/中心主任中文簽名檔.jpg" alt=""></div>
   </div>
 </template>
 <style lang="scss" scoped>
