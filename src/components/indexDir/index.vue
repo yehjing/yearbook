@@ -40,43 +40,43 @@ export default {
           path: 'indexDir',
           arr_1:[
             {
-              name: '南管音樂',
+              name: '南管音樂篇',
               path: '',
             },
             {
-              name: '北管音樂',
+              name: '北管音樂篇',
               path: 'indexDir_13',
             },
             {
-              name: '福佬歌謠',
+              name: '福佬歌謠篇',
               path: 'indexDir_14',
             },
             {
-              name: '客家音樂',
+              name: '客家音樂篇',
               path: 'indexDir_15',
             },
             {
-              name: '原住民音樂',
+              name: '原住民音樂篇',
               path: 'indexDir_16',
             },
             {
-              name: '佛、釋教音樂',
+              name: '佛、釋教音樂篇',
               path: 'indexDir_17',
             },
             {
-              name: '道、法教音樂',
+              name: '道、法教音樂篇',
               path: 'indexDir_18',
             },
             {
-              name: '國樂',
+              name: '國樂篇',
               path: 'indexDir_19',
             },
             {
-              name: '西樂及混合編制',
+              name: '西樂及混合編制篇',
               path: 'indexDir_20',
             },
             {
-              name: '流行音樂',
+              name: '流行音樂篇',
               path: 'indexDir_21',
             },
             {
@@ -91,47 +91,47 @@ export default {
           path: 'indexDir',
           arr_1:[
             {
-              name: '南管音樂',
+              name: '南管音樂篇',
               path: 'indexDir_1',
             },
             {
-              name: '北管音樂',
+              name: '北管音樂篇',
               path: 'indexDir_2',
             },
             {
-              name: '福佬歌謠',
+              name: '福佬歌謠篇',
               path: 'indexDir_3',
             },
             {
-              name: '客家音樂',
+              name: '客家音樂篇',
               path: 'indexDir_4',
             },
             {
-              name: '原住民音樂',
+              name: '原住民音樂篇',
               path: 'indexDir_5',
             },
             {
-              name: '佛、釋教音樂',
+              name: '佛、釋教音樂篇',
               path: 'indexDir_6',
             },
             {
-              name: '道、法教音樂',
+              name: '道、法教音樂篇',
               path: 'indexDir_7',
             },
             {
-              name: '國樂',
+              name: '國樂篇',
               path: 'indexDir_8',
             },
             {
-              name: '西樂及混和編制',
+              name: '西樂及混合編制篇',
               path: 'indexDir_9',
             },
             {
-              name: '流行音樂',
+              name: '流行音樂篇',
               path: 'indexDir_10',
             },
             {
-              name: '綜合型藝術節',
+              name: '綜合型藝術節篇',
               path: 'indexDir_11',
             }
           ],

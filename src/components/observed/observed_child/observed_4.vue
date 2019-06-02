@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>2018客家音樂活動觀察與評介</h2>
+      <h2>2018年度客家音樂活動觀察與評介</h2>
       <span>許馨文</span>
     </div>
     <hr>

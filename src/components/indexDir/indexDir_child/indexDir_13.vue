@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>北管音樂</h2>
+      <h2>北管音樂篇</h2>
       <!-- <span>林珀姬</span> -->
     </div>
     <hr>
@@ -583,7 +583,7 @@
         </tr>
         <tr>
           <td>鈞天社</td>
-          <td>林建利(北管部部長)</td>
+          <td>北管部部長林建利</td>
           <td>
             桃園市桃園區中正路208號
             <br>0928-295-280
@@ -910,8 +910,8 @@
         </tr>
         <tr>
           <td>慶樂社</td>
-          <td>陳懋陞</td>
-          <td>臺南市0933-333-611</td>
+          <td>陳懋陞張文忠</td>
+          <td>臺南市</td>
           <td>
             <a
               href="https://www.facebook.com/台南慶樂社-194025980638369/"
@@ -996,8 +996,8 @@
         </tr>
         <tr>
           <td>屏東縣佳冬鄉昌隆國小</td>
-          <td>張文忠</td>
-          <td>屏東縣佳冬鄉昌隆村中正路44號08-8662093</td>
+          <td>張文忠08-866-2093</td>
+          <td>屏東縣佳冬鄉昌隆村中正路44號</td>
           <td>
             <a
               href="https://web.chles.ptc.edu.tw/school/web/index.php"

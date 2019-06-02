@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>南管音樂</h2>
+      <h2>南管音樂篇</h2>
       <!-- <span>林珀姬</span> -->
     </div>
     <hr>

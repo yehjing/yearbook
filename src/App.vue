@@ -12,7 +12,7 @@
           <li><router-link :to="'/idea'">編輯理念<br>與體例說明</router-link></li>
           <li><router-link :to="'/observed'">年度活動<br>觀察與評介</router-link></li>
           <li><router-link :to="'/comment'">文化評論</router-link></li>
-          <li><router-link :to="'/videoRecord'">影音記錄</router-link></li>
+          <li><router-link :to="'/videoRecord'">影音紀錄</router-link></li>
           <li><router-link :to="'/indexDir'">索引名錄</router-link></li>
           <li><router-link :to="'/download'">2018臺灣音樂年鑑<br>全文下載</router-link></li>
         </ul>

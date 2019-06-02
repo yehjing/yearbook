@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>流行音樂</h2>
+      <h2>流行音樂篇</h2>
       <!-- <span>林珀姬</span> -->
     </div>
     <hr>
@@ -20,7 +20,7 @@
         <tr>
           <td>MATZKA</td>
           <td>有凰音樂國際股份有限公司</td>
-          <td>羅特國際製作股份有限公司02-2727-1977</td>
+          <td>02-2727-1977</td>
           <td>
             <a href="https://www.facebook.com/matzka2010/">連結</a>
           </td>
@@ -182,11 +182,11 @@
           <td>容易文創</td>
           <td>02-2755-3066</td>
           <td>
-            <a href="mailto:easycc.ltd@gmail.com ">連結</a>
-            <br>
             <a
               href="https://www.facebook.com/jackywuofficial/"
             >連結</a>
+            <br>
+            <a href="mailto:easycc.ltd@gmail.com ">連結</a>
           </td>
           <td>1987年出道</td>
         </tr>

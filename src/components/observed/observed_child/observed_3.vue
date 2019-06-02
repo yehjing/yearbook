@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>2018福佬歌謠活動觀察與評介</h2>
+      <h2>2018年度福佬歌謠活動觀察與評介</h2>
       <span>黃玲玉</span>
     </div>
     <hr>
@@ -20,7 +20,7 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「傳統民謠」又有「自然民謠」等不同的別稱，即自然流傳在民間的歌謠。換言之，是一個族群「自然衍生」的歌謠，是經由歷史篩選而為族群所共有的。因為口頭傳承，經長期不斷被重新修飾、詮釋過，故已非一人、一時或一地之作。因此它有一定的「母型」，但卻沒有絕對「正確」的版本。由於經由時空的洗鍊，又要能為多數人所唱，因此具有素樸、凝鍊、簡單卻又豐富、真誠、深遠的特質，沒有固定的作者。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣福佬系傳統民謠，依分布地區分類，一般將其分為西部平原(彰南地區)、恆春地區、北宜地區等地。以下2018年的觀察，將分成恆春地區以及恆春地區以外的觀察兩部分作敘述。</p>
     <b>(三)創作歌謠</b>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，有固定的作者，有時甚至連第一位主唱者都會被記錄下來。其與傳統民謠最大的差別，在於後者具有創作過程集體性、詞曲異變性、傳播方式口頭性、具鮮明的民族風格與地方色彩，是經長期時空的考驗、過濾，所流傳下來的經典之作等特徵。</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;「創作歌謠」屬個人創作的歌謠，有固定的作者，有時甚至連第一位主唱者都會被紀錄下來。其與傳統民謠最大的差別，在於後者具有創作過程集體性、詞曲異變性、傳播方式口頭性、具鮮明的民族風格與地方色彩，是經長期時空的考驗、過濾，所流傳下來的經典之作等特徵。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所謂「臺灣福佬系創作歌謠」，即一般所謂的「閩南語創作歌謠」、「臺灣通俗歌謠」或「臺灣歌謠」。「流行歌曲」又稱「城市歌曲」，是創作歌謠的一種，但創作歌謠不一定是流行歌曲。一首創作歌謠能否流傳下來，不能光從流行性來看，因時代性是佔很大因素的。一首創作歌謠若能經得起時代的考驗，必能成為經典之作而長久流傳下去。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臺灣福佬系傳統民謠的量相較於創作歌謠並不多，演唱方式一般民間常見以獨唱、齊唱、對唱等方式呈現；但若在文化場所，如文化中心演藝廳、音樂廳等較具規模的場合演出，則常見以合唱、重唱、音樂劇等方式呈現，甚至跨界演出，伴奏方式也相當多元，有單一樂器、國樂團、管絃樂團、室內樂團等。亦即多已重新編曲，或曲變或詞變或詞曲皆變，已非原始面貌。臺灣第一首詞曲皆由臺灣人自我創作(非改編)的福佬系創作歌曲，一般被認為是產生於1932年的〈桃花泣血記〉，此後八、九十年來所產生的創作歌謠不計其數，且有些作品因具有臺灣人意識、精神、特性、風格等，早已根深蒂固為大家所認同、喜愛，如鄧雨賢的四月望雨(〈四季紅〉、〈月夜愁〉、〈望春風〉、〈雨夜花〉)等，雖這些創作歌謠，有固定作曲者、或作詞者、或詞曲作者，但這些作品已具有強烈臺灣人意識、精神、特性、風格，已完全屬於臺灣人的作品，故本文仍將其列入觀察，已符合本計畫案「傳統音樂－福佬歌謠」之子標題。</p>
     <h4>二、2018年之觀察</h4>
@@ -36,8 +36,8 @@
       <tr>
         <td style="width:5%"></td>
         <td class="tableCenter">活動主題</td>
-        <td style="width:18%" class="tableCenter">日期</td>
-        <td class="tableCenter">地點</td>
+        <td style="width:15%" class="tableCenter">日期</td>
+        <td style="width:20%" class="tableCenter">地點</td>
         <td class="tableCenter">展演</td>
         <td class="tableCenter">推廣</td>
         <td class="tableCenter">傳習</td>
@@ -1678,7 +1678,7 @@
       <tr>
         <td style="width:5%"></td>
         <td class="tableCenter">活動主題</td>
-        <td style="width:18%" class="tableCenter">日期</td>
+        <td style="width:15%" class="tableCenter">日期</td>
         <td class="tableCenter">楊</td>
         <td class="tableCenter">微笑</td>
         <td class="tableCenter">其他</td>
@@ -2757,7 +2757,7 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至於個人方面，事實上微笑唸歌團的儲見智、林恬安，和鄭美、丁秀津都是國寶級藝師楊秀卿近年來所培養出來的藝生，且已能獨當一面。而陳美珠、陳寶貴、洪明珠、周定邦、陳明章等人的演出，也都各具特色。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表9中知共有73個活動主題，但表9序號34「民視《夜深人未靜》節目受訪」由楊秀卿說唱藝術團、微笑唸歌團共同負責，故表12總數為74場。茲列出各團體與個人所負責的場次於下(表12)。其中微笑唸歌團最多，約佔65%左右。</p>
 
-    <p>表12：2018年唸歌仔活動負責的團體與個人場次</p>
+    <span>表12：2018年唸歌仔活動負責的團體與個人場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td class="tableCenter" colspan="2">團體/個人</td>
@@ -2804,7 +2804,7 @@
     <b>(五)活動性質</b>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;從表9中知，2018年唸歌仔的活動性質如下(表13)：</p>
 
-    <p>表13：2018年唸歌仔的活動性質與場次</p>
+    <span>表13：2018年唸歌仔的活動性質與場次</span>
     <table rules="all" style="border:1px solid;" cellpadding="5">
       <tr>
         <td class="tableCenter">性質</td>
@@ -2812,31 +2812,31 @@
       </tr>
       <tr>
         <td>展演活動</td>
-        <td>39</td>
+        <td class="tableCenter">39</td>
       </tr>
       <tr>
         <td>展演活動與推廣教育</td>
-        <td>21</td>
+        <td class="tableCenter">21</td>
       </tr>
       <tr>
         <td>傳習活動</td>
-        <td>4</td>
+        <td class="tableCenter">4</td>
       </tr>
       <tr>
         <td>推廣教育</td>
-        <td>2</td>
+        <td class="tableCenter">2</td>
       </tr>
       <tr>
         <td>推廣教育與傳習活動</td>
-        <td>4</td>
+        <td class="tableCenter">4</td>
       </tr>
       <tr>
         <td>展演活動、國際與兩岸交流</td>
-        <td>2</td>
+        <td class="tableCenter">2</td>
       </tr>
       <tr>
         <td>展演活動與傳習活動</td>
-        <td>1</td>
+        <td class="tableCenter">1</td>
       </tr>
     </table>
     <br>

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h2>綜合型藝術節</h2>
+      <h2>綜合型藝術節篇</h2>
       <!-- <span>林珀姬</span> -->
     </div>
     <hr>
