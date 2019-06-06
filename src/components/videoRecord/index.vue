@@ -53,11 +53,11 @@ export default {
           path: "videoRecord",
           arr_1: [
             {
-              name: "南營音樂",
+              name: "南管音樂",
               path: ""
             },
             {
-              name: "北營音樂",
+              name: "北管音樂",
               path: "videoRecord_2"
             },
             {

@@ -151,10 +151,10 @@
           <td>嚴福榮</td>
           <td>02-2664-4027</td>
           <td>
-            <a href="mailto:yscheng1125@gmail.com/">連結</a><br>
             <a
               href="https://www.facebook.com/pages/category/Musician-Band/雙溪樂集-Shuanghsi-Music-Forum-1354691857893198/"
-            >連結</a>
+            >連結</a><br>
+            <a href="mailto:yscheng1125@gmail.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -541,7 +541,7 @@
             <br>02-2624-1035
           </td>
           <td>
-            <a href="https://www.facebook.com/TaiwanWindEnse">連結</a>
+            <a href="https://www.facebook.com/TaiwanWindEnsemble/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1455,7 +1455,7 @@
             <br>07-282-8496
           </td>
           <td>
-            <a href="mailto:godspeed0304@yahoo.com.tw">連結</a>a
+            <a href="mailto:godspeed0304@yahoo.com.tw">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1463,7 +1463,7 @@
           <td>對位室內樂團</td>
           <td>梁孔玲</td>
           <td>
-            a 高雄市新興區中正二路218號4樓之5
+            高雄市新興區中正二路218號4樓之5
             <br>07-226-0989
           </td>
           <td>
@@ -1724,7 +1724,7 @@
           <td>歐聰陽<br>蔡珮漪</td>
           <td>
             宜蘭縣五結鄉錦草五路238巷7號
-            <br>0932-722-758
+            <br>0932-722-758<br>0937-153-418
           </td>
           <td>
             <a href="jmpo.org@msa.hinet.net">連結</a>
@@ -2219,7 +2219,7 @@
         <tr>
           <td>新竹市立混聲合唱團</td>
           <td>徐鴻慶</td>
-          <td>新竹市文化局 0910-159-041</td>
+          <td>新竹市文化局<br>0910-159-041</td>
           <td>
             <a
               href="https://www.facebook.com/HCMixedChoir/"
@@ -2811,7 +2811,7 @@
             中華民國聲樂家協會
           </td>
           <td>孫清吉</td>
-          <td>臺北市中正區忠孝東路2段29號2樓及3樓 02-3393-8779</td>
+          <td>臺北市中正區忠孝東路2段29號2樓及3樓<br>02-3393-8779</td>
           <td>
             <a
               href="http://www.vocalistasso.org.tw/front/bin/home.phtml"

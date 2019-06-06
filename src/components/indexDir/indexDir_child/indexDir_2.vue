@@ -12,7 +12,7 @@
           <th style="width:18%">時間</th>
           <th style="width:20%">活動名稱</th>
           <th>活動內容</th>
-          <th>主辦/承辦</th>
+          <th>備註</th>
         </tr>
       </thead>
       <tbody>

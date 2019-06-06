@@ -131,7 +131,7 @@ export default {
               path: 'indexDir_10',
             },
             {
-              name: '綜合型藝術節篇',
+              name: '綜合型藝術節',
               path: 'indexDir_11',
             }
           ],

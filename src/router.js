@@ -225,12 +225,12 @@ export default new VueRouter({
       component: VideoRecord,
       children: [
         {
-          name: '南營音樂',
+          name: '南管音樂',
           path: '/',
           component: VideoRecord_1,
         },
         {
-          name: '北營音樂',
+          name: '北管音樂',
           path: 'videoRecord_2',
           component: VideoRecord_2,
         },
@@ -412,7 +412,7 @@ export default new VueRouter({
           component: IndexDir_10,
         },
         {
-          name: '綜合型藝術節篇',
+          name: '綜合型藝術節',
           path: 'IndexDir_11',
           component: IndexDir_11,
         },

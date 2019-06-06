@@ -675,7 +675,33 @@
       </tbody>
     </table>
     <br>
-    <h3>十三、賽德克族</h3>
+    <h3>十三、撒奇萊雅族</h3>
+    <table rules="all" style="border:1px solid" cellpadding="5">
+      <thead>
+        <tr>
+          <th style="width:20%">名稱</th>
+          <th style="width:15%">負責人</th>
+          <th style="width:25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th>備註</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>台灣撒奇萊雅族協會</td>
+          <td>理事長 嚴苡嘉</td>
+          <td>
+            花蓮市國慶里中山路一段205-1號右一
+            <br>0038-561-065
+          </td>
+          <td>
+          </td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <h3>十四、賽德克族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -745,7 +771,59 @@
       </tbody>
     </table>
     <br>
-    <h3>十四、大武壠族</h3>
+    <h3>十五、拉阿魯哇族</h3>
+    <table rules="all" style="border:1px solid" cellpadding="5">
+      <thead>
+        <tr>
+          <th style="width:20%">名稱</th>
+          <th style="width:15%">負責人</th>
+          <th style="width:25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th>備註</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>高雄市拉阿魯哇文教協進會</td>
+          <td>郭基鼎</td>
+          <td>
+            高雄市桃源區高中里興中巷42號
+            <br>0919-882-732
+          </td>
+          <td>
+          </td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <h3>十六、卡那卡那富族</h3>
+    <table rules="all" style="border:1px solid" cellpadding="5">
+      <thead>
+        <tr>
+          <th style="width:20%">名稱</th>
+          <th style="width:15%">負責人</th>
+          <th style="width:25%">地址/電話</th>
+          <th>其他聯絡方式</th>
+          <th>備註</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>台灣卡那卡那富族發展協會</td>
+          <td>王光治</td>
+          <td>
+            高雄市那瑪夏區達卡努瓦里三鄰190號
+            <br>0933-610-501
+          </td>
+          <td>
+          </td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <h3>十七、大武壠族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>

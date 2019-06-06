@@ -26,7 +26,33 @@
       </tbody>
     </table>
     <br>
-    <h3>二、排灣族</h3>
+    <h3>二、泰雅族</h3>
+    <table rules="all" style="border:1px solid" cellpadding="5">
+      <thead>
+        <tr>
+          <th style="width:18%">時間</th>
+          <th style="width:15%">活動主題</th>
+          <th>活動內容</th>
+          <th>備註</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8月至9月</td>
+          <td>祖靈祭</td>
+          <td>收割後獻上五穀雜糧。傳統祖靈祭以家族為單位，祭儀時間在天未亮時，過程安靜與肅穆。到達祭祀地點後，頭目會向祖靈說話，感謝祖靈庇佑，有些人則會以朗誦代替說話。</td>
+          <td>五峰鄉公所</td>
+        </tr>
+        <tr>
+          <td>2018/04/20-04/21</td>
+          <td>106學年度全國師生鄉土歌謠</td>
+          <td>為培養教師與學生學習鄉土歌謠及母語之興趣，加強各級學校師生對多元文化的認識，並推展鄉土歌謠教學，以落實母語音樂教育，特舉辦全國師生鄉土歌謠比賽。</td>
+          <td>教育部、客家委員會、原住民族委員會</td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <h3>三、排灣族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -118,7 +144,7 @@
       </tbody>
     </table>
     <br>
-    <h3>三、布農族</h3>
+    <h3>四、布農族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -168,7 +194,7 @@
       </tbody>
     </table>
     <br>
-    <h3>四、卑南族</h3>
+    <h3>五、卑南族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -200,14 +226,14 @@
       </tbody>
     </table>
     <br>
-    <h3>五、魯凱族</h3>
+    <h3>六、魯凱族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
           <th style="width:18%">時間</th>
           <th style="width:15%">活動名稱</th>
           <th>活動內容</th>
-          <th>主辦/承辦</th>
+          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -250,7 +276,7 @@
       </tbody>
     </table>
     <br>
-    <h3>六、鄒族</h3>
+    <h3>七、鄒族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -290,7 +316,7 @@
       </tbody>
     </table>
     <br>
-    <h3>七、賽夏族</h3>
+    <h3>八、賽夏族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -310,7 +336,7 @@
       </tbody>
     </table>
     <br>
-    <h3>八、雅美(達悟)族</h3>
+    <h3>九、雅美(達悟)族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -330,7 +356,7 @@
       </tbody>
     </table>
     <br>
-    <h3>九、邵族</h3>
+    <h3>十、邵族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -365,7 +391,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十、噶瑪蘭族</h3>
+    <h3>十一、噶瑪蘭族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -391,7 +417,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十一、太魯閣族</h3>
+    <h3>十二、太魯閣族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -413,7 +439,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十二、撒奇萊雅族</h3>
+    <h3>十三、撒奇萊雅族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -433,7 +459,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十三、賽德克族</h3>
+    <h3>十四、賽德克族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -453,7 +479,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十四、拉阿魯哇族</h3>
+    <h3>十五、拉阿魯哇族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -473,7 +499,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十五、卡那卡那富族</h3>
+    <h3>十六、卡那卡那富族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -493,7 +519,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十六、馬卡道族</h3>
+    <h3>十七、馬卡道族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -513,7 +539,7 @@
       </tbody>
     </table>
     <br>
-    <h3>十七、大武壠族</h3>
+    <h3>十八、大武壠族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
