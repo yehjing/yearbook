@@ -1,9 +1,13 @@
 <template>
   <section class="footer">
     <div class="footerLeft">
-      <div><img src="./../assets/footerIcon.png" alt=""></div>
+      <div><img class="img1" src="./../assets/footerIcon.png" alt=""></div>
       <div class="text">
         <p>電話：03-9705815 / 傳真：03-9605237 / 地址：26841宜蘭縣五結鄉季新村五濱路二段201號</p>
+        <p style="display:flex;align-items:center;"><span>指導</span><img width="100" src="./../assets/文化部logo標準色-02.png" alt=""></p>
+        <p style="display:flex;align-items:center;"><span>發行</span><img width="100" src="./../assets/中心logo全拷貝.png" alt=""></p>
+        <p style="display:flex;align-items:center;"><span>製作</span><img width="100" src="./../assets/logo檔案-橫式彩色.png" alt=""></p>
+        <div style="display:flex;align-items:center;"><span>執行</span><img width="50" src="./../assets/學會會徽AI檔-01.png" alt=""></div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
         <p>常見問答 ｜ 政府公共網 ｜ 行政院公報 ｜ 隱私權及安全政策宣示 ｜ 政府網站資料開放宣告/著作權聲明</p>
       </div>
@@ -47,7 +51,7 @@ export default {
 }
 .footer{
   // width: 100%;
-  height: 126px;
+  height: 250px;
   display: flex;
   background: #000;
   padding: 30px 10rem;
@@ -64,7 +68,7 @@ export default {
     flex:1.4;
     padding-right:30px;
     border-right: 1px solid #fff;
-    img{
+    .img1{
       display: block;
       margin-right: 10px;
       margin-top: 12px;
