@@ -7,7 +7,7 @@
         <p style="display:flex;align-items:center;"><span>指導</span><img width="100" src="./../assets/文化部logo標準色-02.png" alt=""></p>
         <p style="display:flex;align-items:center;"><span>發行</span><img width="100" src="./../assets/中心logo全拷貝.png" alt=""></p>
         <p style="display:flex;align-items:center;"><span>製作</span><img width="100" src="./../assets/logo檔案-橫式彩色.png" alt=""></p>
-        <div style="display:flex;align-items:center;"><span>執行</span><img width="50" src="./../assets/學會會徽AI檔-01.png" alt=""></div>
+        <div style="display:flex;align-items:center;"><span>執行</span><img width="40" src="./../assets/學會會徽AI檔-01.png" alt=""><span>&nbsp;&nbsp;中華民國國樂學會</span></div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
         <p>常見問答 ｜ 政府公共網 ｜ 行政院公報 ｜ 隱私權及安全政策宣示 ｜ 政府網站資料開放宣告/著作權聲明</p>
       </div>

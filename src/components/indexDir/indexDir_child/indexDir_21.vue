@@ -22,7 +22,7 @@
           <td>有凰音樂國際股份有限公司</td>
           <td>02-2727-1977</td>
           <td>
-            <a href="https://www.facebook.com/matzka2010/">連結</a>
+            <a target="_" href="https://www.facebook.com/matzka2010/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -41,7 +41,7 @@
           <td>P!SCO</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/piscoband/">連結</a>
+            <a target="_" href="https://www.facebook.com/piscoband/">連結</a>
           </td>
           <td>2010年成立</td>
         </tr>
@@ -50,7 +50,7 @@
           <td>華研國際音樂</td>
           <td>02-2512-1919</td>
           <td>
-            <a href="https://www.facebook.com/shehimmusic/">連結</a>
+            <a target="_" href="https://www.facebook.com/shehimmusic/">連結</a>
           </td>
           <td>2001年成立</td>
         </tr>
@@ -59,7 +59,7 @@
           <td>ゲシュタルト乙女</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/GestaltGirl/">連結</a>
+            <a target="_" href="https://www.facebook.com/GestaltGirl/">連結</a>
           </td>
           <td>2016年成立</td>
         </tr>
@@ -68,7 +68,7 @@
           <td>滾石唱片</td>
           <td>臺北市內湖區內湖路一段120巷17號2樓</td>
           <td>
-            <a href="https://www.band831.com/">連結</a>
+            <a target="_" href="https://www.band831.com/">連結</a>
           </td>
           <td>2003年成立</td>
         </tr>
@@ -77,8 +77,7 @@
           <td>大象體操</td>
           <td></td>
           <td>
-            <a
-              href="https://www.instagram.com/elephant_gym_official/"
+            <a target="_" href="https://www.instagram.com/elephant_gym_official/"
             >連結</a>
           </td>
           <td>2012年成立</td>
@@ -88,7 +87,7 @@
           <td>相信音樂股份有限公司</td>
           <td></td>
           <td>
-            <a href="http://www.bin-music.com/">連結</a>
+            <a target="_" href="http://www.bin-music.com/">連結</a>
           </td>
           <td>1997年成立</td>
         </tr>
@@ -100,7 +99,7 @@
             <br>02-2375-8368
           </td>
           <td>
-            <a href="https://www.bamid.gov.tw/">連結</a>
+            <a target="_" href="https://www.bamid.gov.tw/">連結</a>
           </td>
           <td>2012年成立</td>
         </tr>
@@ -109,8 +108,7 @@
           <td>闊思音樂有限公司</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/quarterback.qb/"
+            <a target="_" href="https://www.facebook.com/quarterback.qb/"
             >連結</a>
           </td>
           <td>1993年成立</td>
@@ -120,8 +118,7 @@
           <td>山下民謠</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/ShengXiangBand/"
+            <a target="_" href="https://www.facebook.com/ShengXiangBand/"
             >連結</a>
           </td>
           <td>1998年成立</td>
@@ -131,8 +128,7 @@
           <td>Indie</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/thewhiteeyesTW/"
+            <a target="_" href="https://www.facebook.com/thewhiteeyesTW/"
             >連結</a>
           </td>
           <td>2004年成立</td>
@@ -142,7 +138,7 @@
           <td>月光音樂</td>
           <td></td>
           <td>
-            <a href="http://wubai.com/clubwubai/">連結</a>
+            <a target="_" href="http://wubai.com/clubwubai/">連結</a>
           </td>
           <td>1990年出道</td>
         </tr>
@@ -151,8 +147,7 @@
           <td>好事花生</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/GoodNewsBand.tw/"
+            <a target="_" href="https://www.facebook.com/GoodNewsBand.tw/"
             >連結</a>
           </td>
           <td>2012年成立</td>
@@ -162,8 +157,7 @@
           <td>阮丹青</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/SunshineCosta/"
+            <a target="_" href="https://www.facebook.com/SunshineCosta/"
             >連結</a>
           </td>
           <td>2009年成立</td>
@@ -173,7 +167,7 @@
           <td>好球娛樂</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/fleshjuicer/">連結</a>
+            <a target="_" href="https://www.facebook.com/fleshjuicer/">連結</a>
           </td>
           <td>2006年成立</td>
         </tr>
@@ -182,11 +176,10 @@
           <td>容易文創</td>
           <td>02-2755-3066</td>
           <td>
-            <a
-              href="https://www.facebook.com/jackywuofficial/"
+            <a target="_" href="https://www.facebook.com/jackywuofficial/"
             >連結</a>
             <br>
-            <a href="mailto:easycc.ltd@gmail.com ">連結</a>
+            <a target="_" href="mailto:easycc.ltd@gmail.com ">連結</a>
           </td>
           <td>1987年出道</td>
         </tr>
@@ -195,8 +188,7 @@
           <td></td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/sasalittleband/"
+            <a target="_" href="https://www.facebook.com/pg/sasalittleband/"
             >連結</a>
           </td>
           <td>2015年成立</td>
@@ -206,7 +198,7 @@
           <td>山下民謠</td>
           <td></td>
           <td>
-            <a href="https://tokyochuoline.com/">連結</a>
+            <a target="_" href="https://tokyochuoline.com/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -215,8 +207,7 @@
           <td>春麵樂隊</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/春麵樂隊ChuNoodle-150724869107878/"
+            <a target="_" href="https://www.facebook.com/春麵樂隊ChuNoodle-150724869107878/"
             >連結</a>
           </td>
           <td>2018年成立</td>
@@ -226,7 +217,7 @@
           <td>經紀人百萱</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/EggPlantEgg/">連結</a>
+            <a target="_" href="https://www.facebook.com/EggPlantEgg/">連結</a>
           </td>
           <td>2012年成立</td>
         </tr>
@@ -235,7 +226,7 @@
           <td>環球唱片</td>
           <td></td>
           <td>
-            <a href="https://chthonic.tw/">連結</a>
+            <a target="_" href="https://chthonic.tw/">連結</a>
           </td>
           <td>1996年成立</td>
         </tr>
@@ -244,7 +235,7 @@
           <td>晨曦光廊</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/SUNOFMORNING/">連結</a>
+            <a target="_" href="https://www.facebook.com/SUNOFMORNING/">連結</a>
           </td>
           <td>2008年成立</td>
         </tr>
@@ -253,7 +244,7 @@
           <td>顏社 KAO!INC.</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/Softlipa/">連結</a>
+            <a target="_" href="https://www.facebook.com/Softlipa/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -262,7 +253,7 @@
           <td>許郁瑛</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/yyhsu.music">連結</a>
+            <a target="_" href="https://www.facebook.com/yyhsu.music">連結</a>
           </td>
           <td></td>
         </tr>
@@ -274,8 +265,7 @@
             <br>02-2893-3088
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/Taiwan.yueqin/"
+            <a target="_" href="https://www.facebook.com/Taiwan.yueqin/"
             >連結</a>
           </td>
           <td>2009年成立</td>
@@ -285,8 +275,7 @@
           <td></td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/frecklesarethebest"
+            <a target="_" href="https://www.facebook.com/frecklesarethebest"
             >連結</a>
           </td>
           <td>2003年成立</td>
@@ -296,8 +285,7 @@
           <td>索尼音樂</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/juliastar888/"
+            <a target="_" href="https://www.facebook.com/pg/juliastar888/"
             >連結</a>
           </td>
           <td>1996年出道</td>
@@ -307,7 +295,7 @@
           <td>華昇</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/HakkaWatson/">連結</a>
+            <a target="_" href="https://www.facebook.com/HakkaWatson/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -316,8 +304,7 @@
           <td>星光娛樂</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/superTigerHuang/"
+            <a target="_" href="https://www.facebook.com/superTigerHuang/"
             >連結</a>
           </td>
           <td>1989年出道</td>
@@ -327,7 +314,7 @@
           <td>進化音樂娛樂</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/pg/aes.alien/">連結</a>
+            <a target="_" href="https://www.facebook.com/pg/aes.alien/">連結</a>
           </td>
           <td>2002年出道</td>
         </tr>
@@ -336,8 +323,7 @@
           <td>A&amp;E群藝國際娛樂有限公司</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/BlackTwoStorm/"
+            <a target="_" href="https://www.facebook.com/BlackTwoStorm/"
             >連結</a>
           </td>
           <td></td>
@@ -347,8 +333,7 @@
           <td>滾石唱片</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/iamOneFang/"
+            <a target="_" href="https://www.facebook.com/pg/iamOneFang/"
             >連結</a>
           </td>
           <td></td>
@@ -358,7 +343,7 @@
           <td>Dr.詹姆士</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/DrJamesMusic/">連結</a>
+            <a target="_" href="https://www.facebook.com/DrJamesMusic/">連結</a>
           </td>
           <td>2012年成立</td>
         </tr>
@@ -367,8 +352,7 @@
           <td>詹雅雯</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/YW.FanClub/"
+            <a target="_" href="https://www.facebook.com/pg/YW.FanClub/"
             >連結</a>
           </td>
           <td>1980年出道</td>
@@ -378,7 +362,7 @@
           <td>華特唱片</td>
           <td>02-2835-3418</td>
           <td>
-            <a href="https://www.watermusic.com.tw/">連結</a>
+            <a target="_" href="https://www.watermusic.com.tw/">連結</a>
           </td>
           <td>1978年出道</td>
         </tr>
@@ -387,7 +371,7 @@
           <td>好莉嗨文創有限公司</td>
           <td>02-2364-8229</td>
           <td>
-            <a href="mailto:huangchi0922@gmail.com">連結</a>
+            <a target="_" href="mailto:huangchi0922@gmail.com">連結</a>
           </td>
           <td>1999年出道</td>
         </tr>
@@ -396,7 +380,7 @@
           <td></td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/RANDOM78/">連結</a>
+            <a target="_" href="https://www.facebook.com/RANDOM78/">連結</a>
           </td>
           <td>2005年成立</td>
         </tr>
@@ -405,7 +389,7 @@
           <td>蘇珮卿</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/su.paige/">連結</a>
+            <a target="_" href="https://www.facebook.com/su.paige/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -414,8 +398,7 @@
           <td>獨一無二娛樂文化</td>
           <td>02-2651-9595</td>
           <td>
-            <a
-              href="https://www.facebook.com/chairman.taiwan/"
+            <a target="_" href="https://www.facebook.com/chairman.taiwan/"
             >連結</a>
           </td>
           <td>1997年成立</td>

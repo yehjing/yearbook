@@ -25,7 +25,7 @@
             <br>0921-194-175
           </td>
           <td>
-            <a href="https://www.facebook.com/Spectro7/">連結</a>
+            <a target="_" href="https://www.facebook.com/Spectro7/">連結</a>
           </td>
           <td>2007年成立</td>
         </tr>
@@ -34,7 +34,7 @@
           <td>徐灝翔</td>
           <td>0932-192-696</td>
           <td>
-            <a href="https://www.facebook.com/tw.seahorse/">連結</a>
+            <a target="_" href="https://www.facebook.com/tw.seahorse/">連結</a>
           </td>
           <td>1999年成立</td>
         </tr>
@@ -46,8 +46,7 @@
             <br>0902-278-687
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/LiushengjiMusic/"
+            <a target="_" href="https://www.facebook.com/LiushengjiMusic/"
             >連結</a>
           </td>
           <td>2017年成立</td>
@@ -61,9 +60,9 @@
             <br>0975-156-783
           </td>
           <td>
-            <a href="https://www.sizhukong.com/">連結</a>
+            <a target="_" href="https://www.sizhukong.com/">連結</a>
             <br>
-            <a href="https://www.facebook.com/sizhukong/">連結</a>
+            <a target="_" href="https://www.facebook.com/sizhukong/">連結</a>
           </td>
           <td>2005年成立</td>
         </tr>
@@ -75,8 +74,7 @@
             <br>0935-626-110
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/sweepingmusic/"
+            <a target="_" href="https://www.facebook.com/sweepingmusic/"
             >連結</a>
           </td>
           <td>2014年6月11日</td>
@@ -89,7 +87,7 @@
             <br>0919-282-273
           </td>
           <td>
-            <a href="https://www.facebook.com/wooonta/">連結</a>
+            <a target="_" href="https://www.facebook.com/wooonta/">連結</a>
           </td>
           <td>2015年成立</td>
         </tr>
@@ -98,8 +96,7 @@
           <td>程明</td>
           <td>0955-988-376</td>
           <td>
-            <a
-              href="https://www.facebook.com/afternoontree/"
+            <a target="_" href="https://www.facebook.com/afternoontree/"
             >連結</a>
           </td>
           <td>2006年成立</td>
@@ -112,8 +109,7 @@
             <br>0929-984 571
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/"
+            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/"
             >連結</a>
           </td>
           <td>2009年8月成立</td>
@@ -126,7 +122,7 @@
             <br>02-2666-9259
           </td>
           <td>
-            <a href="https://www.facebook.com/CCamerata/">連結</a>
+            <a target="_" href="https://www.facebook.com/CCamerata/">連結</a>
           </td>
           <td>2012年成立</td>
         </tr>
@@ -138,10 +134,9 @@
             <br>02-2232-7722
           </td>
           <td>
-            <a href="http://www.musouband.com.tw/">連結</a>
+            <a target="_" href="http://www.musouband.com.tw/">連結</a>
             <br>
-            <a
-              href="https://www.facebook.com/MusouBandOfficial/"
+            <a target="_" href="https://www.facebook.com/MusouBandOfficial/"
             >連結</a>
           </td>
           <td>2008年12月成立</td>
@@ -154,7 +149,7 @@
             <br>02-2217-3095
           </td>
           <td>
-            <a href="http://www.amovingsound.com/zh/">連結</a>
+            <a target="_" href="http://www.amovingsound.com/zh/">連結</a>
           </td>
           <td>2002年成立</td>
         </tr>
@@ -166,7 +161,7 @@
             <br>0958-016-186
           </td>
           <td>
-            <a href="https://www.facebook.com/CMOFB/">連結</a>
+            <a target="_" href="https://www.facebook.com/CMOFB/">連結</a>
           </td>
           <td>2010年11月8日成立</td>
         </tr>
@@ -175,10 +170,9 @@
           <td>蔣舒雅</td>
           <td>臺中市大雅區上楓里樹德街258號</td>
           <td>
-            <a href="mailto:bluetearsband@gmail.com">連結</a>
+            <a target="_" href="mailto:bluetearsband@gmail.com">連結</a>
             <br>
-            <a
-              href="https://www.facebook.com/bluetearsbandofficial/"
+            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/"
             >連結</a>
           </td>
           <td>2018年1月24日成立</td>
@@ -188,7 +182,7 @@
           <td>團長 楊智博</td>
           <td>0987-946-319</td>
           <td>
-            <a href="https://www.facebook.com/ARoot2016/">連結</a>
+            <a target="_" href="https://www.facebook.com/ARoot2016/">連結</a>
           </td>
           <td>2016年成立</td>
         </tr>

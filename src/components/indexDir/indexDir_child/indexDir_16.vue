@@ -13,8 +13,6 @@
           <th>名稱</th>
           <th>負責人</th>
           <th>地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -25,36 +23,26 @@
             臺東縣卑南鄉利嘉村利嘉路442巷32號
             <br>0932-664-034
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>杵音文化藝術團</td>
           <td>郭子雄</td>
           <td>臺東縣臺東市更生北路559巷49號<br>0935-819-358</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>長光天主教堂</td>
           <td>吳若石</td>
           <td>臺東縣長濱鄉長濱村24鄰105-1號<br>089-831-428</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>南溪社區發展協會</td>
           <td>高蓮妹</td>
           <td>臺東縣長濱鄉三間村南溪16鄰6號<br>0912-749-280</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>臺東縣阿美族學學會</td>
           <td>高淑娟</td>
           <td>臺東縣臺東市更生北路559巷49號<br>0935-819-358</td>
-          <td></td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -66,8 +54,6 @@
           <th>名稱</th>
           <th>負責人</th>
           <th>地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -75,29 +61,21 @@
           <td>傳源文化藝術團</td>
           <td>郭志翔</td>
           <td>臺北市內湖區康寧路3段165巷25弄14號1樓<br>0958-218-540</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>嘉興國小義興分校</td>
           <td>徐榮春</td>
           <td>新竹縣尖石鄉義興村馬胎8鄰51號<br>03-584-1600</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>泰雅原舞工坊</td>
           <td>黃雅玲</td>
           <td>臺中市和平區南勢里東園路3段35號<br>04-2594-3191</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>武塔國小</td>
           <td>白淑淓</td>
           <td>宜蘭縣南澳鄉武塔村新溪路1號<br>03-998-1632</td>
-          <td></td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -119,7 +97,7 @@
           <td></td>
           <td>屏東縣牡丹鄉東源村</td>
           <td>
-            <a href="https://www.facebook.com/sauniaw">連結</a>
+            <a target="_" href="https://www.facebook.com/sauniaw">連結</a>
           </td>
           <td>臺灣第一個打破專屬男性傳統，學習口、鼻笛的女性。2011年，屏東縣政府將她列為屏東縣傳統藝術排灣族口、鼻笛傳藝師。</td>
         </tr>
@@ -128,7 +106,7 @@
           <td>牡丹國小</td>
           <td>屏東縣牡丹鄉牡丹路93號<br>08-883-0065</td>
           <td>
-            <a href="https://www.facebook.com/love.mudan/">連結</a>
+            <a target="_" href="https://www.facebook.com/love.mudan/">連結</a>
           </td>
           <td>2010年在學校支持下成立，由王曉慧老師指導，多次獲邀演出，並在2006年的全縣鄉土歌謠比賽榮獲優等佳績。</td>
         </tr>
@@ -137,8 +115,7 @@
           <td>高加馨</td>
           <td>屏東縣牡丹鄉牡丹村</td>
           <td>
-            <a
-              href="https://sites.google.com/site/ljemingas005/"
+            <a target="_" href="https://sites.google.com/site/ljemingas005/"
             >連結</a>
           </td>
           <td>2013年由白勇務理事長成立的牡丹古謠班，為牡丹鄉第一個部落古謠班。</td>
@@ -148,8 +125,7 @@
           <td></td>
           <td>屏東縣泰武鄉佳平村</td>
           <td>
-            <a
-              href="https://www.facebook.com/佳平彩虹古謠隊-602875839756163/"
+            <a target="_" href="https://www.facebook.com/佳平彩虹古謠隊-602875839756163/"
             >連結</a>
           </td>
           <td>屏東縣武潭國小佳平分校的排灣族合唱團。</td>
@@ -159,7 +135,7 @@
           <td></td>
           <td>屏東縣牡丹鄉石門村</td>
           <td>
-            <a href="https://www.facebook.com/ivi.kalaya">連結</a>
+            <a target="_" href="https://www.facebook.com/ivi.kalaya">連結</a>
           </td>
           <td>原住民族文化園區及原舞者的創始團員，也是現任瑪莎露樂團的主唱。</td>
         </tr>
@@ -168,7 +144,7 @@
           <td>阿VAN老師</td>
           <td>屏東縣牡丹鄉高士村</td>
           <td>
-            <a href="https://www.facebook.com/KusKusaSenai/">連結</a>
+            <a target="_" href="https://www.facebook.com/KusKusaSenai/">連結</a>
           </td>
           <td>由獲得第23屆金曲獎最佳演唱組合的新寶島康樂隊的排灣族成員&mdash;阿van於2012年成立。</td>
         </tr>
@@ -177,8 +153,7 @@
           <td>查馬克</td>
           <td>屏東縣泰武鄉</td>
           <td>
-            <a
-              href="https://www.facebook.com/TaiwuAncientBalladsTroupe/"
+            <a target="_" href="https://www.facebook.com/TaiwuAncientBalladsTroupe/"
             >連結</a>
           </td>
           <td>第23屆金曲獎「最佳傳統音樂詮釋獎」、第25屆金曲獎「最佳原住民語專輯獎」。</td>
@@ -188,7 +163,7 @@
           <td></td>
           <td>屏東縣牡丹鄉石門村</td>
           <td>
-            <a href="https://www.facebook.com/TaiSiaoChun">連結</a>
+            <a target="_" href="https://www.facebook.com/TaiSiaoChun">連結</a>
           </td>
           <td>入圍第28屆金曲獎流行類「最佳原住民語專輯獎」、「最佳原住民語歌手獎」和「年度專輯」。</td>
         </tr>
@@ -215,7 +190,7 @@
             <br>049-279-2800
           </td>
           <td>
-            <a href="http://sixstar.moc.gov">連結</a>
+            <a target="_" href="http://sixstar.moc.gov">連結</a>
           </td>
           <td>Lileh之聲合唱團</td>
         </tr>
@@ -224,8 +199,7 @@
           <td>Savi</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/小芳家族-1712064369093367/"
+            <a target="_" href="https://www.facebook.com/小芳家族-1712064369093367/"
             >連結</a>
           </td>
           <td>布農族演出團體</td>
@@ -247,8 +221,7 @@
             <br>049-279-2800
           </td>
           <td>
-            <a
-              href="http://sixstar.moc.gov.tw/blog/shinibunun"
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun"
             >連結</a>
           </td>
           <td>1999年成立，為國家級重要傳統藝術保存團體，練習時間：每週一19:30-21:00。</td>
@@ -261,7 +234,7 @@
             <br>049-270-1340
           </td>
           <td>
-            <a href="http://www.tpups.ntct.edu.tw">連結</a>
+            <a target="_" href="http://www.tpups.ntct.edu.tw">連結</a>
           </td>
           <td>布農族演出團體</td>
         </tr>
@@ -270,7 +243,7 @@
           <td>洪春滿</td>
           <td></td>
           <td>
-            <a href="https://voxnativausa.org">連結</a>
+            <a target="_" href="https://voxnativausa.org">連結</a>
           </td>
           <td>成立於2008年，布農族演出團體。</td>
         </tr>
@@ -291,8 +264,6 @@
           <th>名稱</th>
           <th style="width:10%">負責人</th>
           <th>地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -300,29 +271,21 @@
           <td>台灣高山舞集文化藝術服務團隊</td>
           <td>洪慶誠</td>
           <td>臺東縣臺東市更生北路613巷76號<br>0928-875-355</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>普悠瑪南王部落長老會</td>
           <td>賴光輝</td>
           <td>臺東縣卑南鄉賓朗村7鄰1號</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>普悠瑪南王部落青年會</td>
           <td>吳曜昌</td>
           <td>臺東縣臺東市更生北路559巷61號</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>普悠瑪南王部落婦女會</td>
           <td>江玉葉</td>
           <td>臺東縣臺東市更生北路596巷46號</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>臺東縣卑南族民族自治事務促進發展協會</td>
@@ -331,8 +294,6 @@
             臺東縣卑南鄉美濃村高臺9號
             <br>089-571-495
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>臺東縣卑南鄉下賓朗社區發展協會</td>
@@ -341,8 +302,6 @@
             臺東縣卑南鄉賓朗路286號
             <br>089-236-875
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>臺東縣阿里擺文教協會</td>
@@ -351,15 +310,11 @@
             臺東縣卑南鄉賓朗村賓朗路24鄰537巷20號
             <br>0986-381-840
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>臺東縣普悠瑪文化發展協會</td>
           <td>鄭玉嬌</td>
           <td>臺東縣臺東市更生北路613巷42號</td>
-          <td></td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -381,8 +336,7 @@
           <td>彥鵬</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/DrekaiYacengeceng/"
+            <a target="_" href="https://www.facebook.com/DrekaiYacengeceng/"
             >連結</a>
           </td>
           <td>成立時間於2008年3月</td>
@@ -409,7 +363,7 @@
             0976-677-611
           </td>
           <td>
-            <a href="https://line.me/R/ti/p/%40kkr3620f">連結</a>
+            <a target="_" href="https://line.me/R/ti/p/%40kkr3620f">連結</a>
           </td>
           <td>鄒族演出團體2017/12/29發行首張鄒語創作專輯「故鄉」。</td>
         </tr>
@@ -421,8 +375,7 @@
             <br>05-251-1982
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/cou.culture.center/"
+            <a target="_" href="https://www.facebook.com/cou.culture.center/"
             >連結</a>
           </td>
           <td></td>
@@ -435,7 +388,7 @@
             <br>0937-476-115
           </td>
           <td>
-            <a href="mailto:hosa520@gmail.com">連結</a>
+            <a target="_" href="mailto:hosa520@gmail.com">連結</a>
           </td>
           <td>2010年成立協會，汪義福為現任部落領袖。</td>
         </tr>
@@ -483,8 +436,7 @@
           </td>
           <td>
             鄒族營隊<br>
-            <a
-              href="https://www.facebook.com/sinvi.niahosa/"
+            <a target="_" href="https://www.facebook.com/sinvi.niahosa/"
             >連結</a>
           </td>
           <td></td>
@@ -499,8 +451,6 @@
           <th>名稱</th>
           <th style="width:10%">負責人</th>
           <th>地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -508,8 +458,6 @@
           <td>新竹縣五峰鄉賽夏族文化藝術協會</td>
           <td>朱劍鳴</td>
           <td>新竹縣五峰鄉大隘村16鄰331之1號<br>03-585-117</td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>苗栗縣南庄鄉蓬萊國小</td>
@@ -518,15 +466,11 @@
             苗栗縣南莊鄉蓬萊村19鄰118號
             <br>037-823-385
           </td>
-          <td></td>
-          <td></td>
         </tr>
         <tr>
           <td>苗栗縣賽夏文化藝術協會</td>
           <td>章潘三妹</td>
           <td>苗栗縣南庄鄉蓬萊村19鄰117號<br>0932-614-886</td>
-          <td></td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -550,7 +494,7 @@
             0989-715-257
           </td>
           <td>
-            <a href="mailto:aat88888888@gmail.com">連結</a>
+            <a target="_" href="mailto:aat88888888@gmail.com">連結</a>
           </td>
           <td>成立於2018年，演出蘭嶼達悟族藝術劇目。</td>
         </tr>
@@ -577,7 +521,7 @@
             <br>049-285-0036
           </td>
           <td>
-            <a href="https://www.facebook.com/Thao.Nation/">連結</a>
+            <a target="_" href="https://www.facebook.com/Thao.Nation/">連結</a>
           </td>
           <td>邵族演出團體</td>
         </tr>
@@ -589,8 +533,7 @@
             <br>049-285-0036
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/itathao.thethao"
+            <a target="_" href="https://www.facebook.com/itathao.thethao"
             >連結</a>
           </td>
           <td>
@@ -628,7 +571,7 @@
           <td>陳夏梅</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/kudisdamu/">連結</a>
+            <a target="_" href="https://www.facebook.com/kudisdamu/">連結</a>
           </td>
           <td>每週六日常態練習</td>
         </tr>
@@ -655,7 +598,7 @@
             <br>0972-892-209
           </td>
           <td>
-            <a href="mailto:chenlinjo@gmail.com">連結</a>
+            <a target="_" href="mailto:chenlinjo@gmail.com">連結</a>
           </td>
           <td>太魯閣族演出團體，2004年成立。</td>
         </tr>
@@ -666,8 +609,7 @@
             0981-016-207
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/LabagaTaru/about/?ref=page_internal"
+            <a target="_" href="https://www.facebook.com/pg/LabagaTaru/about/?ref=page_internal"
             >連結</a>
           </td>
           <td>太魯閣族演出歌手，2018年製作謝皓成首張專輯《獵首笛》。</td>
@@ -682,8 +624,6 @@
           <th style="width:20%">名稱</th>
           <th style="width:15%">負責人</th>
           <th style="width:25%">地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -694,9 +634,6 @@
             花蓮市國慶里中山路一段205-1號右一
             <br>0038-561-065
           </td>
-          <td>
-          </td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -718,8 +655,7 @@
           <td>瑪姮巴丸</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/gluban.theater/?ref=page_internal"
+            <a target="_" href="https://www.facebook.com/gluban.theater/?ref=page_internal"
             >連結</a>
           </td>
           <td>成立時間於2014年4月26日</td>
@@ -729,8 +665,7 @@
           <td>瑪姮巴丸</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/mahung.house2016"
+            <a target="_" href="https://www.facebook.com/mahung.house2016"
             >連結</a>
           </td>
           <td></td>
@@ -740,7 +675,7 @@
           <td>瑪姮巴丸</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/pusu.asd/">連結</a>
+            <a target="_" href="https://www.facebook.com/pusu.asd/">連結</a>
           </td>
           <td>每週六日常態</td>
         </tr>
@@ -749,8 +684,7 @@
           <td>張大偉</td>
           <td></td>
           <td>
-            <a
-              href="https://www.facebook.com/賽德克巴蘭社青年舞團-620278148011079/"
+            <a target="_" href="https://www.facebook.com/賽德克巴蘭社青年舞團-620278148011079/"
             >連結</a>
           </td>
           <td>成立於2011年，每週五六晚間常態練習。</td>
@@ -778,8 +712,6 @@
           <th style="width:20%">名稱</th>
           <th style="width:15%">負責人</th>
           <th style="width:25%">地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -790,9 +722,6 @@
             高雄市桃源區高中里興中巷42號
             <br>0919-882-732
           </td>
-          <td>
-          </td>
-          <td></td>
         </tr>
       </tbody>
     </table>
@@ -804,8 +733,6 @@
           <th style="width:20%">名稱</th>
           <th style="width:15%">負責人</th>
           <th style="width:25%">地址/電話</th>
-          <th>其他聯絡方式</th>
-          <th>備註</th>
         </tr>
       </thead>
       <tbody>
@@ -816,14 +743,11 @@
             高雄市那瑪夏區達卡努瓦里三鄰190號
             <br>0933-610-501
           </td>
-          <td>
-          </td>
-          <td></td>
         </tr>
       </tbody>
     </table>
     <br>
-    <h3>十七、大武壠族</h3>
+    <h3>十七、平埔族-大武壠族</h3>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>
         <tr>
@@ -840,8 +764,7 @@
           <td></td>
           <td>高雄市杉林區忠義路1號<br>07-677-5186</td>
           <td>
-            <a
-              href="https://www.facebook.com/TaivoanPingpu/"
+            <a target="_" href="https://www.facebook.com/TaivoanPingpu/"
             >連結</a>
           </td>
           <td>2011年族人自主成立</td>

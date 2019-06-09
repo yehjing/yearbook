@@ -26,8 +26,7 @@
             <br>02-2425-3518
           </td>
           <td>
-            <a
-              href="http://www.yuyun.org.tw/yuyun/index.php/yuyun-about"
+            <a target="_" href="http://www.yuyun.org.tw/yuyun/index.php/yuyun-about"
             >連結</a>
           </td>
           <td>1960年成立於基隆市，是基隆第一個社會合唱團體。</td>
@@ -50,8 +49,7 @@
             <br>02-2423-4884
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/啄木鳥合唱團98-516315805193598/about/m.me/5163-15805-193598"
+            <a target="_" href="https://www.facebook.com/啄木鳥合唱團98-516315805193598/about/m.me/5163-15805-193598"
             >連結</a>
           </td>
           <td>1985年成立於基隆，是由一群熱愛合唱的男士所組成。成立宗旨為「以雄壯渾厚、優美溫醇之男聲合唱，來洗滌人心，並形塑社會之善良風氣」。</td>
@@ -64,8 +62,7 @@
             <br>02-2425-5289
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/KeelungPhilharmonicChoir/"
+            <a target="_" href="https://www.facebook.com/KeelungPhilharmonicChoir/"
             >連結</a>
           </td>
           <td>成立於1975年，前身為基隆商工校友合唱團，團員來自社會各階層熱愛合唱藝術的朋友們。</td>
@@ -78,8 +75,7 @@
             <br>02-2458-1854
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/pages/category/Community/98-Nuan-Yun-Choir-119575801444376/"
+            <a target="_" href="https://www.facebook.com/pages/category/Community/98-Nuan-Yun-Choir-119575801444376/"
             >連結</a>
           </td>
           <td>成立於2001年，成立宗旨為「為推廣社區音樂文化、合唱藝術、凝聚社區情感。」</td>
@@ -89,7 +85,7 @@
           <td>周睿德</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/DitchCover/">連結</a>
+            <a target="_" href="https://www.facebook.com/DitchCover/">連結</a>
           </td>
           <td>成立於臺北市的創作樂團</td>
         </tr>
@@ -101,8 +97,7 @@
             <br>02-2893-3088
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/長春花樂團98-1061906727227527/"
+            <a target="_" href="https://www.facebook.com/長春花樂團98-1061906727227527/"
             >連結</a>
           </td>
           <td>成立於2015年。長春花樂團成員全由來自各地的臺灣月琴民謠協會學員所組成。</td>
@@ -115,7 +110,7 @@
             <br>02-2773-3691#135
           </td>
           <td>
-            <a href="http://twss.pixnet.net/blog">連結</a>
+            <a target="_" href="http://twss.pixnet.net/blog">連結</a>
           </td>
           <td>成立於2002年，以「唱到八十，永遠十八」為宗旨，期盼「以歌會友」。</td>
         </tr>
@@ -127,8 +122,7 @@
             <br>02-2893-3088
           </td>
           <td>
-            <a
-              href="http://https/www.facebook.com/Taiwan.yueqin/"
+            <a target="_" href="http://https/www.facebook.com/Taiwan.yueqin/"
             >連結</a>
           </td>
           <td>成立於2009年，發起人為陳明章，他集合熱衷致力推廣月琴之會員，讓臺灣的國民樂器「月琴」能繼續被傳承與演奏。</td>
@@ -143,7 +137,7 @@
             <br>02-2920-9028
           </td>
           <td>
-            <a href="https://www.facebook.com/shiamishiami/">連結</a>
+            <a target="_" href="https://www.facebook.com/shiamishiami/">連結</a>
           </td>
           <td>2011年7月由臺灣合唱音樂中心，招募多位愛唱歌的視障朋友，展開「用聲音看世界」－視障人聲樂團的培訓計畫。</td>
         </tr>
@@ -155,8 +149,7 @@
             <br>02-3758-0272
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/田園樂府團/222806804410296/"
+            <a target="_" href="https://www.facebook.com/田園樂府團/222806804410296/"
             >連結</a>
           </td>
           <td>1983年簡上仁創立</td>
@@ -169,8 +162,7 @@
             <br>02-2646-3947
           </td>
           <td>
-            <a
-              href="https://mobile.facebook.com/showking317/%A1%48%5Ftn%5F%A1%D7%2AsH-R"
+            <a target="_" href="https://mobile.facebook.com/showking317/%A1%48%5Ftn%5F%A1%D7%2AsH-R"
             >連結</a>
           </td>
           <td>2010年成立，楊秀卿為國家指定登錄重要傳統藝術說唱保存者。</td>
@@ -183,7 +175,7 @@
             <br>0952-289-124
           </td>
           <td>
-            <a href="https://www.huashincc.org/">連結</a>
+            <a target="_" href="https://www.huashincc.org/">連結</a>
           </td>
           <td>1988年春，華新建設公司與新北市政府文化局共同成立。</td>
         </tr>
@@ -195,7 +187,7 @@
             <br>02-2920-9028
           </td>
           <td>
-            <a href="http://www.tcmc.org.tw/index.php">連結</a>
+            <a target="_" href="http://www.tcmc.org.tw/index.php">連結</a>
           </td>
           <td>成立於2000年，期望立足臺灣，展望世界，推廣合唱發展。</td>
         </tr>
@@ -207,7 +199,7 @@
             <br>0929-672-033
           </td>
           <td>
-            <a href="http://tengpang2762.pixnet.net/blog">連結</a>
+            <a target="_" href="http://tengpang2762.pixnet.net/blog">連結</a>
           </td>
           <td>
             成立於2000年，宗旨為「傳承、推廣
@@ -221,8 +213,7 @@
             0921-980-166
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/pages/category/Performing-Arts/98-217067061811495/"
+            <a target="_" href="https://www.facebook.com/pages/category/Performing-Arts/98-217067061811495/"
             >連結</a>
           </td>
           <td>已成立30年，由何桂華領軍與指導，一步一腳印的為鄉土歌謠推展努力不懈。</td>
@@ -235,7 +226,7 @@
             <br>0953-724-857
           </td>
           <td>
-            <a href="https://www.facebook.com/taiwansmile/">連結</a>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>成立於2011年，創辦人為儲見智與林恬安，以傳承推廣唸歌文化為主要宗旨，藉由唸歌的演出、展覽、教學、演講等方式，傳達臺語說唱藝術的理念。</td>
         </tr>
@@ -251,8 +242,8 @@
           <td>嚴詠能</td>
           <td></td>
           <td>
-            <a href="https://www.facebook.com/takaorun/">連結</a><br>
-            <a href="mailto:runran1970123@gmail.com">連結</a>
+            <a target="_" href="https://www.facebook.com/takaorun/">連結</a><br>
+            <a target="_" href="mailto:runran1970123@gmail.com">連結</a>
           </td>
           <td>打狗亂歌團是以本土創作及母語歌謠走唱為業，每位樂手玩的音樂不同，創作題材不同，曲風不一，所以他們自取名為亂歌團，不過亂歌團的「亂」，臺語同音字為「戀」，樂團希望藉由創作跟土地談戀愛。</td>
         </tr>
@@ -264,8 +255,7 @@
             <br>08-889-8166
           </td>
           <td>
-            <a
-              href="http://web.hcps.ptc.edu.tw/cyberfair2006/G/g2.htm"
+            <a target="_" href="http://web.hcps.ptc.edu.tw/cyberfair2006/G/g2.htm"
             >連結</a>
           </td>
           <td>高李正姬任團長，總幹事趙振英。</td>
@@ -278,8 +268,7 @@
             <br>08-888-0293
           </td>
           <td>
-            <a
-              href="https://www.facebook.com/pages/category/Travel-Service/恆春民謠館-424690274297349/"
+            <a target="_" href="https://www.facebook.com/pages/category/Travel-Service/恆春民謠館-424690274297349/"
             >連結</a>
           </td>
           <td>2009年揭牌啟用。2008年屏東縣政府向恆春旅遊醫院租用舊有宿舍作為「恆春民謠館」。</td>
@@ -293,8 +282,7 @@
             <br>08-880-1105
           </td>
           <td>
-            <a
-              href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B"
+            <a target="_" href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B"
             >連結</a>
           </td>
           <td>1981年立案</td>
@@ -308,8 +296,7 @@
             <br>08-880-1105
           </td>
           <td>
-            <a
-              href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B"
+            <a target="_" href="https://www.pthg.gov.tw/townmto/Content_List.aspx?n=1D48F4EE0338DF0B"
             >連結</a>
           </td>
           <td>2018年2月16日開幕</td>
@@ -339,8 +326,7 @@
           <td>丁秀津</td>
           <td>臺北市</td>
           <td>
-            <a
-              href="https://www.facebook.com/Melodysyueqin/"
+            <a target="_" href="https://www.facebook.com/Melodysyueqin/"
             >連結</a>
           </td>
           <td>唸歌仔藝人。文化部指定「重要無形文化資產保存者」楊秀卿之第2屆傳習藝生。</td>
@@ -374,8 +360,7 @@
           <td>陳維斌</td>
           <td>臺北市</td>
           <td>
-            <a
-              href="https://www.facebook.com/DenxTaiwanMusic/"
+            <a target="_" href="https://www.facebook.com/DenxTaiwanMusic/"
             >連結</a>
           </td>
           <td>臺語歌曲詞曲作家、醫生。</td>
@@ -429,7 +414,7 @@
           <td>林恬安</td>
           <td>臺中市潭子區</td>
           <td>
-            <a href="https://www.facebook.com/taiwansmile/">連結</a>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>擅長唸歌仔。與儲見智共同成立微笑唸歌團。文化部指定「重要無形文化資產保存者」楊秀卿之第2屆傳習藝生。</td>
         </tr>
@@ -440,7 +425,7 @@
             <br>0953-724-857
           </td>
           <td>
-            <a href="https://www.facebook.com/taiwansmile/">連結</a>
+            <a target="_" href="https://www.facebook.com/taiwansmile/">連結</a>
           </td>
           <td>1976-，擅長唸歌仔，微笑唸歌團團長。文化部指定「重要無形文化資產保存者」楊秀卿之第2屆傳習藝生。</td>
         </tr>
@@ -492,8 +477,7 @@
           <td>張日貴</td>
           <td>屏東縣滿州鄉</td>
           <td>
-            <a
-              href="http://musiciantw.ncfta.gov.tw/list.aspx?p=M064&amp;c=&amp;t=1"
+            <a target="_" href="http://musiciantw.ncfta.gov.tw/list.aspx?p=M064&amp;c=&amp;t=1"
             >連結</a>
           </td>
           <td>1933-，滿州鄉民謠歌手、民謠傳藝師。2012年獲選文化部「重要傳統藝術－滿州民謠保存者」，之後受聘擔任傳藝師。</td>
@@ -514,7 +498,7 @@
           <td>戴曉君</td>
           <td>屏東縣牡丹鄉</td>
           <td>
-            <a href="https://www.facebook.com/TaiSiaoChun/">連結</a>
+            <a target="_" href="https://www.facebook.com/TaiSiaoChun/">連結</a>
           </td>
           <td>1986-，創作歌手。將排灣古謠旋律融入音樂創作。2011、2014年兩度獲得「原創流行音樂大獎－原住民語組」首獎。</td>
         </tr>

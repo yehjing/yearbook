@@ -109,8 +109,7 @@
           <td>笙、中阮、柳琴、鋼琴、打擊、Bass</td>
           <td>A Root 同根生，笙、中阮、柳琴、鋼琴、低音提琴及世界打擊樂器的融合樂團。串聯中西民族器樂，穿梭於自由即興、爵士音樂語彙之間。宜蘭專業音樂人所組成，擅以環境與空間為創作靈感，透過音樂敘事。帶著各自不同的藝術背景與生命經驗，在家鄉的土地上再次相聚，以此為根基，啟程。</td>
           <td>
-            <a
-              href="https://www.facebook.com/pg/ARoot2016/about/?ref=page_internal"
+            <a target="_" href="https://www.facebook.com/pg/ARoot2016/about/?ref=page_internal"
             >連結</a>
           </td>
         </tr>
@@ -120,7 +119,7 @@
           <td>鋼琴、作曲、二胡、打擊、電貝斯、柳琴、中阮、竹笛、洞簫、爵士鼓</td>
           <td>絲竹空爵士樂團是一個發芽於爵士土壤而開始音樂尋根之旅的樂團，她結合了一群富有想像力、勇於嘗試的爵士樂和國樂好手，讓古典的韻味與爵士的即興激盪出超乎想像的獨特聲響。</td>
           <td>
-            <a href="http://www.sizhukong.com/">連結</a>
+            <a target="_" href="http://www.sizhukong.com/">連結</a>
           </td>
         </tr>
         <tr>
@@ -129,8 +128,7 @@
           <td>二胡、鍵盤、琵琶、打擊、吉他</td>
           <td>一群熱愛音樂，各自在專業領域發光發熱的青年演奏家們，試圖解構樂器舊有的音響概念，藉著彼此間的融合與碰撞，拋開所謂的古典與流行，重新回到音樂的根本－情感畫面。</td>
           <td>
-            <a
-              href="https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/"
+            <a target="_" href="https://www.facebook.com/SuiXingSuoYuJiXingLeTuan/"
             >連結</a>
           </td>
         </tr>
@@ -140,8 +138,7 @@
           <td>鋼琴、古箏、笙、薩克斯風</td>
           <td>該團呈現前衛的聲響實驗、民族樂風的自然純樸、古典的嚴謹思考、爵士搖滾的律動，企圖發展出一種難以定義，具多重性且融合的新式音樂風格。</td>
           <td>
-            <a
-              href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/"
+            <a target="_" href="https://www.facebook.com/卡到音即興樂團-Ka-Dao-Yin-aka-Caught-Up-In-144189072312074/"
             >連結</a>
           </td>
         </tr>
@@ -151,8 +148,7 @@
           <td>竹笛、簫、鍵盤、笙、二胡、琵琶、中阮、大阮</td>
           <td>創立於2015年春天，團員來自國立臺灣藝術大學國樂系碩士班，為一群手足般地同窗好友所組成的國樂絲竹室內樂。演奏自然真摯、溫婉醇厚、風格多元、兼容並蓄，讓人耳目一新。</td>
           <td>
-            <a
-              href="https://www.facebook.com/thechimemusic/"
+            <a target="_" href="https://www.facebook.com/thechimemusic/"
             >連結</a>
           </td>
         </tr>
@@ -162,7 +158,7 @@
           <td>箏、笛、中阮</td>
           <td>三個人是一支同時具備古典底蘊與當代思維的創作型室內樂團，作品類型橫跨多種樂風，並掌握多元演出型態，展現出傳統樂器跨越文化世代的絕妙新樣。</td>
           <td>
-            <a href="https://www.facebook.com/3peoplemusic/">連結</a>
+            <a target="_" href="https://www.facebook.com/3peoplemusic/">連結</a>
           </td>
         </tr>
         <tr>
@@ -171,8 +167,7 @@
           <td>古箏、鍵盤、Bass 擊樂、電子合成</td>
           <td>來自各專業音樂學院，5人各自遠走芬蘭、德國、北京，不棄古典和傳統音樂之美，致力創作出屬於我們的音樂，用最擅長的方式，來為世界上很多事物發聲。</td>
           <td>
-            <a
-              href="https://www.facebook.com/bluetearsbandofficial/"
+            <a target="_" href="https://www.facebook.com/bluetearsbandofficial/"
             >連結</a>
           </td>
         </tr>
@@ -182,8 +177,7 @@
           <td>琵琶、笛、二胡、吉他、擊樂、電子合成</td>
           <td>「留聲姬樂團」是以竹笛、二胡與琵琶這三個最具傳統代表性的樂器為主，並結合吉他、Bass與爵士鼓的跨界演奏樂團。音樂核心是將東方傳統樂器融入西方流行元素，不管搖滾、爵士、藍調、R&amp;B、Funky、電子音樂、Disco......等，藉由東西方文化差異的激盪，創作出屬於當代的臺灣音樂。</td>
           <td>
-            <a
-              href="https://www.facebook.com/LiushengjiMusic/"
+            <a target="_" href="https://www.facebook.com/LiushengjiMusic/"
             >連結</a>
           </td>
         </tr>
@@ -196,7 +190,7 @@
           <td>二胡、大提琴、西塔琴</td>
           <td>連結傳統與現代、東方與西方，突破曲式框架，Wooonta 問他跨界樂團式的豐富音響層次，結合深入淺出的音樂導聆，帶領你進入超越時空的美麗心境界，一起透過音樂與世界對話。</td>
           <td>
-            <a href="https://www.facebook.com/wooonta/">連結</a>
+            <a target="_" href="https://www.facebook.com/wooonta/">連結</a>
           </td>
         </tr>
         <tr>
@@ -205,7 +199,7 @@
           <td>蒙古族樂器、打擊、琵琶等國樂器</td>
           <td>我們熱愛傳承先祖智慧的傳統樂器－「胡琴、琵琶、嗩吶、傳統打擊樂」，卻也同時渴望大漠草原的自由、神祕、與冒險精神－「馬頭琴、呼麥」，更難得的是，我們並不滿足於演繹他人的曲子，於是我們鼓起勇氣，誠意十足的拿出了我們生命裏的每一份最真摯的感動，用「音樂創作」，跟您分享，我們的故事。</td>
           <td>
-            <a href="https://www.facebook.com/tw.seahorse/">連結</a>
+            <a target="_" href="https://www.facebook.com/tw.seahorse/">連結</a>
           </td>
         </tr>
         <tr>
@@ -217,7 +211,7 @@
             作品富涵大自然與詩意的靈性、活潑的節慶氛圍，巧妙融合豐富多元的民族器樂－二胡、中阮、柳琴、中東手鼓、臺灣鑼鼓、貝斯的樂聲，加上Mia充滿戲劇張力的歌唱。聆賞聲動，就像翱翔無垠曠野、體驗一場撼動人心的美麗旅程。
           </td>
           <td>
-            <a href="http://www.amovingsound.com/zh/">連結</a>
+            <a target="_" href="http://www.amovingsound.com/zh/">連結</a>
           </td>
         </tr>
         <tr>
@@ -226,7 +220,7 @@
           <td>鋼琴、琵琶、小提琴、大提琴、竹笛、笙、古箏、打擊等</td>
           <td>台北中央C室內樂團 (C-Camerata)，是由作曲家董昭民、鋼琴家江瀅，以及琵琶演奏家林慧寬於2014共同發起成立， 致力推廣東方傳統樂器與西方樂器的合奏曲目與提升東方傳統樂器詮釋現代音樂的水準為主要目標。團員皆為目前國內演奏者一時之選，熟諱傳統與現代語彙， 詮釋面相豐富而多元。</td>
           <td>
-            <a href="https://www.facebook.com/CCamerata/">連結</a>
+            <a target="_" href="https://www.facebook.com/CCamerata/">連結</a>
           </td>
         </tr>
         <tr>
@@ -235,8 +229,7 @@
           <td>琵琶與流行樂隊</td>
           <td>Sweep漩指跨界樂團，以琵琶為主，其成立宗旨為拓廣傳統音樂的國際能見度。以跨界與跨國的製作為主，將世界傳統音樂、當代音樂、視覺、影像、表演藝術、舞蹈 等等藝術元素融合並再度創作。目的在於探索傳統藝術的當代意涵與美學著原點，將臺灣藝術文化推向國際，同時也在跨界的融合作品中，將世界音樂、藝術作為媒介介紹給臺灣觀眾。</td>
           <td>
-            <a
-              href="https://www.facebook.com/sweepingmusic/"
+            <a target="_" href="https://www.facebook.com/sweepingmusic/"
             >連結</a>
           </td>
         </tr>
@@ -246,7 +239,7 @@
           <td>人聲、鍵盤、二胡、弦樂等</td>
           <td>CMO，一個充滿人聲、弦樂與擊樂的自由團隊，由三位熱愛原住民音樂與室內樂的阿美族青年組成，矢志將祖先的聲音留下，以弦樂的細膩刻畫縱谷的秀麗婉約，用打擊樂器堆疊出東海岸的壯闊，而先人傳下的美麗聲音，則娓娓道來部落裡的生活。除原住民古調外，我們創作許多屬於這個城市的角落音樂，以音樂寫下對於土地的感懷以及城市的詩篇。</td>
           <td>
-            <a href="https://www.facebook.com/CMOFB/">連結</a>
+            <a target="_" href="https://www.facebook.com/CMOFB/">連結</a>
           </td>
         </tr>
         <tr>
@@ -255,7 +248,7 @@
           <td>笛子、二胡、柳琴、揚琴、三弦、中阮、古箏、打擊樂器、舞者、及歌手</td>
           <td>無双樂團(Musou Band)是臺灣有史以來第一個女子跨界國樂樂團，成員主要來自臺灣各大學國樂系校花。樂團由笛子、二胡、柳琴、揚琴、三弦、中阮、古箏、打擊樂器、舞者、及歌手等組成，成員多達40餘人並持續招募中。</td>
           <td>
-            <a href="http://www.musouband.com.tw/">連結</a>
+            <a target="_" href="http://www.musouband.com.tw/">連結</a>
           </td>
         </tr>
       </tbody>
