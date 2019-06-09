@@ -1,9 +1,12 @@
 <template>
   <div class="breadCrumb">
     <div>
-      <span>首頁&nbsp;&nbsp; / &nbsp;&nbsp;</span>
+      <span>
+        <router-link :to="'/home'">首頁&nbsp;&nbsp; <span v-if="$route.path!== '/home'">/ </span>&nbsp;&nbsp;</router-link>
+      </span>
       <span v-for="(item,index) in bread" :key="item.path">
-        <router-link :to="item.path">{{item.name}}</router-link>
+        <router-link v-if="item.path!== '/home'" :to="item.path">{{item.name}}</router-link>
+        <!-- <router-link :to="item.path">/ 傳統音樂 </router-link> -->
         <!-- {{item.name}} -->
         <span v-if="item.name && index !== bread.length - 1">&nbsp;&nbsp; / &nbsp;&nbsp;</span>
       </span>

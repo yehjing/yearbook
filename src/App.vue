@@ -3,9 +3,10 @@
     <div class="wrap">
       <SearchBar></SearchBar>
       <BreadCrumb></BreadCrumb>
-      <div class="headerContent">
+      <div v-show="isOther" class="headerContent">
         <!-- <img src="./assets/header2.jpg" alt=""> -->
       </div>
+      <Home v-show="isHome"></Home>
       <nav>
         <ul>
           <li><router-link :to="'/introduction'">序</router-link></li>
@@ -17,7 +18,7 @@
           <li><router-link :to="'/download'">2018臺灣音樂年鑑<br>全文下載</router-link></li>
         </ul>
       </nav>
-      <section class="mainArea">
+      <section v-show="isOther" class="mainArea">
         <div class="insideArea">
           <router-view></router-view>
         </div>
@@ -30,6 +31,7 @@
 
 <script>
 import SearchBar from './components/searchBar'
+import Home from './components/home'
 import BreadCrumb from './components/breadCrumb'
 import Footer from './components/footer'
 export default {
@@ -37,7 +39,41 @@ export default {
   components:{
     SearchBar,
     BreadCrumb,
-    Footer
+    Footer,
+    Home
+  },
+  data(){
+    return {
+      // isHome:true,
+      // isOther:false
+    }
+  },
+  watch:{
+    // '$route'(){
+    //   if(this.$route.path === '/home'){
+    //     this.isHome = true
+    //     this.isOther - false
+    //   }else {
+    //     this.isHome = false
+    //     this.isOther = true
+    //   }
+    // }
+  },
+  computed:{
+    isHome(){
+      if(this.$route.path === '/home'){
+        return true
+      }else {
+        return false
+      }
+    },
+    isOther(){
+      if(this.$route.path !== '/home'){
+        return true
+      }else {
+        return false
+      }
+    }
   },
   mounted() {
     /**

@@ -3,6 +3,7 @@
 /* eslint-disable import/extensions */
 import Vue from 'vue';
 import VueRouter from 'vue-router';
+import Home from './components/home';
 // intro
 import Introduction from './components/introduction';
 import Introduction_1 from './components/introduction/intro/intro_1';
@@ -83,8 +84,13 @@ export default new VueRouter({
   routes: [
     {
       path: '*',
-      redirect: '/introduction',
+      redirect: '/home',
       hidden: true,
+    },
+    {
+      name: '首頁',
+      path: '/home',
+      component: Home,
     },
     {
       name: '序',
