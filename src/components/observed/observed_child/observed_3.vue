@@ -2862,7 +2862,7 @@
       <tr>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image1.jpg" alt>
-          <p style="text-align:center">臺中市中和國小(01/29)(黃玲玉提供)</p>
+          <p style="text-align:center;font-size:12px;">臺中市中和國小(01/29)(黃玲玉提供)</p>
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob3/image2.jpg" alt>

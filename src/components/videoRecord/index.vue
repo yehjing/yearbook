@@ -69,7 +69,7 @@ export default {
               path: "videoRecord_4"
             },
             {
-              name: "泰雅族、賽夏族、阿美族、卑南族音樂",
+              name: "原住民音樂－泰雅族、賽夏族、阿美族、卑南族",
               path: "videoRecord_5"
             },
             {
@@ -77,19 +77,19 @@ export default {
               path: "videoRecord_6"
             },
             {
-              name: "排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂",
+              name: "原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族",
               path: "videoRecord_7"
             },
             {
-              name: "賽德克族、太魯閣族、太魯閣族、布農族、噶瑪蘭族音樂",
+              name: "原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族",
               path: "videoRecord_8"
             },
             {
-              name: "佛釋教音樂",
+              name: "佛、釋教音樂",
               path: "videoRecord_9"
             },
             {
-              name: "道法教音樂",
+              name: "道、法教音樂",
               path: "videoRecord_10"
             }
           ],

@@ -132,72 +132,72 @@ export default new VueRouter({
       component: Observed,
       children: [
         {
-          name: '南管音樂活動觀察與評介',
+          name: '南管音樂',
           path: '/',
           component: Observed_1,
         },
         {
-          name: '北管音樂活動觀察與評介',
+          name: '北管音樂',
           path: 'Observed_2',
           component: Observed_2,
         },
         {
-          name: '福佬歌謠活動觀察與評介',
+          name: '福佬歌謠',
           path: 'Observed_3',
           component: Observed_3,
         },
         {
-          name: '客家音樂活動觀察與評介',
+          name: '客家音樂',
           path: 'Observed_4',
           component: Observed_4,
         },
         {
-          name: '泰雅族、賽夏族、阿美族、卑南族音樂活動觀察與評介',
+          name: '原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
           path: 'Observed_5',
           component: Observed_5,
         },
         {
-          name: '太魯閣族、鄒族、撒奇萊雅族、雅美(達悟)族音樂活動觀察與評介',
+          name: '原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
           path: 'Observed_6',
           component: Observed_6,
         },
         {
-          name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂活動觀察與評介',
+          name: '原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
           path: 'Observed_7',
           component: Observed_7,
         },
         {
-          name: '邵族、布農族、噶瑪蘭、賽德克族音樂活動觀察與評介',
+          name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
           path: 'Observed_8',
           component: Observed_8,
         },
         {
-          name: '佛釋教音樂活動觀察與評介',
+          name: '佛、釋教音樂',
           path: 'Observed_9',
           component: Observed_9,
         },
         {
-          name: '道法教音樂活動觀察與評介',
+          name: '道、法教音樂',
           path: 'Observed_10',
           component: Observed_10,
         },
         {
-          name: '國樂活動觀察與評介',
+          name: '國樂',
           path: 'Observed_11',
           component: Observed_11,
         },
         {
-          name: '西樂及混合編制活動觀察與評介',
+          name: '西樂及混合編制',
           path: 'Observed_12',
           component: Observed_12,
         },
         {
-          name: '流行音樂活動觀察與評介',
+          name: '流行音樂',
           path: 'Observed_13',
           component: Observed_13,
         },
         {
-          name: '跨界音樂活動觀察與評介',
+          name: '跨界音樂',
           path: 'Observed_14',
           component: Observed_14,
         },
@@ -209,17 +209,17 @@ export default new VueRouter({
       component: Comment,
       children: [
         {
-          name: '2018年臺灣傳統音樂文化與生態論述',
+          name: '2018年度臺灣傳統音樂文化與生態論述',
           path: '/',
           component: Comment_1,
         },
         {
-          name: '2018年臺灣藝術(當代創作)音樂文化與生態論述',
+          name: '2018年度臺灣藝術(當代創作)音樂文化與生態論述',
           path: 'comment_2',
           component: Comment_2,
         },
         {
-          name: '2018年臺灣流行及跨界音樂文化與生態論述',
+          name: '2018年度臺灣流行及跨界音樂文化與生態論述',
           path: 'comment_3',
           component: Comment_3,
         },
@@ -251,7 +251,7 @@ export default new VueRouter({
           component: VideoRecord_4,
         },
         {
-          name: '泰雅族、賽夏族、阿美族、卑南族音樂',
+          name: '原住民音樂－泰雅族、賽夏族、阿美族、卑南族',
           path: 'videoRecord_5',
           component: VideoRecord_5,
         },
@@ -261,7 +261,7 @@ export default new VueRouter({
           component: VideoRecord_6,
         },
         {
-          name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂',
+          name: '原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
           path: 'videoRecord_7',
           component: VideoRecord_7,
         },
@@ -271,12 +271,12 @@ export default new VueRouter({
           component: VideoRecord_8,
         },
         {
-          name: '佛釋教音樂',
+          name: '佛、釋教音樂',
           path: 'videoRecord_9',
           component: VideoRecord_9,
         },
         {
-          name: '道法教音樂',
+          name: '道、法教音樂',
           path: 'videoRecord_10',
           component: VideoRecord_10,
         },

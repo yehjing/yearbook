@@ -28,14 +28,14 @@
           <span>流行音樂</span>
           <img src="./../../assets/arrowDown.png" alt="">          
         </div>
-        <div class="leafItem" @click="clickLink('observed_13')">流行音樂活動觀察與評介</div>
+        <div class="leafItem" @click="clickLink('observed_13')">流行音樂</div>
       </div>
       <div class="linkGroup">
         <div @click="openMenu" class="middleItem">
           <span>跨界音樂</span>
           <img src="./../../assets/arrowDown.png" alt="">          
         </div>
-        <div class="leafItem" @click="clickLink('observed_14')">跨界音樂活動觀察與評介</div>
+        <div class="leafItem" @click="clickLink('observed_14')">跨界音樂</div>
       </div> -->
     </aside>
     <div class="viewRight">
@@ -60,43 +60,43 @@ export default {
           path: 'observed',
           arr_1:[
             {
-              name: '南管音樂活動觀察與評介',
+              name: '南管音樂',
               path: '',
             },
             {
-              name: '北管音樂活動觀察與評介',
+              name: '北管音樂',
               path: 'observed_2',
             },
             {
-              name: '福佬歌謠活動觀察與評介',
+              name: '福佬歌謠',
               path: 'observed_3',
             },
             {
-              name: '客家音樂活動觀察與評介',
+              name: '客家音樂',
               path: 'observed_4',
             },
             {
-              name: '泰雅族、賽夏族、阿美族、卑南族音樂活動觀察與評介',
+              name: '原住民音樂－泰雅族、賽夏族、阿美族、卑南族',
               path: 'observed_5',
             },
             {
-              name: '太魯閣族、鄒族、撒奇萊雅族、雅美(達悟)族音樂活動觀察與評介',
+              name: '原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
               path: 'observed_6',
             },
             {
-              name: '排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族音樂活動觀察與評介',
+              name: '原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
               path: 'observed_7',
             },
             {
-              name: '邵族、布農族、噶瑪蘭、賽德克族音樂活動觀察與評介',
+              name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族邵族、布農族、噶瑪蘭、賽德克族音樂',
               path: 'observed_8',
             },
             {
-              name: '佛釋教音樂活動觀察與評介',
+              name: '佛、釋教音樂',
               path: 'observed_9',
             },
             {
-              name: '道法教音樂活動觀察與評介',
+              name: '道、法教音樂',
               path: 'observed_10',
             }
           ],
@@ -107,11 +107,11 @@ export default {
           path: 'observed',
           arr_1:[
             {
-              name: '國樂活動觀察與評介',
+              name: '國樂',
               path: 'observed_11',
             },
             {
-              name: '西樂及混合編制活動觀察與評介',
+              name: '西樂及混合編制',
               path: 'observed_12',
             }
           ],
@@ -122,7 +122,7 @@ export default {
           path: 'observed',
           arr_1:[
             {
-              name: '流行音樂活動觀察與評介',
+              name: '流行音樂',
               path: 'observed_13',
             },
           ],
@@ -133,7 +133,7 @@ export default {
           path: 'observed',
           arr_1:[
             {
-              name: '跨界音樂活動觀察與評介',
+              name: '跨界音樂',
               path: 'observed_14',
             }
           ],
