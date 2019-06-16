@@ -49,6 +49,7 @@ import VideoRecord_10 from '@/components/videoRecord/video_child/video_10';
 import VideoRecord_11 from '@/components/videoRecord/video_child/video_11';
 import VideoRecord_12 from '@/components/videoRecord/video_child/video_12';
 import VideoRecord_13 from '@/components/videoRecord/video_child/video_13';
+import VideoRecord_14 from '@/components/videoRecord/video_child/video_14';
 // indexDir
 import IndexDir from '@/components/indexDir';
 import IndexDir_1 from '@/components/indexDir/indexDir_child/indexDir_1';
@@ -294,6 +295,11 @@ export default new VueRouter({
           name: '流行音樂 / 流行音樂',
           path: 'videoRecord_13',
           component: VideoRecord_13,
+        },
+        {
+          name: '流行音樂 / 流行音樂',
+          path: 'videoRecord_14',
+          component: VideoRecord_14,
         },
       ],
     },

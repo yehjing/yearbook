@@ -2,13 +2,15 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div v-for="(link,index) in arr" :key="index" class="linkGroup">
-        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link),clickLink('xx')" class="middleItem">
+        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link,index)" class="middleItem">
           <span>{{link.name}}</span>
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">
         </div>
-        <div v-if="link.isOpen" v-for="item in link.arr_1" :key="item.path" class="leafItem" @click="clickLink(item.path)">
-          {{item.name}}
+        <div :class="'customMenu'+index">
+          <div v-for="item in link.arr_1" :key="item.path"  class="leafItem" @click="clickLink(item.path)">
+            {{item.name}}
+          </div>
         </div>
       </div>
       <!-- <div class="linkGroup">
@@ -24,12 +26,16 @@
         >{{item.name}}</div>
       </div> -->
 
-      <div class="linkGroup">
+      <!-- <div class="linkGroup">
         <div :class="activeName === 'videoRecord_13' ? 'active' :''" class="middleItem" @click="clickLink('videoRecord_13')">
           <span>流行音樂</span>
-          <!-- <img src="./../../assets/arrowDown.png" alt="">           -->
         </div>
       </div>
+      <div class="linkGroup">
+        <div :class="activeName === 'videoRecord_14' ? 'active' :''" class="middleItem" @click="clickLink('videoRecord_14')">
+          <span>跨界音樂</span>
+        </div>
+      </div> -->
     </aside>
     <div class="viewRight">
       <router-view></router-view>
@@ -109,7 +115,29 @@ export default {
             }
           ],
           isOpen:false
-        }
+        },
+        {
+          name:'流行音樂',
+          path: 'videoRecord',
+          arr_1:[
+            {
+              name: '流行音樂',
+              path: 'videoRecord_13',
+            },
+          ],
+          isOpen:false
+        },
+        {
+          name:'跨界音樂',
+          path: 'videoRecord',
+          arr_1:[
+            {
+              name: '跨界音樂',
+              path: 'videoRecord_14',
+            }
+          ],
+          isOpen:false
+        },
       ],
 
       
@@ -122,8 +150,64 @@ export default {
         this.$router.push(`/videoRecord/${data}`);
       }
     },
-    openMenu(link){
-      link.isOpen = !link.isOpen
+    openMenu(link,index){
+        let dom0 = document.querySelector('.customMenu0')
+        let dom1 = document.querySelector('.customMenu1')
+        let dom2 = document.querySelector('.customMenu2')
+        let dom3 = document.querySelector('.customMenu3')
+        // if(link.isOpen){
+        //   link.isOpen = false
+        // }
+      if(index === 0){
+        if(this.arr[0]['isOpen']){
+          this.arr[0]['isOpen'] = false
+          dom0.classList.add('ex')
+        }else{
+          this.arr[0]['isOpen'] = !this.arr[0]['isOpen']
+          this.arr[1]['isOpen'] = false
+          this.arr[2]['isOpen'] = false
+          this.arr[3]['isOpen'] = false
+          dom0.classList.remove('ex')
+          dom0.classList.toggle('show0')
+          dom1.classList.remove('show1')
+          dom2.classList.remove('show2')
+          dom3.classList.remove('show3')
+        }
+      }else if(index ===1){
+        // dom1.previousSibling.classList.toggle('active')
+        this.arr[1]['isOpen'] = !this.arr[1]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[2]['isOpen'] = false
+        this.arr[3]['isOpen'] = false
+        dom1.classList.toggle('show1')
+        dom0.classList.remove('show0')
+        dom2.classList.remove('show2')
+        dom3.classList.remove('show3')
+        dom0.classList.add('ex')
+      }else if(index ===2){
+        this.arr[2]['isOpen'] = !this.arr[2]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[1]['isOpen'] = false
+        this.arr[3]['isOpen'] = false
+        // dom2.previousSibling.classList.toggle('active')
+        dom2.classList.toggle('show2')
+        dom0.classList.remove('show0')
+        dom1.classList.remove('show1')
+        dom3.classList.remove('show3')
+        dom0.classList.add('ex')
+      }else if(index ===3){
+        this.arr[3]['isOpen'] = !this.arr[3]['isOpen']
+        this.arr[0]['isOpen'] = false
+        this.arr[2]['isOpen'] = false
+        this.arr[1]['isOpen'] = false
+        // dom3.previousSibling.classList.toggle('active')
+        dom3.classList.toggle('show3')
+        dom0.classList.remove('show0')
+        dom2.classList.remove('show2')
+        dom1.classList.remove('show1')
+        dom0.classList.add('ex')
+      }
+      // link.isOpen = !link.isOpen
     }
   }
 };
@@ -131,8 +215,32 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-// .wrap{
-
-// @import "./../../assets/styles/app.scss";
+// .wrapContain{
+  
+//   transition:all 10s;
 // }
+.customMenu0,.customMenu1,.customMenu2,.customMenu3{
+  height: 0;
+  overflow: hidden;
+  transition:height .5s;
+  &.show0{
+    height: 800px;
+  }
+  &.show1{
+    height: 160px;
+  }
+  &.show2{
+    height: 80px;
+  }
+  &.show3{
+    height: 80px;
+  }
+}
+.customMenu0{
+  height: 800px;
+  &.ex{
+    height: 0;
+  }
+}
 </style>
+
