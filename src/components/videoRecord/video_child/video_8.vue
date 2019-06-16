@@ -4,7 +4,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/LiEllbZ72WM"
+      src="https://www.youtube.com/embed/LiEllbZ72WM?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
@@ -13,7 +13,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/i5ZjGWui2bA"
+      src="https://www.youtube.com/embed/i5ZjGWui2bA?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
@@ -22,7 +22,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/a2LNXJChLgM"
+      src="https://www.youtube.com/embed/a2LNXJChLgM?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
@@ -31,7 +31,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/KxF61V5Qx1M"
+      src="https://www.youtube.com/embed/KxF61V5Qx1M?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen

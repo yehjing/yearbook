@@ -4,7 +4,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/de0TNMIa80w"
+      src="https://www.youtube.com/embed/de0TNMIa80w?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
@@ -13,7 +13,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/zIQyd7vbDgU"
+      src="https://www.youtube.com/embed/zIQyd7vbDgU?rel=0"
       frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
