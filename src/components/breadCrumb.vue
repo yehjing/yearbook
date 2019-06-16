@@ -5,7 +5,7 @@
         <router-link :to="'/home'">首頁&nbsp;&nbsp; <span v-if="$route.path!== '/home'">/ </span>&nbsp;&nbsp;</router-link>
       </span>
       <span v-for="(item,index) in bread" :key="item.path">
-        <router-link v-if="item.path!== '/home'" :to="item.path">{{item.name}}</router-link>
+        <router-link v-if="item.path!== '/home'" :to="item.path">{{name(item.name)}}</router-link>
         <!-- <router-link :to="item.path">/ 傳統音樂 </router-link> -->
         <!-- {{item.name}} -->
         <span v-if="item.name && index !== bread.length - 1">&nbsp;&nbsp; / &nbsp;&nbsp;</span>
@@ -30,6 +30,15 @@ export default {
     }
   },
   methods: {
+    name(itemName) {
+      console.log('ccc',itemName.indexOf('/'))
+      if(itemName && itemName.indexOf('/') !== -1){
+        let nameList = itemName.split('/')
+        return `${nameList[0]}\xa0\ / \xa0\ ${nameList[1]}`
+      }else {
+        return itemName
+      }
+    }
   }
 };
 </script>

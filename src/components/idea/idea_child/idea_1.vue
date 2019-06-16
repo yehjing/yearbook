@@ -123,20 +123,20 @@
     <h3>參、《2018臺灣音樂年鑑》編輯凡例</h3>
     <p>一、本文鑑的文獻引用方式，參考美國心理協會 (American PsychologicalAssociation) 所發行的APA格式(APA style)。</p>
     <p>二、若於論述中需引用音樂的採譜紀錄，基本上，皆統一採用首調記譜法，在文字敘述中，一律以唱名來表示相對的音程關係，而不強調固定音高，比如以「la-mi-sol-mi」代表「完全四度下行－小三度上行－小三度下行」的音程關係，如有必要則以絕對音名補述。如：「CC&ndash; C &ndash; c &ndash; c' &ndash; c'' &ndash; c'''」(great/smallmethod)，其相應的音域如下列說明：</p>
-    <span>c' = 中央C</span><br>
-    <span>a' = 在中央C 之上的A</span><br>
-    <span>c'' = 較中央C 高一個八度的 C</span><br>
-    <span>c = 較中央C 低一個八度的 C</span><br>
-    <span>C = 較中央C 低兩個八度的C</span><br><br>
-    <p>三、符號之指定用法：</p>
-    <p>(一)文字部分</p>
-    <p>書籍、期刊、學位論文名稱、影片、唱片專輯，以《》標示。</p>
-    <p>單篇文章、期刊論文、研討會論文以〈〉標示。英文書寫方式則依據APA格式。</p>
-    <p>短引文、計畫案名稱、團體、活動、主題等，以「」表示，然年鑑的書寫會頻繁提到團體名稱，因此除行文上需強調團體名稱外，一律不加「」。</p>
-    <p>(二)音樂部分</p>
-    <p>專輯、劇目、套曲、藝術(當代創作)音樂作品名稱，以《》標記。</p>
-    <p>單曲、樂章以〈〉標記。</p>
-    <p>曲牌、唱腔、門頭、素材以【】表示。</p>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c' = 中央C</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a' = 在中央C 之上的A</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c'' = 較中央C 高一個八度的 C</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c = 較中央C 低一個八度的 C</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C = 較中央C 低兩個八度的C</span><br><br>
+    <span>三、符號之指定用法：</span><br>
+    <span>(一)文字部分</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;書籍、期刊、學位論文名稱、影片、唱片專輯，以《》標示。</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;單篇文章、期刊論文、研討會論文以〈〉標示。英文書寫方式則依據AspanA格式。</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短引文、計畫案名稱、團體、活動、主題等，以「」表示，然年鑑的書寫會頻繁提到團體名稱，因此除行文上需強調團體名稱外，一律不加「」。</span><br>
+    <span>(二)音樂部分</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;專輯、劇目、套曲、藝術(當代創作)音樂作品名稱，以《》標記。</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;單曲、樂章以〈〉標記。</span><br>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曲牌、唱腔、門頭、素材以【】表示。</span><br>
     <span>四、時間相關格式</span><br>
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在文章中提及世紀、年代、年月日採用西元紀年，以阿拉伯數字表示。然需標示出年號者，以西元後方的括號補充說明並以國字表示，如西元1811年(嘉慶十六年)。若必須表示民國時，以西元後方的括號補充說明，如1982年(民71)。在表格中的活動日期表示格式為2011/01/01(/

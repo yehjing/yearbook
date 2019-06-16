@@ -170,10 +170,16 @@ $image-path: 'assets';
         text-align: left;
         word-break:break-all; 
         word-wrap:break-all;
+        tr{
+          vertical-align: unset;
+        }
         td,th{
           // transform: scale(.8);
           font-size: 10px;
           padding: 2px 6px;
+        }
+        p{
+          font-size: initial;
         }
         .tableCenter{
           text-align: center;
@@ -185,8 +191,14 @@ $image-path: 'assets';
     }
   }
 }
+.customFz{
+  font-size: 10px;
+}
 h3{
   margin-bottom:10px ;
+}
+.bkt{
+  font-family: '標楷體' !important;
 }
 .bui{
   padding: 0 4%;

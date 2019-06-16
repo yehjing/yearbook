@@ -332,7 +332,8 @@
       <p>朱宗慶打擊樂團(2019/2/13)。2018第二屆JPG擊樂實驗室成果發表場次表。<b>JPG擊樂實驗室官方網站</b>。取自http://jpglab.jpg.org.tw/</p>
       <p>楊其文(2018/12/17)。楊其文觀點：廉價的表演藝術環境，如履薄冰的行業。<b>風傳媒</b>。取自http://www.storm.mg/article/83206</p>
     </div>
-    <br>
+    <hr>
+    <p></p>
     <div style="text-align:left;">
       <small>1.陳郁秀(1997)。臺灣音樂閱覽。臺北市：玉山社。頁166。</small>
       <br>
