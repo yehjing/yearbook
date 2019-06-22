@@ -190,7 +190,7 @@
             <br>049-279-2800
           </td>
           <td>
-            <a target="_" href="http://sixstar.moc.gov">連結</a>
+            <a target="_" href="http://sixstar.moc.gov.tw/blog/shinibunun">連結</a>
           </td>
           <td>Lileh之聲合唱團</td>
         </tr>
@@ -243,7 +243,7 @@
           <td>洪春滿</td>
           <td></td>
           <td>
-            <a target="_" href="https://voxnativausa.org">連結</a>
+            <a target="_" href="http://voxnativa.org/">連結</a>
           </td>
           <td>成立於2008年，布農族演出團體。</td>
         </tr>

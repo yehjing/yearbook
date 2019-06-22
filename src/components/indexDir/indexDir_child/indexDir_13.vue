@@ -152,7 +152,7 @@
             <br>02-2896-7294
           </td>
           <td>
-            <a target="_" href="http://trd-music.tnua.edu.tw/ch/news/a.html"
+            <a target="_" href="https://trd-music.tnua.edu.tw/"
             >連結</a>
           </td>
           <td>1995年成立，設有北管樂主修。</td>

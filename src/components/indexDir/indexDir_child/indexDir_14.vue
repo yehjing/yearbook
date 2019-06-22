@@ -49,7 +49,7 @@
             <br>02-2423-4884
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/啄木鳥合唱團98-516315805193598/about/m.me/5163-15805-193598"
+            <a target="_" href="https://www.facebook.com/pages/category/Performing-Arts/基隆市啄木鳥合唱團粉絲團-516315805193598/"
             >連結</a>
           </td>
           <td>1985年成立於基隆，是由一群熱愛合唱的男士所組成。成立宗旨為「以雄壯渾厚、優美溫醇之男聲合唱，來洗滌人心，並形塑社會之善良風氣」。</td>
@@ -122,7 +122,7 @@
             <br>02-2893-3088
           </td>
           <td>
-            <a target="_" href="http://https/www.facebook.com/Taiwan.yueqin/"
+            <a target="_" href="https://www.facebook.com/Taiwan.yueqin/"
             >連結</a>
           </td>
           <td>成立於2009年，發起人為陳明章，他集合熱衷致力推廣月琴之會員，讓臺灣的國民樂器「月琴」能繼續被傳承與演奏。</td>
@@ -149,7 +149,7 @@
             <br>02-3758-0272
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/田園樂府團/222806804410296/"
+            <a target="_" href="https://www.facebook.com/TWS999/"
             >連結</a>
           </td>
           <td>1983年簡上仁創立</td>
@@ -162,7 +162,7 @@
             <br>02-2646-3947
           </td>
           <td>
-            <a target="_" href="https://mobile.facebook.com/showking317/%A1%48%5Ftn%5F%A1%D7%2AsH-R"
+            <a target="_" href="https://www.facebook.com/showking317/"
             >連結</a>
           </td>
           <td>2010年成立，楊秀卿為國家指定登錄重要傳統藝術說唱保存者。</td>

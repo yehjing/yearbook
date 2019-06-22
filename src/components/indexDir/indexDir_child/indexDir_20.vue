@@ -391,7 +391,7 @@
             <br>02-2321-9035
           </td>
           <td>
-            <a target="_" href="http://www.geocities.com/jdfe1998">連結</a>
+            <a target="_" href="https://www.facebook.com/pages/category/Musician-Band/吹笛人室內樂團-Joueur-de-Flute-Ensemble-189584289385/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -545,7 +545,7 @@
             <br>02-2505-0859
           </td>
           <td>
-            <a target="_" href="http://www.momentmusical.com.tw">連結</a>
+            <a target="_" href="https://www.facebook.com/momentmusical/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -1953,7 +1953,7 @@
             <br>0910-229-300
           </td>
           <td>
-            <a target="_" href="http://tccc.main.nu">連結</a>
+            <a target="_" href="https://www.facebook.com/tccchoir/">連結</a>
           </td>
           <td></td>
         </tr>
@@ -2092,7 +2092,7 @@
             <br>0929-356-282
           </td>
           <td>
-            <a target="_" href="http://www.sirensv/">連結</a>
+            <a target="_" href="https://www.facebook.com/acasirens/">連結</a>
           </td>
           <td></td>
         </tr>

@@ -100,7 +100,7 @@
             <br>02-2383-2170
           </td>
           <td>
-            <a target="_" href="https://www.facebook.com/台北市立國樂團附設教師國樂團-粉絲專頁-161116563979258//"
+            <a target="_" href="https://www.facebook.com/台北市立國樂團附設教師國樂團- 粉絲專頁-161116563979258/"
             >連結</a>
           </td>
           <td>2001年2月成立，每週一19:00-21:30固定排練。</td>
@@ -218,7 +218,7 @@
             <br>02-2726-1735
           </td>
           <td>
-            <a target="_" href="mailto:mu.nian.mercy@gmail.co">連結</a>
+            <a target="_" href="mu.nian.mercy@gmail.com">連結</a>
           </td>
           <td>1988年成立，每週四19:30-21:30練習。</td>
         </tr>
@@ -849,7 +849,7 @@
             <br>06-330-6505
           </td>
           <td>
-            <a target="_" href="http://www.tmcc.gov.tw臺南市民族管絃樂團">連結</a>
+            <a target="_" href="https://www.facebook.com/臺南市民族管絃樂團-107014649337471/">連結</a>
           </td>
           <td>2000年成立</td>
         </tr>
