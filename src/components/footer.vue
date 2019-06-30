@@ -16,7 +16,7 @@
         <!-- <p style="display:flex;align-items:center;"><span>製作</span></p> -->
         <div style="display:flex;align-items:center;">
           <span style="margin-right:5px">執行</span>
-          <img width="40" src="./../assets/學會會徽AI檔-01.png" alt />
+          <img width="20" src="./../assets/學會會徽AI檔-01.png" alt />
           <span>&nbsp;&nbsp;中華民國國樂學會</span>
         </div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
