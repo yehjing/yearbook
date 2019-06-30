@@ -49,7 +49,7 @@
           <td colspan="2">排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族</td>
         </tr>
         <tr>
-          <td colspan="2">邵族、布農族、噶瑪蘭、賽德克族</td>
+          <td colspan="2">邵族、布農族、噶瑪蘭族、賽德克族</td>
         </tr>
       </tbody>
     </table>

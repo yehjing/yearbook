@@ -131,15 +131,16 @@ $image-path: 'assets';
           -webkit-box-shadow: inset 0 0 6px #fff;
           background-color: #fff;
         }
-
+        
         &::-webkit-scrollbar
         {
           width: 6px;
           background-color: #fff;
         }
-
+        
         &::-webkit-scrollbar-thumb
         {
+          border-radius: 10px;
           background-color: #ccc;
         }
         &:first-child{

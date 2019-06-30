@@ -317,7 +317,7 @@
       <tr>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob10/15.jpg" alt>
-          <p style="text-align:center">臺灣法教會－吳永猛教授與普唵法教【栽花換斗】、【造橋過限】(過平安橋)儀式過程一景(李秀琴攝影)</p>
+          <p style="text-align:center">臺灣法教會－吳永猛教授與普唵法教【栽花換斗】、【造橋過限】<br>(過平安橋)儀式過程一景(李秀琴攝影)</p>
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob10/16.jpg" alt>
@@ -350,8 +350,8 @@
           <img style="max-width:100%" src="./../../../assets/ob10/17.jpg" alt>
           <p style="text-align:center">玄昌壇負責人之一的張鳳麟女士，主持開壇儀式(李秀琴攝影)</p>
         </td>
-        <td>
-          <img style="max-width:100%" src="./../../../assets/ob10/18.jpg" alt>
+        <td style="text-align: center;">
+          <img height="70%" style="max-width:100%" src="./../../../assets/ob10/18.jpg" alt>
           <p style="text-align:center">法會中的七星橋(李秀琴攝影)</p>
         </td>
       </tr>

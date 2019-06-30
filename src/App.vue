@@ -44,18 +44,17 @@ export default {
   },
   data(){
     return {
+      // color:''
       // isHome:true,
       // isOther:false
     }
   },
   watch:{
     // '$route'(){
-    //   if(this.$route.path === '/home'){
-    //     this.isHome = true
-    //     this.isOther - false
+    //   if(this.$route.path.split('/').indexOf(this.now) !== -1){
+    //     this.color = 'color'
     //   }else {
-    //     this.isHome = false
-    //     this.isOther = true
+    //     this.color = ''
     //   }
     // }
   },
@@ -83,6 +82,8 @@ export default {
     document.documentElement.className = NODE_ENV;
 
     document.getElementById('gsc-i-id1').setAttribute('placeholder','搜尋')
+  },
+  methods:{
   }
 };
 </script>
@@ -99,6 +100,10 @@ a{
 }
 body{
   background: linear-gradient(to bottom, #BB6400, #FF9100);
+}
+.router-link-active{
+  transition:.2s;
+  color: #fff !important;
 }
 #___gcse_0 {
   position: relative;
