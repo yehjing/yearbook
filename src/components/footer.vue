@@ -4,21 +4,40 @@
       <!-- <div><img class="img1" src="./../assets/footerIcon.png" alt=""></div> -->
       <div class="text">
         <!-- <p>電話：03-9705815 / 傳真：03-9605237 / 地址：26841宜蘭縣五結鄉季新村五濱路二段201號</p> -->
-        <p style="display:flex;align-items:center;"><span>指導</span><img width="100" src="./../assets/文化部logo標準色-02.png" alt=""></p>
-        <p style="display:flex;align-items:center;"><span>主辦</span><img width="100" src="./../assets/中心logo全拷貝.png" alt=""><img width="100" src="./../assets/logo檔案-橫式彩色.png" alt=""></p>
+        <p style="display:flex;align-items:center;">
+          <span>指導</span>
+          <img width="100" src="./../assets/文化部logo標準色-02.png" alt />
+        </p>
+        <p style="display:flex;align-items:center;">
+          <span>主辦</span>
+          <img width="100" src="./../assets/中心logo全拷貝.png" alt />
+          <img width="100" src="./../assets/logo檔案-橫式彩色.png" alt />
+        </p>
         <!-- <p style="display:flex;align-items:center;"><span>製作</span></p> -->
-        <div style="display:flex;align-items:center;"><span>執行</span><img width="40" src="./../assets/學會會徽AI檔-01.png" alt=""><span>&nbsp;&nbsp;中華民國國樂學會</span></div>
+        <div style="display:flex;align-items:center;">
+          <span>執行</span>
+          <img width="40" src="./../assets/學會會徽AI檔-01.png" alt />
+          <span>&nbsp;&nbsp;中華民國國樂學會</span>
+        </div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
         <p>隱私權及安全政策宣示 ｜ 著作權聲明</p>
       </div>
     </div>
     <div class="footerRight">
       <div class="text">
-        <p><a href="https://www.ncfta.gov.tw/taiwanmusic_74.html">臺灣音樂館</a></p><br>
-        <p>電話　02-88669600</p><br>
-        <p>地址  111臺北市士林區文林路751號</p><br>
-        <p><a href="https://www.ncfta.gov.tw/onlineobject_151_43.html">聯絡我們</a></p><br>
-        <p>瀏覽人次 {{today}} </p>
+        <p>
+          <a href="https://www.ncfta.gov.tw/taiwanmusic_74.html">臺灣音樂館</a>
+        </p>
+        <br />
+        <p>電話 02-88669600</p>
+        <br />
+        <p>地址 111臺北市士林區文林路751號</p>
+        <br />
+        <p>
+          <a href="https://www.ncfta.gov.tw/onlineobject_151_43.html">聯絡我們</a>
+        </p>
+        <br />
+        <p>瀏覽人次 {{today}}</p>
         <!-- <p>今日訪客：{{today}} 人 &nbsp;/&nbsp; 訪客總計：{{total}} 人 &nbsp;/&nbsp; 內容更新：108-05-11</p> -->
       </div>
     </div>
@@ -27,64 +46,67 @@
 
 <script>
 export default {
-  name:'Footer',
+  name: "Footer",
   data() {
     return {
-      total:'',
-      today:''
-    }
+      total: "",
+      today: ""
+    };
   },
   mounted() {
     // 訪客統計
     // https://sitestates.com/admin/get_code/js_text/13a82a5e8979dd19ace7ef8ad1134f24
-    this.total = document.querySelectorAll('.sitestatesJs')[0].textContent.replace('Total:','')
-    this.today = document.querySelectorAll('.sitestatesJs')[1].textContent.replace('Today:','')
-    document.querySelectorAll('.sitestatesJs').forEach(el => {
-      el.style.display = 'none'
+    this.total = document
+      .querySelectorAll(".sitestatesJs")[0]
+      .textContent.replace("Total:", "");
+    this.today = document
+      .querySelectorAll(".sitestatesJs")[1]
+      .textContent.replace("Today:", "");
+    document.querySelectorAll(".sitestatesJs").forEach(el => {
+      el.style.display = "none";
     });
   },
-  methods: {
-  }
+  methods: {}
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style rel="stylesheet/scss" lang="scss" scoped>
-a{
+a {
   color: #fff;
 }
 .sitestatesJs {
- 	display: block;
- 	padding: 3px;
+  display: block;
+  padding: 3px;
 }
-.footer{
+.footer {
   // width: 100%;
   height: 250px;
   display: flex;
   background: #000;
   padding: 30px 10rem;
-  color:#fff;
-  font-size: .8rem;
-  .text{
+  color: #fff;
+  font-size: 0.8rem;
+  .text {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
   }
-  .footerLeft{
+  .footerLeft {
     display: flex;
     justify-content: flex-end;
-    flex:1;
-    padding-right:30px;
+    flex: 1;
+    padding-right: 30px;
     border-right: 1px solid #fff;
-    .img1{
+    .img1 {
       display: block;
       margin-right: 10px;
       margin-top: 12px;
     }
   }
-  .footerRight{
-    flex:1;
-    padding-left:30px;
+  .footerRight {
+    flex: 1;
+    padding-left: 30px;
     padding-top: 10px;
   }
 }
