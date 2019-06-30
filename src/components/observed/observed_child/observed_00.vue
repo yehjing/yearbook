@@ -39,7 +39,7 @@
           <td>道教、法教音樂</td>
         </tr>
         <tr>
-          <td rowspan="4">原住民音樂</td>
+          <td style="vertical-align:middle;" rowspan="4">原住民音樂</td>
           <td colspan="2">泰雅族、賽夏族、阿美族、卑南族</td>
         </tr>
         <tr>
