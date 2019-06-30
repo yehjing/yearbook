@@ -2,7 +2,7 @@
   <section class="wrapContain">
     <aside class="linkLeft">
       <div v-for="(link,index) in arr" :key="index" class="linkGroup">
-        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link,index)" class="middleItem">
+        <div :class="link.isOpen ? 'active' :''" @click="openMenu(link.path,index)" class="middleItem">
           <span >{{link.name}}</span>
           <img v-if="!link.isOpen" src="./../../assets/arrowDown.png" alt="">          
           <img v-if="link.isOpen" src="./../../assets/arrowUp.png" alt="">         
@@ -57,11 +57,11 @@ export default {
       arr:[
         {
           name: '傳統音樂',
-          path: 'observed',
+          path: '',
           arr_1:[
             {
               name: '南管音樂',
-              path: '',
+              path: 'observed_1',
             },
             {
               name: '北管音樂',
@@ -88,7 +88,7 @@ export default {
               path: 'observed_7',
             },
             {
-              name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族音樂',
+              name: '原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
               path: 'observed_8',
             },
             {
@@ -104,7 +104,7 @@ export default {
         },
         {
           name:'藝術(當代創作)音樂',
-          path: 'observed',
+          path: 'observed_01',
           arr_1:[
             {
               name: '國樂',
@@ -119,7 +119,7 @@ export default {
         },
         {
           name:'流行音樂',
-          path: 'observed',
+          path: 'observed_02',
           arr_1:[
             {
               name: '流行音樂',
@@ -130,7 +130,7 @@ export default {
         },
         {
           name:'跨界音樂',
-          path: 'observed',
+          path: 'observed_03',
           arr_1:[
             {
               name: '跨界音樂',
@@ -152,6 +152,7 @@ export default {
         let dom1 = document.querySelector('.customMenu1')
         let dom2 = document.querySelector('.customMenu2')
         let dom3 = document.querySelector('.customMenu3')
+        this.$router.push(`/observed/${link}`);
         // if(link.isOpen){
         //   link.isOpen = false
         // }

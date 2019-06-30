@@ -70,7 +70,7 @@
       海峽情－躍動金門》(蘇文慶)、《海印鐘聲》(劉長遠)演出，甚具地方主體特色。
     </p>
     <p>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;東部地區在宜蘭花東都有國樂場次的演出。宜蘭青少年樂團2018年第九度評選為宜蘭縣傑出演藝團隊，今年致力於臺灣各地及出國的巡演；A
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;東部地區在宜蘭花東都有國樂場次的演出。宜蘭青少年國樂團2018年第九度評選為宜蘭縣傑出演藝團隊，今年致力於臺灣各地及出國的巡演；A
       Root 同根生樂團在宜蘭演藝廳的展演，在傳統素材基底之下展開跨界創意作品，給宜蘭聽眾以別開生面的欣賞經驗。花蓮的國樂演出雖然較少，當地藝才班以及國樂社團的成果演出，以及少數立案團體的演出，也是地方國樂推展的基礎。花蓮縣政府立案的洄瀾國樂團積極以箏樂團形式進行公眾演出，以及南藝國樂系弓弦樂團在花蓮的巡迴演出成為樂界話題，也是值得注目的焦點。
     </p>
     <b>(三)個別樂器族群的表演生態</b>
@@ -518,8 +518,8 @@
         <td class="tableCenter" style="width:15%">日期/時間</td>
         <td class="tableCenter" style="width:10%">類型</td>
         <td class="tableCenter">節目名稱</td>
-        <td class="tableCenter">地點</td>
-        <td class="tableCenter">入場方式</td>
+        <td class="tableCenter" style="width:15%">地點</td>
+        <td class="tableCenter" style="width:15%">入場方式</td>
       </tr>
       <tr>
         <td>07/22(日) 14:30</td>

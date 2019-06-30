@@ -41,7 +41,7 @@ export default {
           arr_1:[
             {
               name: '南管音樂篇',
-              path: '',
+              path: 'indexDir_12',
             },
             {
               name: '北管音樂篇',

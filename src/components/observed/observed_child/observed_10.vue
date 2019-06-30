@@ -196,7 +196,7 @@
           <p style="text-align:center">引磬(李秀琴攝影)</p>
         </td>
         <td>
-          <img style="max-width:100%" src="./../../../assets/ob10/04.jpg" alt>
+          <img style="max-width:100%;" src="./../../../assets/ob10/04.jpg" alt>
           <p style="text-align:center">雙鐘(或碰鈴，李秀琴攝影)</p>
         </td>
       </tr>
@@ -272,7 +272,7 @@
         </td>
         <td>
           <img style="max-width:100%" src="./../../../assets/ob10/12.jpg" alt>
-          <p style="text-align:center">林道長雙手抱斗燈旋轉，正在進行「轉斗」之動作(李秀琴攝影)</p>
+          <p style="text-align:center">林道長雙手抱斗燈旋轉，正在進行「轉斗」之動作<br>(李秀琴攝影)</p>
         </td>
       </tr>
     </table>
@@ -391,7 +391,7 @@
     <small>11.參閱：任宗權，〈道教全真正韻的淵源及演變〉，2019/3/2，http://chinataoism.org/showtopic.php?id=968&cate_id=510 </small><br>
     <small>12.一般的稱呼為鐺子、鐺鐺；但蘇道長稱之為雙星，兩面鑼的音高為5度關係。</small><br>
     <small>13.蘇道長稱之為鐺子，民間的稱呼為鏜鑼或手鑼，因為用手提之而敲打。</small><br>
-    <small>14.參閱：洪本訓，《法教普唵派請壇儀式的咒語與音樂－以台北普安堂為核心探討》，頁122，臺北：真理大學宗教文化與組織管理學系，碩士論文，2018。</small>
+    <small>14.參閱：洪本訓，《法教普唵派請壇儀式的咒語與音樂－以台北普安堂為核心探討》，頁122，臺北：真理大學宗教文化與組織管理學系，碩士論文，2018。</small><br>
     <small>15.兩項流程由洪本訓提供。</small>
     </div>
   </div>

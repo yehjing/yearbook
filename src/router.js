@@ -14,6 +14,10 @@ import Idea from '@/components/idea';
 import Idea_1 from '@/components/idea/idea_child/idea_1';
 // observed
 import Observed from '@/components/observed';
+import Observed_00 from '@/components/observed/observed_child/observed_00';
+import Observed_01 from '@/components/observed/observed_child/observed_01';
+import Observed_02 from '@/components/observed/observed_child/observed_02';
+import Observed_03 from '@/components/observed/observed_child/observed_03';
 import Observed_1 from '@/components/observed/observed_child/observed_1';
 import Observed_2 from '@/components/observed/observed_child/observed_2';
 import Observed_3 from '@/components/observed/observed_child/observed_3';
@@ -35,6 +39,10 @@ import Comment_1 from '@/components/comment/comment_child/comment_1';
 import Comment_2 from '@/components/comment/comment_child/comment_2';
 import Comment_3 from '@/components/comment/comment_child/comment_3';
 // video
+import VideoRecord_00 from '@/components/videoRecord/video_child/video_00';
+import VideoRecord_01 from '@/components/videoRecord/video_child/video_01';
+import VideoRecord_02 from '@/components/videoRecord/video_child/video_02';
+import VideoRecord_03 from '@/components/videoRecord/video_child/video_03';
 import VideoRecord from '@/components/videoRecord';
 import VideoRecord_1 from '@/components/videoRecord/video_child/video_1';
 import VideoRecord_2 from '@/components/videoRecord/video_child/video_2';
@@ -52,6 +60,7 @@ import VideoRecord_13 from '@/components/videoRecord/video_child/video_13';
 import VideoRecord_14 from '@/components/videoRecord/video_child/video_14';
 // indexDir
 import IndexDir from '@/components/indexDir';
+import IndexDir_00 from '@/components/indexDir/indexDir_child/indexDir_00';
 import IndexDir_1 from '@/components/indexDir/indexDir_child/indexDir_1';
 import IndexDir_2 from '@/components/indexDir/indexDir_child/indexDir_2';
 import IndexDir_3 from '@/components/indexDir/indexDir_child/indexDir_3';
@@ -133,8 +142,28 @@ export default new VueRouter({
       component: Observed,
       children: [
         {
-          name: '傳統音樂 / 南管音樂',
+          name: '傳統音樂',
           path: '/',
+          component: Observed_00,
+        },
+        {
+          name: '藝術(當代創作)音樂',
+          path: 'Observed_01',
+          component: Observed_01,
+        },
+        {
+          name: '流行音樂',
+          path: 'Observed_02',
+          component: Observed_02,
+        },
+        {
+          name: '跨界音樂',
+          path: 'Observed_03',
+          component: Observed_03,
+        },
+        {
+          name: '傳統音樂 / 南管音樂',
+          path: 'Observed_1',
           component: Observed_1,
         },
         {
@@ -232,8 +261,28 @@ export default new VueRouter({
       component: VideoRecord,
       children: [
         {
-          name: '傳統音樂 / 南管音樂',
+          name: '傳統音樂',
           path: '/',
+          component: VideoRecord_00,
+        },
+        {
+          name: '藝術(當代創作)音樂',
+          path: 'videoRecord_01',
+          component: VideoRecord_01,
+        },
+        {
+          name: '流行音樂',
+          path: 'videoRecord_02',
+          component: VideoRecord_02,
+        },
+        {
+          name: '跨界音樂',
+          path: 'videoRecord_03',
+          component: VideoRecord_03,
+        },
+        {
+          name: '傳統音樂 / 南管音樂',
+          path: 'videoRecord_1',
           component: VideoRecord_1,
         },
         {
@@ -297,7 +346,7 @@ export default new VueRouter({
           component: VideoRecord_13,
         },
         {
-          name: '流行音樂 / 流行音樂',
+          name: '跨界音樂 / 跨界音樂',
           path: 'videoRecord_14',
           component: VideoRecord_14,
         },
@@ -309,8 +358,13 @@ export default new VueRouter({
       component: IndexDir,
       children: [
         {
-          name: '團體與個人 / 南管音樂篇',
+          name: '索引名錄',
           path: '/',
+          component: IndexDir_00,
+        },
+        {
+          name: '團體與個人 / 南管音樂篇',
+          path: 'IndexDir_12',
           component: IndexDir_12,
         },
         {

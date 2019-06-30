@@ -1029,7 +1029,7 @@
             <br>0919-362-104
           </td>
           <td>
-            <a target="_" href="http://yoyo4586287yahoo.com.tw/">連結</a>
+            <a target="_" href="https://www.facebook.com/a034586287/">連結</a>
           </td>
           <td></td>
         </tr>
