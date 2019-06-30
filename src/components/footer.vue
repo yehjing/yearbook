@@ -10,12 +10,12 @@
         </p>
         <p style="display:flex;align-items:center;">
           <span>主辦</span>
-          <img width="100" src="./../assets/中心logo全拷貝.png" alt />
-          <img width="100" src="./../assets/logo檔案-橫式彩色.png" alt />
+          <img width="150" src="./../assets/中心logo全拷貝.png" alt />
+          <img width="150" src="./../assets/logo檔案-橫式彩色.png" alt />
         </p>
         <!-- <p style="display:flex;align-items:center;"><span>製作</span></p> -->
         <div style="display:flex;align-items:center;">
-          <span>執行</span>
+          <span style="margin-right:5px">執行</span>
           <img width="40" src="./../assets/學會會徽AI檔-01.png" alt />
           <span>&nbsp;&nbsp;中華民國國樂學會</span>
         </div>
