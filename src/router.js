@@ -4,6 +4,7 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from './components/home';
+import Know from './components/know';
 // intro
 import Introduction from './components/introduction';
 import Introduction_1 from './components/introduction/intro/intro_1';
@@ -101,6 +102,11 @@ export default new VueRouter({
       name: '首頁',
       path: '/home',
       component: Home,
+    },
+    {
+      name: '著作權聲明',
+      path: '/know',
+      component: Know,
     },
     {
       name: '序',

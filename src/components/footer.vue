@@ -20,7 +20,7 @@
           <span>&nbsp;&nbsp;中華民國國樂學會</span>
         </div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
-        <p>隱私權及安全政策宣示 ｜ 著作權聲明</p>
+        <p><router-link :to="'/know'">著作權聲明</router-link></p>
       </div>
     </div>
     <div class="footerRight">
