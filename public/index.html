@@ -18,6 +18,13 @@
         s.parentNode.insertBefore(gcse, s);
       })();
     </script>
+    <script>
+      document.oncontextmenu = function(e){
+        if(e.target.tagName === 'IMG'){
+          return false
+        }
+      }
+      </script>
   </head>
   <body>
     <noscript>
