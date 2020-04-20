@@ -6,17 +6,17 @@
         <!-- <p>電話：03-9705815 / 傳真：03-9605237 / 地址：26841宜蘭縣五結鄉季新村五濱路二段201號</p> -->
         <p style="display:flex;align-items:center;">
           <span>指導</span>
-          <img width="100" src="./../assets/文化部logo標準色-02.png" alt />
+          <img width="100" src="./../assets/logoinit.png" alt />
         </p>
         <p style="display:flex;align-items:center;">
           <span>主辦</span>
-          <img width="150" src="./../assets/中心logo全拷貝.png" alt />
-          <img width="150" src="./../assets/logo檔案-橫式彩色.png" alt />
+          <img width="150" src="./../assets/centerlogo.png" alt />
+          <img width="150" src="./../assets/logocolor.png" alt />
         </p>
         <!-- <p style="display:flex;align-items:center;"><span>製作</span></p> -->
         <div style="display:flex;align-items:center;">
           <span style="margin-right:5px">執行</span>
-          <img width="20" src="./../assets/學會會徽AI檔-01.png" alt />
+          <img width="20" src="./../assets/ai.png" alt />
           <span>&nbsp;&nbsp;中華民國國樂學會</span>
         </div>
         <p>©2019國立傳統藝術中心版權所有 All rights reserved. 建議瀏覽狀態 1280 x 800 以上.</p>
@@ -37,7 +37,10 @@
           <a href="https://www.ncfta.gov.tw/onlineobject_151_43.html">聯絡我們</a>
         </p>
         <br />
-        <p>瀏覽人次 {{today}}</p>
+        <span id="busuanzi_container_site_uv">
+          瀏覽人次 <span id="busuanzi_value_site_uv"></span>
+        </span>
+        <!-- <p>瀏覽人次 {{today}}</p> -->
         <!-- <p>今日訪客：{{today}} 人 &nbsp;/&nbsp; 訪客總計：{{total}} 人 &nbsp;/&nbsp; 內容更新：108-05-11</p> -->
       </div>
     </div>
@@ -49,22 +52,22 @@ export default {
   name: "Footer",
   data() {
     return {
-      total: "",
-      today: ""
+      // total: "",
+      // today: ""
     };
   },
   mounted() {
     // 訪客統計
     // https://sitestates.com/admin/get_code/js_text/13a82a5e8979dd19ace7ef8ad1134f24
-    this.total = document
-      .querySelectorAll(".sitestatesJs")[0]
-      .textContent.replace("Total:", "");
-    this.today = document
-      .querySelectorAll(".sitestatesJs")[1]
-      .textContent.replace("Today:", "");
-    document.querySelectorAll(".sitestatesJs").forEach(el => {
-      el.style.display = "none";
-    });
+    // this.total = document
+    //   .querySelectorAll(".sitestatesJs")[0]
+    //   .textContent.replace("Total:", "");
+    // this.today = document
+    //   .querySelectorAll(".sitestatesJs")[1]
+    //   .textContent.replace("Today:", "");
+    // document.querySelectorAll(".sitestatesJs").forEach(el => {
+    //   el.style.display = "none";
+    // });
   },
   methods: {}
 };
