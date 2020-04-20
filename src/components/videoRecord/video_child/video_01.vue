@@ -1,12 +1,59 @@
 <template>
   <div>
-    <div class="title">
-      <h2>藝術(當代創作)音樂</h2>
+    <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
+      <div class="title">
+        <h2>{{ tab.name }}</h2>
+        <span>{{tab.autor}}</span>
+      </div>
+      <hr>
+      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
     </div>
-    <hr>
-    <p class="firstRow"></p>
-    <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載、論述的內容主要為2018年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2018臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2018臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中藝術（當代創作）篇共收錄9支影片。
-    </p>
   </div>
 </template>
+
+<script>
+import VideoPreface2 from './video_preface2.vue';
+import Video11 from './video_11.vue';
+import Video12 from './video_12.vue';
+
+
+const tabs = [
+  {
+    name: '藝術(當代創作)音樂',
+    autor: '',
+    component: VideoPreface2,
+  },
+  {
+    name: '國樂',
+    autor: '',
+    component: Video11,
+  },
+  {
+    name: '西樂及混合編制',
+    autor: '',
+    component: Video12,
+  },
+];
+
+export default {
+  data() {
+    return {
+      currentTab: tabs[0],
+      tabs,
+    };
+  },
+  created() {
+    // this.$router.push(`observed/${this.tabs[0].name}`);
+  },
+  methods: {
+    changeView(tab) {
+      // this.$router.push({
+      //   params: {
+      //     name: tab.name,
+      //   },
+      // });
+      this.currentTab = tab;
+    },
+  },
+};
+</script>

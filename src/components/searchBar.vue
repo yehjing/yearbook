@@ -2,9 +2,12 @@
   <section class="searchBar">
     <!-- <input class="blackBar" type="text" placeholder="搜尋"> -->
     <div class="searchIcon">
-      <img src="./../assets/search.png" alt="">
+      <!-- <img src="./../assets/search.png" alt=""> -->
     </div>
-    <gcse:search></gcse:search>
+    <!-- google 站內搜尋 -->
+    <div class="gcse-search"></div>
+
+    <!-- <gcse:search></gcse:search> -->
   </section>
 </template>
 

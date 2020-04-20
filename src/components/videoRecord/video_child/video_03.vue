@@ -1,12 +1,53 @@
 <template>
   <div>
-    <div class="title">
-      <h2>跨界音樂</h2>
+    <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
+      <div class="title">
+        <h2>{{ tab.name }}</h2>
+        <span>{{tab.autor}}</span>
+      </div>
+      <hr>
+      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
     </div>
-    <hr>
-    <p class="firstRow"></p>
-    <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載、論述的內容為2018年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項活動實況，《2018臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2018臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中跨界音樂篇收錄1支影片。
-    </p>
   </div>
 </template>
+
+<script>
+import VideoPreface4 from './video_preface4.vue';
+import Video14 from './video_14.vue';
+
+
+const tabs = [
+  {
+    name: '跨界音樂(序)',
+    autor: '',
+    component: VideoPreface4,
+  },
+  {
+    name: '跨界音樂',
+    autor: '',
+    component: Video14,
+  },
+];
+
+export default {
+  data() {
+    return {
+      currentTab: tabs[0],
+      tabs,
+    };
+  },
+  created() {
+    // this.$router.push(`observed/${this.tabs[0].name}`);
+  },
+  methods: {
+    changeView(tab) {
+      // this.$router.push({
+      //   params: {
+      //     name: tab.name,
+      //   },
+      // });
+      this.currentTab = tab;
+    },
+  },
+};
+</script>

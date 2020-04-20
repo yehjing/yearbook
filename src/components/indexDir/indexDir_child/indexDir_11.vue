@@ -1,10 +1,9 @@
 <template>
   <div>
-    <div class="title">
+    <!-- <div class="title">
       <h2>綜合型藝術節</h2>
-      <!-- <span>林珀姬</span> -->
     </div>
-    <hr>
+    <hr> -->
     <p class="firstRow"></p>
     <table rules="all" style="border:1px solid" cellpadding="5">
       <thead>

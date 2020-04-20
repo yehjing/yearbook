@@ -25,31 +25,32 @@
       </section>
       <Footer></Footer>
     </div>
-    
+
   </div>
 </template>
 
 <script>
-import SearchBar from './components/searchBar'
-import Home from './components/home'
-import BreadCrumb from './components/breadCrumb'
-import Footer from './components/footer'
+import SearchBar from './components/searchBar.vue';
+import Home from './components/home.vue';
+import BreadCrumb from './components/breadCrumb.vue';
+import Footer from './components/footer.vue';
+
 export default {
-  name: "App",
-  components:{
+  name: 'App',
+  components: {
     SearchBar,
     BreadCrumb,
     Footer,
-    Home
+    Home,
   },
-  data(){
+  data() {
     return {
       // color:''
       // isHome:true,
       // isOther:false
-    }
+    };
   },
-  watch:{
+  watch: {
     // '$route'(){
     //   if(this.$route.path.split('/').indexOf(this.now) !== -1){
     //     this.color = 'color'
@@ -58,21 +59,19 @@ export default {
     //   }
     // }
   },
-  computed:{
-    isHome(){
-      if(this.$route.path === '/home'){
-        return true
-      }else {
-        return false
+  computed: {
+    isHome() {
+      if (this.$route.path === '/home') {
+        return true;
       }
+      return false;
     },
-    isOther(){
-      if(this.$route.path !== '/home'){
-        return true
-      }else {
-        return false
+    isOther() {
+      if (this.$route.path !== '/home') {
+        return true;
       }
-    }
+      return false;
+    },
   },
   mounted() {
     /**
@@ -81,10 +80,10 @@ export default {
     const { NODE_ENV } = process.env;
     document.documentElement.className = NODE_ENV;
 
-    document.getElementById('gsc-i-id1').setAttribute('placeholder','搜尋')
+    // document.getElementById('gsc-i-id1').setAttribute('placeholder','搜尋')
   },
-  methods:{
-  }
+  methods: {
+  },
 };
 </script>
 <style rel="stylesheet/scss" lang="scss">
@@ -99,9 +98,9 @@ a{
   text-decoration: none;
 }
 body{
-  background: linear-gradient(to bottom, #BB6400, #FF9100);
+  background: linear-gradient(to bottom, #a85757, #b96565);
 }
-.router-link-active{
+nav .router-link-active{
   transition:.2s;
   color: #fff !important;
 }

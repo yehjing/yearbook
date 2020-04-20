@@ -1,13 +1,53 @@
 <template>
   <div>
-    <div class="title">
-      <h2>流行音樂</h2>
-      <!-- <span>林珀姬</span> -->
+    <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
+      <div class="title">
+        <h2>{{ tab.name }}</h2>
+        <span>{{tab.autor}}</span>
+      </div>
+      <hr>
+      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
     </div>
-    <hr>
-    <p class="firstRow"></p>
-    <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《2018臺灣音樂年鑑》年度活動觀察與評介— 流行音樂篇，將流行音樂的展演活動及出版獨立成項予以紀錄，由專家學者針對其活動成果撰寫年度評介，希望藉由多角度的觀察，紀錄流行音樂相關政策、民間團體作為、人文生態及學術研究等面向之發展。
-    </p>
   </div>
 </template>
+
+<script>
+import ObservedPreface3 from './observed_preface3.vue';
+import Observed13 from './observed_13.vue';
+
+
+const tabs = [
+  {
+    name: '流行音樂',
+    autor: '',
+    component: ObservedPreface3,
+  },
+  {
+    name: '2018年度流行音樂活動觀察與評介',
+    autor: '徐玫玲',
+    component: Observed13,
+  },
+];
+
+export default {
+  data() {
+    return {
+      currentTab: tabs[0],
+      tabs,
+    };
+  },
+  created() {
+    // this.$router.push(`observed/${this.tabs[0].name}`);
+  },
+  methods: {
+    changeView(tab) {
+      // this.$router.push({
+      //   params: {
+      //     name: tab.name,
+      //   },
+      // });
+      this.currentTab = tab;
+    },
+  },
+};
+</script>

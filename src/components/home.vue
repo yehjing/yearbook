@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name:'Home',
+  name: 'Home',
   data() {
     return {
     }
@@ -24,7 +24,7 @@ $image-path: './../assets';
   .indexBg{
     width: 100%;
     height: calc(100vh - 152px);
-    background:url('#{$image-path}/indexBg.jpg') no-repeat 0 0;
+    background:url('#{$image-path}/indexBg.png') no-repeat 0 0;
     background-size: cover;
   }
 </style>

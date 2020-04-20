@@ -1,13 +1,13 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
+      <div class="middleItem noLeaf" :class="activeName === '' ? 'active' :''" @click="clickLink('')">
         國立傳統藝術中心主任序
       </div>
-      <div class="middleItem" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
+      <div class="middleItem noLeaf" :class="activeName === 'introduction_2' ? 'active' :''" @click="clickLink('introduction_2')">
         臺灣音樂館館主任序
       </div>
-      <div class="middleItem" :class="activeName === 'introduction_3' ? 'active' :''" @click="clickLink('introduction_3')">
+      <div class="middleItem noLeaf" :class="activeName === 'introduction_3' ? 'active' :''" @click="clickLink('introduction_3')">
         主編序
       </div>
     </aside>
@@ -19,21 +19,22 @@
 </template>
 
 <script>
-import Share from './../share.vue';
+import Share from '../share.vue';
+
 export default {
-  components:{
-    Share
+  components: {
+    Share,
   },
   data() {
-    return{
-      activeName:''
-    }
+    return {
+      activeName: '',
+    };
   },
   created() {
   },
   methods: {
     clickLink(data) {
-      this.activeName = data
+      this.activeName = data;
       this.$router.push(`/introduction/${data}`);
     },
   },
