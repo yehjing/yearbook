@@ -22,7 +22,7 @@ export default {
     }
   },
   created(){
-    // console.log(this.$route)
+    console.log(this.$route)
   },
   computed:{
     bread(){
@@ -31,7 +31,7 @@ export default {
   },
   methods: {
     name(itemName) {
-      // console.log('ccc',itemName.indexOf('/'))
+      console.log('ccc',itemName.indexOf('/'))
       if(itemName && itemName.indexOf('/') !== -1){
         let nameList = itemName.split('/')
         return `${nameList[0]}\xa0\ / \xa0\ ${nameList[1]}`

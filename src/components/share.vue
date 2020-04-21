@@ -11,12 +11,12 @@ export default {
   name:'Share',
   data() {
     return {
-      baseUrl:'https://taiwanmusicyearbook.ncfta.gov.tw'
+      baseUrl:'https://yehjing.github.io/yearbook/dist/#'
     }
   },
   methods: {
     shareToFb(){
-      // console.log(this.$route)
+      console.log(this.$route)
       location.href=`https://www.facebook.com/sharer/sharer.php?u=${this.baseUrl}${this.$route.path}`
     },
     shareToTwitter(){
