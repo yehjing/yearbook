@@ -4,7 +4,6 @@ $image-path: 'assets';
   height: auto;
   .wrapContain{
     display: flex;
-    flex-direction: column;
   }
   .headerContent{
     width: 100%;
@@ -22,17 +21,15 @@ $image-path: 'assets';
   nav{
     width: 100%;
     height: 67.3px;
-    background-color: #923b3e;
-    // background-color: #ffde00;
+    background-color: #ffde00;
     display: flex;
     justify-content: center;
     ul{
-      // width: 80%;
-      width: 100%;
+      width: 80%;
       height: 100%;
       display: flex;
       margin: 0;
-      overflow-x: scroll;
+      // justify-content: center;
       align-items: center;
       li{
         // height: 100%;
@@ -40,7 +37,6 @@ $image-path: 'assets';
         align-items: center;
         justify-content: center;
         flex:1;
-        min-width: 130px;
         height: 22px;
         border-right:1px solid #000; 
         font-size: 16px;
@@ -50,8 +46,7 @@ $image-path: 'assets';
           border-left:1px solid #000; 
         }
         a{
-          white-space: nowrap;
-          color: #c4c4c4;
+          color: #000;
         }
       }
     }
@@ -64,44 +59,31 @@ $image-path: 'assets';
     min-height: 960px;
     background: url('#{$image-path}/bg.png');
     .insideArea{
-      width: 100%;
+      width: 75%;
       min-height: 960px;
-      background: rgba(255, 255, 255, 0.5);
-      // background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6));
+      background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6));
       box-sizing: border-box;
       padding: 4%;
     }
     .linkLeft{
-      display: flex;
-
-      // width: 22%;
-      .linkGroup{
-        width: 20%;
-      }
+      width: 22%;
       .middleItem{
         cursor: pointer;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        // width: calc(100% - 40px);
-        min-height: 80px;
+        width: calc(100% - 40px);
+        height: 80px;
         padding: 0 20px;
         // font-size:20px;
         font-size:1.2rem;
         font-weight: bold;
-        background: #e5e5e5;
-        // background: linear-gradient(to bottom, rgba(199, 199, 199, 0.5), rgba(250, 250, 250, 0.5));
-        margin-right: .5em;
-        border-radius: 5px 5px 0 0;
+        background: linear-gradient(to bottom, rgba(199, 199, 199, 0.5), rgba(250, 250, 250, 0.5));
         &.active{
           background: #fff;
         }
       }
-      .noLeaf{
-        width: 12%;
-      }
       .leafItem{
-        width: calc(100% - .5em);
         position: relative;
         cursor: pointer;
         display: flex;
@@ -133,7 +115,7 @@ $image-path: 'assets';
       justify-content: space-between;
       text-align: justify;
       line-height: 1.5;
-      // width: 90%;
+      width: 78%;
       min-height: 720px;
       max-height: 1000px;
       // overflow: auto;
@@ -174,11 +156,9 @@ $image-path: 'assets';
       }
       .title{
         display:flex;
-        width: 100%;
         align-items: flex-end;
         justify-content:space-between;
-        margin:20px 0;
-        color: #000;
+        margin-bottom:30px;
         span{
           display: flex;
           justify-content: flex-end;
@@ -230,8 +210,8 @@ h3{
     font-family: '標楷體' !important;
   }
 }
-// @media (max-width: 1200px) { 
-//   .wrap{
-//     width: 1920px;
-//   }
-// }
+@media (max-width: 1200px) { 
+  .wrap{
+    width: 1920px;
+  }
+}

@@ -1,53 +1,12 @@
 <template>
   <div>
-    <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
-      <div class="title">
-        <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
-      </div>
-      <hr>
-      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
+    <div class="title">
+      <h2>跨界音樂</h2>
     </div>
+    <hr>
+    <p class="firstRow"></p>
+    <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本年鑑中所收錄之「跨界音樂」，係指介於傳統音樂、藝術(當代創作)音樂、流行音樂，屬於分項領域之間交越跨涉的表演創作案例。其餘或有結合多媒體、新媒體等媒材，抑或是結合戲劇、舞蹈等不同領域的「跨領域」表現形式；以及結合不同文化的「跨文化」音樂交融，是不同層面、不同意義的跨涉，亦可能在跨界表演的場域同時發生。《2018臺灣音樂年鑑》年度活動觀察與評介— 跨界音樂篇由學者以專文進行質性討論，由此趨近觀察跨界音樂的實況，即時地紀錄音樂跨界的現象。
+    </p>
   </div>
 </template>
-
-<script>
-import ObservedPreface4 from './observed_preface4.vue';
-import Observed14 from './observed_14.vue';
-
-
-const tabs = [
-  {
-    name: '跨界音樂',
-    autor: '',
-    component: ObservedPreface4,
-  },
-  {
-    name: '時空交織的絢爛迸發：2018年度跨界音樂活動觀察與評介',
-    autor: '陳慧珊',
-    component: Observed14,
-  },
-];
-
-export default {
-  data() {
-    return {
-      currentTab: tabs[0],
-      tabs,
-    };
-  },
-  created() {
-    // this.$router.push(`observed/${this.tabs[0].name}`);
-  },
-  methods: {
-    changeView(tab) {
-      // this.$router.push({
-      //   params: {
-      //     name: tab.name,
-      //   },
-      // });
-      this.currentTab = tab;
-    },
-  },
-};
-</script>

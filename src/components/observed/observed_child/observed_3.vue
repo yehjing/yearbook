@@ -1,10 +1,10 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>2018年度福佬歌謠活動觀察與評介</h2>
       <span>黃玲玉</span>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>前言</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由國立傳統藝術中心委託中華民國國樂學會所執行的「2018臺灣音樂年鑑編輯計畫(案號：1072217)」，共有14個子題，筆者所負責的是「傳統音樂」領域中的「福佬音樂族群」中的第3子題「福佬歌謠」(包括福佬歌謠與說唱音樂)。</p>

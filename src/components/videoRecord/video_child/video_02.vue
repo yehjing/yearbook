@@ -1,53 +1,12 @@
 <template>
   <div>
-    <div v-for="tab in tabs" :key="tab.name" @click="changeView(tab)">
-      <div class="title">
-        <h2>{{ tab.name }}</h2>
-        <span>{{tab.autor}}</span>
-      </div>
-      <hr>
-      <component v-if="currentTab.name === tab.name" :is="currentTab.component"></component>
+    <div class="title">
+      <h2>流行音樂</h2>
     </div>
+    <hr>
+    <p class="firstRow"></p>
+    <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有鑑於本年鑑所記載、論述的內容主要為2018年度臺灣音樂活動，影音紀錄更能幫助民眾理解以音樂為主體的各項音樂動態，《2018臺灣音樂年鑑》工作團隊擇選具有代表性的音樂活動影像，以做為《2018臺灣音樂年鑑》的保存與補充資料。本年鑑共收錄51支臺灣音樂影音紀錄，其中流行音樂篇收錄2支影片。
+    </p>
   </div>
 </template>
-
-<script>
-import VideoPreface3 from './video_preface3.vue';
-import Video13 from './video_13.vue';
-
-
-const tabs = [
-  {
-    name: '流行音樂(序)',
-    autor: '',
-    component: VideoPreface3,
-  },
-  {
-    name: '流行音樂',
-    autor: '',
-    component: Video13,
-  },
-];
-
-export default {
-  data() {
-    return {
-      currentTab: tabs[0],
-      tabs,
-    };
-  },
-  created() {
-    // this.$router.push(`observed/${this.tabs[0].name}`);
-  },
-  methods: {
-    changeView(tab) {
-      // this.$router.push({
-      //   params: {
-      //     name: tab.name,
-      //   },
-      // });
-      this.currentTab = tab;
-    },
-  },
-};
-</script>

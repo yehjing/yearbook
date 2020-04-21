@@ -1,10 +1,10 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>時空交織的絢爛迸發：2018年度跨界音樂活動觀察與評介</h2>
       <span>陳慧珊</span>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>前言</h3>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;身處在東亞樞紐的臺灣，宛如織品上重要的鈕扣，將不同色彩的布料緊緊扣牢，交織成一斑斕炫麗的作品。</p>

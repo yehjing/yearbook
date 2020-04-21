@@ -1,9 +1,10 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>福佬歌謠篇</h2>
+      <!-- <span>林珀姬</span> -->
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <!-- <h3>福佬歌謠 團體名錄索引</h3> -->
     <table rules="all" style="border:1px solid" cellpadding="5">

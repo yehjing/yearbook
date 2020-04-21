@@ -1,7 +1,7 @@
 <template>
   <section class="wrapContain">
     <aside class="linkLeft">
-      <div class="middleItem active noLeaf" @click="clickLink('')">2018臺灣音樂年鑑全文下載</div>
+      <div class="middleItem active" @click="clickLink('')">2018臺灣音樂年鑑全文下載</div>
     </aside>
     <div class="viewRight">
       <router-view></router-view>

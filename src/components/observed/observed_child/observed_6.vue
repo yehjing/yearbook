@@ -1,10 +1,10 @@
 <template>
   <div>
-    <!-- <div class="title">
+    <div class="title">
       <h2>2018年度太魯閣族、鄒族、撒奇萊雅族、達悟族音樂活動觀察與評介</h2>
       <span>錢善華</span>
     </div>
-    <hr> -->
+    <hr>
     <p class="firstRow"></p>
     <h3>壹、太魯閣族</h3>
     <h4>一、太魯閣族族歲時祭儀</h4>

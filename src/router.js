@@ -62,7 +62,6 @@ import VideoRecord_14 from '@/components/videoRecord/video_child/video_14';
 // indexDir
 import IndexDir from '@/components/indexDir';
 import IndexDir_00 from '@/components/indexDir/indexDir_child/indexDir_00';
-import IndexDir_01 from '@/components/indexDir/indexDir_child/indexDir_01';
 import IndexDir_1 from '@/components/indexDir/indexDir_child/indexDir_1';
 import IndexDir_2 from '@/components/indexDir/indexDir_child/indexDir_2';
 import IndexDir_3 from '@/components/indexDir/indexDir_child/indexDir_3';
@@ -169,76 +168,76 @@ export default new VueRouter({
           path: 'Observed_03',
           component: Observed_03,
         },
-      //   {
-      //     name: '傳統音樂 / 南管音樂',
-      //     path: 'Observed_1',
-      //     component: Observed_1,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 北管音樂',
-      //     path: 'Observed_2',
-      //     component: Observed_2,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 福佬歌謠',
-      //     path: 'Observed_3',
-      //     component: Observed_3,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 客家音樂',
-      //     path: 'Observed_4',
-      //     component: Observed_4,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
-      //     path: 'Observed_5',
-      //     component: Observed_5,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
-      //     path: 'Observed_6',
-      //     component: Observed_6,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
-      //     path: 'Observed_7',
-      //     component: Observed_7,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
-      //     path: 'Observed_8',
-      //     component: Observed_8,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 佛、釋教音樂',
-      //     path: 'Observed_9',
-      //     component: Observed_9,
-      //   },
-      //   {
-      //     name: '傳統音樂 / 道、法教音樂',
-      //     path: 'Observed_10',
-      //     component: Observed_10,
-      //   },
-        // {
-        //   name: '藝術(當代創作)音樂 / 國樂',
-        //   path: 'Observed_11',
-        //   component: Observed_11,
-        // },
-      //   {
-      //     name: '藝術(當代創作)音樂 / 西樂及混合編制',
-      //     path: 'Observed_12',
-      //     component: Observed_12,
-      //   },
-        // {
-        //   name: '流行音樂 / 流行音樂',
-        //   path: 'Observed_13',
-        //   component: Observed_13,
-        // },
-        // {
-        //   name: '跨界音樂 / 跨界音樂',
-        //   path: 'Observed_14',
-        //   component: Observed_14,
-        // },
+        {
+          name: '傳統音樂 / 南管音樂',
+          path: 'Observed_1',
+          component: Observed_1,
+        },
+        {
+          name: '傳統音樂 / 北管音樂',
+          path: 'Observed_2',
+          component: Observed_2,
+        },
+        {
+          name: '傳統音樂 / 福佬歌謠',
+          path: 'Observed_3',
+          component: Observed_3,
+        },
+        {
+          name: '傳統音樂 / 客家音樂',
+          path: 'Observed_4',
+          component: Observed_4,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－泰雅族、賽夏族、阿美族、卑南族音樂',
+          path: 'Observed_5',
+          component: Observed_5,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－太魯閣族、鄒族、撒奇萊雅族、雅美（達悟）族',
+          path: 'Observed_6',
+          component: Observed_6,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－排灣族、魯凱族、卡那卡那富族、拉阿魯哇族、平埔族',
+          path: 'Observed_7',
+          component: Observed_7,
+        },
+        {
+          name: '傳統音樂 / 原住民音樂－邵族、布農族、噶瑪蘭族、賽德克族',
+          path: 'Observed_8',
+          component: Observed_8,
+        },
+        {
+          name: '傳統音樂 / 佛、釋教音樂',
+          path: 'Observed_9',
+          component: Observed_9,
+        },
+        {
+          name: '傳統音樂 / 道、法教音樂',
+          path: 'Observed_10',
+          component: Observed_10,
+        },
+        {
+          name: '藝術(當代創作)音樂 / 國樂',
+          path: 'Observed_11',
+          component: Observed_11,
+        },
+        {
+          name: '藝術(當代創作)音樂 / 西樂及混合編制',
+          path: 'Observed_12',
+          component: Observed_12,
+        },
+        {
+          name: '流行音樂 / 流行音樂',
+          path: 'Observed_13',
+          component: Observed_13,
+        },
+        {
+          name: '跨界音樂 / 跨界音樂',
+          path: 'Observed_14',
+          component: Observed_14,
+        },
       ],
     },
     {
@@ -371,118 +370,113 @@ export default new VueRouter({
           component: IndexDir_00,
         },
         {
-          name: '索引名錄',
-          path: 'indexDir_01',
-          component: IndexDir_01,
-        },
-        {
           name: '團體與個人 / 南管音樂篇',
-          path: 'idexDir_12',
+          path: 'IndexDir_12',
           component: IndexDir_12,
         },
         {
           name: '團體與個人 / 北管音樂篇',
-          path: 'indexDir_13',
+          path: 'IndexDir_13',
           component: IndexDir_13,
         },
         {
           name: '團體與個人 / 福佬歌謠篇',
-          path: 'indexDir_14',
+          path: 'IndexDir_14',
           component: IndexDir_14,
         },
         {
           name: '團體與個人 / 客家音樂篇',
-          path: 'indexDir_15',
+          path: 'IndexDir_15',
           component: IndexDir_15,
         },
         {
           name: '團體與個人 / 原住民音樂篇',
-          path: 'indexDir_16',
+          path: 'IndexDir_16',
           component: IndexDir_16,
         },
         {
           name: '團體與個人 / 佛、釋教音樂篇',
-          path: 'indexDir_17',
+          path: 'IndexDir_17',
           component: IndexDir_17,
         },
         {
           name: '團體與個人 / 道、法教音樂篇',
-          path: 'indexDir_18',
+          path: 'IndexDir_18',
           component: IndexDir_18,
         },
         {
           name: '團體與個人 / 國樂篇',
-          path: 'indexDir_19',
+          path: 'IndexDir_19',
           component: IndexDir_19,
         },
         {
           name: '團體與個人 / 西樂及混合編制篇',
-          path: 'indexDir_20',
+          path: 'IndexDir_20',
           component: IndexDir_20,
         },
         {
           name: '團體與個人 / 流行音樂篇',
-          path: 'indexDir_21',
+          path: 'IndexDir_21',
           component: IndexDir_21,
         },
         {
           name: '團體與個人 / 跨界樂團',
-          path: 'indexDir_22',
+          path: 'IndexDir_22',
           component: IndexDir_22,
         },
         {
           name: '音樂活動 / 南管音樂篇',
-          path: 'indexDir_1',
+          path: 'IndexDir_1',
           component: IndexDir_1,
         },
         {
           name: '音樂活動 / 北管音樂篇',
-          path: 'indexDir_2',
+          path: 'IndexDir_2',
           component: IndexDir_2,
         },
         {
           name: '音樂活動 / 福佬歌謠篇',
-          path: 'indexDir_3',
+          path: 'IndexDir_3',
           component: IndexDir_3,
         },
         {
           name: '音樂活動 / 客家音樂篇',
-          path: 'indexDir_4',
+          path: 'IndexDir_4',
           component: IndexDir_4,
         },
         {
           name: '音樂活動 / 原住民音樂篇',
-          path: 'indexDir_5',
+          path: 'IndexDir_5',
           component: IndexDir_5,
         },
         {
           name: '音樂活動 / 佛、釋教音樂篇',
-          path: 'indexDir_6',
+          path: 'IndexDir_6',
           component: IndexDir_6,
         },
         {
           name: '音樂活動 / 道、法教音樂篇',
-          path: 'indexDir_7',
+          path: 'IndexDir_7',
           component: IndexDir_7,
         },
         {
           name: '音樂活動 / 國樂篇',
-          path: 'indexDir_8',
+          path: 'IndexDir_8',
           component: IndexDir_8,
         },
         {
           name: '音樂活動 / 西樂及混合編制篇',
-          path: 'indexDir_9',
+          path: 'IndexDir_9',
           component: IndexDir_9,
         },
         {
           name: '音樂活動 / 流行音樂篇',
-          path: 'indexDir_10',
+          path: 'IndexDir_10',
           component: IndexDir_10,
         },
         {
           name: '音樂活動 / 綜合型藝術節',
-          path: 'indexDir_11',
+          path: 'IndexDir_11',
           component: IndexDir_11,
         },
       ],
