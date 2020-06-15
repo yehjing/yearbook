@@ -11,7 +11,7 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本年鑑以臺灣各項音樂類型為範圍，除了對音樂本身的觀察外，更重要的是音樂展演背後的時空場域及文化脈絡，由此，本年鑑採取「田野採集」及「蹲點觀察」的方式，以求深層掌握音樂活動發生的背景、人物、外在與環境的互動，以及內在所呈現的美學觀；不論是音樂廳上演的純粹藝術音樂，或是深植於民間儀式、祭典的傳統與原住民音樂，透過專業音樂學者的觀察評介，這部年鑑得以從平面的音樂活動紀錄，深入至文化評論的層次。</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年鑑的價值在於透過逐年的積累，描繪現象在縱向時間軸的脈動，時值2018年，本年鑑編輯委員也觀察到臺灣各類型音樂在不同面向的變遷，如：展演形式、傳承方式、傳播載體&hellip;等，反映了音樂在新時代的適應與邁進；在此感謝編輯團隊戮力以赴、持續不懈地完成調查與編輯工作，期許《2018臺灣音樂年鑑》能作為一部動態的音樂地圖，沿著時間，按圖索驥地尋訪臺灣音樂蹤跡。</p>
     <div style="text-align:right">臺灣音樂館館主任</div>
-    <div style="text-align:right;margin-top:1em"><img src="./../../../assets/館主任中文簽名檔.png" alt=""></div>
+    <div style="text-align:right;margin-top:1em"><img src="./../../../assets/center2.png" alt=""></div>
   </div>
 </template>
 <style lang="scss" scoped>
