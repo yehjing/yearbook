@@ -1,5 +1,17 @@
 <template>
   <section class="searchBar">
+    <div class="webMenu">
+      <div @click="toggleYears = !toggleYears"  class="webYear">
+        <span>2018臺灣音樂年鑑</span>
+        <span>▾</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2020)">
+        <span>2020臺灣音樂年鑑</span>
+      </div>
+      <div v-if="toggleYears" class="webYear" @click="toLastYear(2019)">
+        <span>2019臺灣音樂年鑑</span>
+      </div>
+    </div>
     <!-- <input class="blackBar" type="text" placeholder="搜尋"> -->
     <div class="searchIcon">
       <img src="./../assets/search.png" alt="">
@@ -13,9 +25,13 @@ export default {
   name:'SearchBar',
   data() {
     return {
+      toggleYears: false,
     }
   },
   methods: {
+    toLastYear(year) {
+      document.location.href = `https://taiwanmusicyearbook.ncfta.gov.tw/${year}`;
+    },
   }
 };
 </script>
@@ -50,6 +66,23 @@ export default {
       &:hover{
         cursor: pointer;
       }
+    }
+  }
+  .webMenu{
+    display: block;
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color:#fff;
+    &:hover{
+      cursor: pointer;
+    }
+    .webYear{
+      display: block;
+      margin-left: 20px;
+      height: 50px;
+      line-height: 50px;
     }
   }
 </style>
